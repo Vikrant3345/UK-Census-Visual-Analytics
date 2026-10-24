@@ -1,0 +1,1741 @@
+﻿date,geography,area_code,Regions,Rural Urban,economic_category,population
+2011,Darlington,E06000005,North East (England),Total,Employee: Full-time,30337
+2011,County Durham,E06000047,North East (England),Total,Employee: Full-time,143922
+2011,Hartlepool,E06000001,North East (England),Total,Employee: Full-time,22635
+2011,Middlesbrough,E06000002,North East (England),Total,Employee: Full-time,31301
+2011,Northumberland,E06000057,North East (England),Total,Employee: Full-time,86380
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Employee: Full-time,33372
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Employee: Full-time,52927
+2011,Gateshead,E08000037,North East (England),Total,Employee: Full-time,58988
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Employee: Full-time,69811
+2011,North Tyneside,E08000022,North East (England),Total,Employee: Full-time,61349
+2011,South Tyneside,E08000023,North East (England),Total,Employee: Full-time,40838
+2011,Sunderland,E08000024,North East (England),Total,Employee: Full-time,75899
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Employee: Full-time,35597
+2011,Blackpool,E06000009,North West (England),Total,Employee: Full-time,34230
+2011,Cheshire East,E06000049,North West (England),Total,Employee: Full-time,106863
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Employee: Full-time,95642
+2011,Halton,E06000006,North West (England),Total,Employee: Full-time,37219
+2011,Warrington,E06000007,North West (England),Total,Employee: Full-time,63875
+2011,Allerdale,E07000026,North West (England),Total,Employee: Full-time,25912
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Employee: Full-time,18723
+2011,Carlisle,E07000028,North West (England),Total,Employee: Full-time,31161
+2011,Copeland,E07000029,North West (England),Total,Employee: Full-time,20525
+2011,Eden,E07000030,North West (England),Total,Employee: Full-time,13651
+2011,South Lakeland,E07000031,North West (England),Total,Employee: Full-time,26863
+2011,Bolton,E08000001,North West (England),Total,Employee: Full-time,74631
+2011,Bury,E08000002,North West (England),Total,Employee: Full-time,53953
+2011,Manchester,E08000003,North West (England),Total,Employee: Full-time,128930
+2011,Oldham,E08000004,North West (England),Total,Employee: Full-time,58410
+2011,Rochdale,E08000005,North West (England),Total,Employee: Full-time,55604
+2011,Salford,E08000006,North West (England),Total,Employee: Full-time,67966
+2011,Stockport,E08000007,North West (England),Total,Employee: Full-time,83049
+2011,Tameside,E08000008,North West (England),Total,Employee: Full-time,65546
+2011,Trafford,E08000009,North West (England),Total,Employee: Full-time,68201
+2011,Wigan,E08000010,North West (England),Total,Employee: Full-time,94703
+2011,Burnley,E07000117,North West (England),Total,Employee: Full-time,23187
+2011,Chorley,E07000118,North West (England),Total,Employee: Full-time,33167
+2011,Fylde,E07000119,North West (England),Total,Employee: Full-time,20222
+2011,Hyndburn,E07000120,North West (England),Total,Employee: Full-time,22029
+2011,Lancaster,E07000121,North West (England),Total,Employee: Full-time,34812
+2011,Pendle,E07000122,North West (England),Total,Employee: Full-time,23179
+2011,Preston,E07000123,North West (England),Total,Employee: Full-time,38229
+2011,Ribble Valley,E07000124,North West (England),Total,Employee: Full-time,16105
+2011,Rossendale,E07000125,North West (England),Total,Employee: Full-time,20067
+2011,South Ribble,E07000126,North West (England),Total,Employee: Full-time,35168
+2011,West Lancashire,E07000127,North West (England),Total,Employee: Full-time,29658
+2011,Wyre,E07000128,North West (England),Total,Employee: Full-time,26923
+2011,Knowsley,E08000011,North West (England),Total,Employee: Full-time,38065
+2011,Liverpool,E08000012,North West (England),Total,Employee: Full-time,116778
+2011,Sefton,E08000014,North West (England),Total,Employee: Full-time,71019
+2011,St. Helens,E08000013,North West (England),Total,Employee: Full-time,49968
+2011,Wirral,E08000015,North West (England),Total,Employee: Full-time,83696
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Employee: Full-time,90761
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Employee: Full-time,68035
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Employee: Full-time,42039
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Employee: Full-time,48278
+2011,York,E06000014,Yorkshire and The Humber,Total,Employee: Full-time,57032
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Employee: Full-time,14540
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Employee: Full-time,25377
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Employee: Full-time,46509
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Employee: Full-time,17121
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Employee: Full-time,12760
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Employee: Full-time,24346
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Employee: Full-time,26298
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Employee: Full-time,62841
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Employee: Full-time,80998
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Employee: Full-time,68860
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Employee: Full-time,140933
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Employee: Full-time,125745
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Employee: Full-time,57617
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Employee: Full-time,112199
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Employee: Full-time,217528
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Employee: Full-time,95559
+2011,Derby,E06000015,East Midlands (England),Total,Employee: Full-time,68979
+2011,Leicester,E06000016,East Midlands (England),Total,Employee: Full-time,80780
+2011,Nottingham,E06000018,East Midlands (England),Total,Employee: Full-time,72252
+2011,Rutland,E06000017,East Midlands (England),Total,Employee: Full-time,10314
+2011,Amber Valley,E07000032,East Midlands (England),Total,Employee: Full-time,36229
+2011,Bolsover,E07000033,East Midlands (England),Total,Employee: Full-time,21542
+2011,Chesterfield,E07000034,East Midlands (England),Total,Employee: Full-time,28593
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Employee: Full-time,18153
+2011,Erewash,E07000036,East Midlands (England),Total,Employee: Full-time,34268
+2011,High Peak,E07000037,East Midlands (England),Total,Employee: Full-time,26377
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Employee: Full-time,27073
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Employee: Full-time,29738
+2011,Blaby,E07000129,East Midlands (England),Total,Employee: Full-time,29207
+2011,Charnwood,E07000130,East Midlands (England),Total,Employee: Full-time,47592
+2011,Harborough,E07000131,East Midlands (England),Total,Employee: Full-time,25343
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Employee: Full-time,33087
+2011,Melton,E07000133,East Midlands (England),Total,Employee: Full-time,15481
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Employee: Full-time,28778
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Employee: Full-time,15570
+2011,Boston,E07000136,East Midlands (England),Total,Employee: Full-time,18683
+2011,East Lindsey,E07000137,East Midlands (England),Total,Employee: Full-time,29753
+2011,Lincoln,E07000138,East Midlands (England),Total,Employee: Full-time,26504
+2011,North Kesteven,E07000139,East Midlands (England),Total,Employee: Full-time,32060
+2011,South Holland,E07000140,East Midlands (England),Total,Employee: Full-time,25724
+2011,South Kesteven,E07000141,East Midlands (England),Total,Employee: Full-time,40051
+2011,West Lindsey,E07000142,East Midlands (England),Total,Employee: Full-time,24183
+2011,Corby,E07000150,East Midlands (England),Total,Employee: Full-time,20899
+2011,Daventry,E07000151,East Midlands (England),Total,Employee: Full-time,23617
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Employee: Full-time,26972
+2011,Kettering,E07000153,East Midlands (England),Total,Employee: Full-time,29305
+2011,Northampton,E07000154,East Midlands (England),Total,Employee: Full-time,68363
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Employee: Full-time,27039
+2011,Wellingborough,E07000156,East Midlands (England),Total,Employee: Full-time,23367
+2011,Ashfield,E07000170,East Midlands (England),Total,Employee: Full-time,34795
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Employee: Full-time,31585
+2011,Broxtowe,E07000172,East Midlands (England),Total,Employee: Full-time,33191
+2011,Gedling,E07000173,East Midlands (England),Total,Employee: Full-time,33171
+2011,Mansfield,E07000174,East Midlands (England),Total,Employee: Full-time,29832
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Employee: Full-time,31947
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Employee: Full-time,32677
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Employee: Full-time,48094
+2011,Shropshire,E06000051,West Midlands (England),Total,Employee: Full-time,83106
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Employee: Full-time,67097
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Employee: Full-time,50567
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Employee: Full-time,28840
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Employee: Full-time,33829
+2011,Lichfield,E07000194,West Midlands (England),Total,Employee: Full-time,28837
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Employee: Full-time,34876
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Employee: Full-time,30995
+2011,Stafford,E07000197,West Midlands (England),Total,Employee: Full-time,38948
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Employee: Full-time,27432
+2011,Tamworth,E07000199,West Midlands (England),Total,Employee: Full-time,24514
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Employee: Full-time,18982
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Employee: Full-time,38428
+2011,Rugby,E07000220,West Midlands (England),Total,Employee: Full-time,32415
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Employee: Full-time,33817
+2011,Warwick,E07000222,West Midlands (England),Total,Employee: Full-time,43062
+2011,Birmingham,E08000025,West Midlands (England),Total,Employee: Full-time,251668
+2011,Coventry,E08000026,West Midlands (England),Total,Employee: Full-time,84624
+2011,Dudley,E08000027,West Midlands (England),Total,Employee: Full-time,86654
+2011,Sandwell,E08000028,West Midlands (England),Total,Employee: Full-time,81339
+2011,Solihull,E08000029,West Midlands (England),Total,Employee: Full-time,59212
+2011,Walsall,E08000030,West Midlands (England),Total,Employee: Full-time,67743
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Employee: Full-time,63981
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Employee: Full-time,26705
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Employee: Full-time,18038
+2011,Redditch,E07000236,West Midlands (England),Total,Employee: Full-time,27383
+2011,Worcester,E07000237,West Midlands (England),Total,Employee: Full-time,30777
+2011,Wychavon,E07000238,West Midlands (England),Total,Employee: Full-time,32863
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Employee: Full-time,27045
+2011,Bedford,E06000055,East of England,Total,Employee: Full-time,45943
+2011,Central Bedfordshire,E06000056,East of England,Total,Employee: Full-time,81304
+2011,Luton,E06000032,East of England,Total,Employee: Full-time,53271
+2011,Peterborough,E06000031,East of England,Total,Employee: Full-time,56704
+2011,Southend-on-Sea,E06000033,East of England,Total,Employee: Full-time,47972
+2011,Thurrock,E06000034,East of England,Total,Employee: Full-time,48620
+2011,Cambridge,E07000008,East of England,Total,Employee: Full-time,37350
+2011,East Cambridgeshire,E07000009,East of England,Total,Employee: Full-time,26726
+2011,Fenland,E07000010,East of England,Total,Employee: Full-time,27304
+2011,Huntingdonshire,E07000011,East of England,Total,Employee: Full-time,56515
+2011,South Cambridgeshire,E07000012,East of England,Total,Employee: Full-time,48499
+2011,Basildon,E07000066,East of England,Total,Employee: Full-time,50693
+2011,Braintree,E07000067,East of England,Total,Employee: Full-time,43859
+2011,Brentwood,E07000068,East of England,Total,Employee: Full-time,21677
+2011,Castle Point,E07000069,East of England,Total,Employee: Full-time,23519
+2011,Chelmsford,E07000070,East of England,Total,Employee: Full-time,52442
+2011,Colchester,E07000071,East of England,Total,Employee: Full-time,50589
+2011,Epping Forest,E07000072,East of England,Total,Employee: Full-time,34722
+2011,Harlow,E07000073,East of England,Total,Employee: Full-time,25261
+2011,Maldon,E07000074,East of England,Total,Employee: Full-time,16765
+2011,Rochford,E07000075,East of England,Total,Employee: Full-time,23556
+2011,Tendring,E07000076,East of England,Total,Employee: Full-time,29346
+2011,Uttlesford,E07000077,East of England,Total,Employee: Full-time,22883
+2011,Broxbourne,E07000095,East of England,Total,Employee: Full-time,27083
+2011,Dacorum,E07000096,East of England,Total,Employee: Full-time,44421
+2011,East Hertfordshire,E07000242,East of England,Total,Employee: Full-time,43787
+2011,Hertsmere,E07000098,East of England,Total,Employee: Full-time,28167
+2011,North Hertfordshire,E07000099,East of England,Total,Employee: Full-time,40147
+2011,St Albans,E07000240,East of England,Total,Employee: Full-time,42999
+2011,Stevenage,E07000243,East of England,Total,Employee: Full-time,27053
+2011,Three Rivers,E07000102,East of England,Total,Employee: Full-time,25698
+2011,Watford,E07000103,East of England,Total,Employee: Full-time,30477
+2011,Welwyn Hatfield,E07000241,East of England,Total,Employee: Full-time,31315
+2011,Breckland,E07000143,East of England,Total,Employee: Full-time,36350
+2011,Broadland,E07000144,East of England,Total,Employee: Full-time,34180
+2011,Great Yarmouth,E07000145,East of England,Total,Employee: Full-time,22778
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Employee: Full-time,38946
+2011,North Norfolk,E07000147,East of England,Total,Employee: Full-time,21871
+2011,Norwich,E07000148,East of England,Total,Employee: Full-time,37502
+2011,South Norfolk,E07000149,East of England,Total,Employee: Full-time,33553
+2011,Babergh,E07000200,East of England,Total,Employee: Full-time,23434
+2011,Forest Heath,E07000201,East of England,Total,Employee: Full-time,20939
+2011,Ipswich,E07000202,East of England,Total,Employee: Full-time,40014
+2011,Mid Suffolk,E07000203,East of England,Total,Employee: Full-time,27013
+2011,St Edmundsbury,E07000204,East of England,Total,Employee: Full-time,34373
+2011,Suffolk Coastal,E07000205,East of England,Total,Employee: Full-time,31974
+2011,Waveney,E07000206,East of England,Total,Employee: Full-time,26780
+2011,Camden,E09000007,London,Total,Employee: Full-time,66955
+2011,City of London,E09000001,London,Total,Employee: Full-time,3245
+2011,Hackney,E09000012,London,Total,Employee: Full-time,68680
+2011,Hammersmith and Fulham,E09000013,London,Total,Employee: Full-time,66703
+2011,Haringey,E09000014,London,Total,Employee: Full-time,70472
+2011,Islington,E09000019,London,Total,Employee: Full-time,69852
+2011,Kensington and Chelsea,E09000020,London,Total,Employee: Full-time,51211
+2011,Lambeth,E09000022,London,Total,Employee: Full-time,110465
+2011,Lewisham,E09000023,London,Total,Employee: Full-time,82776
+2011,Newham,E09000025,London,Total,Employee: Full-time,70712
+2011,Southwark,E09000028,London,Total,Employee: Full-time,94675
+2011,Tower Hamlets,E09000030,London,Total,Employee: Full-time,78031
+2011,Wandsworth,E09000032,London,Total,Employee: Full-time,123965
+2011,Westminster,E09000033,London,Total,Employee: Full-time,72899
+2011,Barking and Dagenham,E09000002,London,Total,Employee: Full-time,44490
+2011,Barnet,E09000003,London,Total,Employee: Full-time,93174
+2011,Bexley,E09000004,London,Total,Employee: Full-time,66838
+2011,Brent,E09000005,London,Total,Employee: Full-time,83772
+2011,Bromley,E09000006,London,Total,Employee: Full-time,91506
+2011,Croydon,E09000008,London,Total,Employee: Full-time,105621
+2011,Ealing,E09000009,London,Total,Employee: Full-time,100465
+2011,Enfield,E09000010,London,Total,Employee: Full-time,77326
+2011,Greenwich,E09000011,London,Total,Employee: Full-time,71844
+2011,Harrow,E09000015,London,Total,Employee: Full-time,65492
+2011,Havering,E09000016,London,Total,Employee: Full-time,67989
+2011,Hillingdon,E09000017,London,Total,Employee: Full-time,80835
+2011,Hounslow,E09000018,London,Total,Employee: Full-time,79763
+2011,Kingston upon Thames,E09000021,London,Total,Employee: Full-time,49530
+2011,Merton,E09000024,London,Total,Employee: Full-time,65877
+2011,Redbridge,E09000026,London,Total,Employee: Full-time,71627
+2011,Richmond upon Thames,E09000027,London,Total,Employee: Full-time,61511
+2011,Sutton,E09000029,London,Total,Employee: Full-time,60111
+2011,Waltham Forest,E09000031,London,Total,Employee: Full-time,69385
+2011,Bracknell Forest,E06000036,South East (England),Total,Employee: Full-time,40762
+2011,Brighton and Hove,E06000043,South East (England),Total,Employee: Full-time,75999
+2011,Isle of Wight,E06000046,South East (England),Total,Employee: Full-time,30353
+2011,Medway,E06000035,South East (England),Total,Employee: Full-time,77912
+2011,Milton Keynes,E06000042,South East (England),Total,Employee: Full-time,84004
+2011,Portsmouth,E06000044,South East (England),Total,Employee: Full-time,57743
+2011,Reading,E06000038,South East (England),Total,Employee: Full-time,52054
+2011,Slough,E06000039,South East (England),Total,Employee: Full-time,43610
+2011,Southampton,E06000045,South East (England),Total,Employee: Full-time,68082
+2011,West Berkshire,E06000037,South East (England),Total,Employee: Full-time,51084
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Employee: Full-time,46337
+2011,Wokingham,E06000041,South East (England),Total,Employee: Full-time,51260
+2011,Aylesbury Vale,E07000004,South East (England),Total,Employee: Full-time,54696
+2011,Chiltern,E07000005,South East (England),Total,Employee: Full-time,24978
+2011,South Bucks,E07000006,South East (England),Total,Employee: Full-time,19666
+2011,Wycombe,E07000007,South East (England),Total,Employee: Full-time,51724
+2011,Eastbourne,E07000061,South East (England),Total,Employee: Full-time,24700
+2011,Hastings,E07000062,South East (England),Total,Employee: Full-time,22094
+2011,Lewes,E07000063,South East (England),Total,Employee: Full-time,23792
+2011,Rother,E07000064,South East (England),Total,Employee: Full-time,18498
+2011,Wealden,E07000065,South East (England),Total,Employee: Full-time,36449
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Employee: Full-time,59049
+2011,East Hampshire,E07000085,South East (England),Total,Employee: Full-time,33561
+2011,Eastleigh,E07000086,South East (England),Total,Employee: Full-time,40104
+2011,Fareham,E07000087,South East (England),Total,Employee: Full-time,34450
+2011,Gosport,E07000088,South East (England),Total,Employee: Full-time,25813
+2011,Hart,E07000089,South East (England),Total,Employee: Full-time,29935
+2011,Havant,E07000090,South East (England),Total,Employee: Full-time,32329
+2011,New Forest,E07000091,South East (England),Total,Employee: Full-time,45549
+2011,Rushmoor,E07000092,South East (England),Total,Employee: Full-time,34397
+2011,Test Valley,E07000093,South East (England),Total,Employee: Full-time,36237
+2011,Winchester,E07000094,South East (England),Total,Employee: Full-time,32339
+2011,Ashford,E07000105,South East (England),Total,Employee: Full-time,33223
+2011,Canterbury,E07000106,South East (England),Total,Employee: Full-time,34938
+2011,Dartford,E07000107,South East (England),Total,Employee: Full-time,31440
+2011,Dover,E07000108,South East (England),Total,Employee: Full-time,29124
+2011,Gravesham,E07000109,South East (England),Total,Employee: Full-time,28617
+2011,Maidstone,E07000110,South East (England),Total,Employee: Full-time,46737
+2011,Sevenoaks,E07000111,South East (England),Total,Employee: Full-time,31826
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Employee: Full-time,27386
+2011,Swale,E07000113,South East (England),Total,Employee: Full-time,37613
+2011,Thanet,E07000114,South East (England),Total,Employee: Full-time,29937
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Employee: Full-time,35663
+2011,Tunbridge Wells,E07000116,South East (England),Total,Employee: Full-time,33121
+2011,Cherwell,E07000177,South East (England),Total,Employee: Full-time,46827
+2011,Oxford,E07000178,South East (England),Total,Employee: Full-time,42867
+2011,South Oxfordshire,E07000179,South East (England),Total,Employee: Full-time,41976
+2011,Vale of White Horse,E07000180,South East (England),Total,Employee: Full-time,39197
+2011,West Oxfordshire,E07000181,South East (England),Total,Employee: Full-time,34599
+2011,Elmbridge,E07000207,South East (England),Total,Employee: Full-time,38467
+2011,Epsom and Ewell,E07000208,South East (England),Total,Employee: Full-time,22696
+2011,Guildford,E07000209,South East (England),Total,Employee: Full-time,41942
+2011,Mole Valley,E07000210,South East (England),Total,Employee: Full-time,23808
+2011,Reigate and Banstead,E07000211,South East (England),Total,Employee: Full-time,43619
+2011,Runnymede,E07000212,South East (England),Total,Employee: Full-time,24716
+2011,Spelthorne,E07000213,South East (England),Total,Employee: Full-time,32475
+2011,Surrey Heath,E07000214,South East (England),Total,Employee: Full-time,27645
+2011,Tandridge,E07000215,South East (England),Total,Employee: Full-time,24205
+2011,Waverley,E07000216,South East (England),Total,Employee: Full-time,33014
+2011,Woking,E07000217,South East (England),Total,Employee: Full-time,32336
+2011,Adur,E07000223,South East (England),Total,Employee: Full-time,16445
+2011,Arun,E07000224,South East (England),Total,Employee: Full-time,37607
+2011,Chichester,E07000225,South East (England),Total,Employee: Full-time,27847
+2011,Crawley,E07000226,South East (England),Total,Employee: Full-time,36489
+2011,Horsham,E07000227,South East (England),Total,Employee: Full-time,38028
+2011,Mid Sussex,E07000228,South East (England),Total,Employee: Full-time,42302
+2011,Worthing,E07000229,South East (England),Total,Employee: Full-time,29536
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Employee: Full-time,46367
+2011,Bournemouth,E06000028,South West (England),Total,Employee: Full-time,51149
+2011,"Bristol, City of",E06000023,South West (England),Total,Employee: Full-time,127829
+2011,Cornwall,E06000052,South West (England),Total,Employee: Full-time,123195
+2011,Isles of Scilly,E06000053,South West (England),Total,Employee: Full-time,653
+2011,North Somerset,E06000024,South West (England),Total,Employee: Full-time,55596
+2011,Plymouth,E06000026,South West (England),Total,Employee: Full-time,69234
+2011,Poole,E06000029,South West (England),Total,Employee: Full-time,42040
+2011,South Gloucestershire,E06000025,South West (England),Total,Employee: Full-time,82489
+2011,Swindon,E06000030,South West (England),Total,Employee: Full-time,71912
+2011,Torbay,E06000027,South West (England),Total,Employee: Full-time,29537
+2011,Wiltshire,E06000054,South West (England),Total,Employee: Full-time,143218
+2011,East Devon,E07000040,South West (England),Total,Employee: Full-time,30193
+2011,Exeter,E07000041,South West (England),Total,Employee: Full-time,33015
+2011,Mid Devon,E07000042,South West (England),Total,Employee: Full-time,20163
+2011,North Devon,E07000043,South West (England),Total,Employee: Full-time,22505
+2011,South Hams,E07000044,South West (England),Total,Employee: Full-time,18979
+2011,Teignbridge,E07000045,South West (England),Total,Employee: Full-time,30983
+2011,Torridge,E07000046,South West (England),Total,Employee: Full-time,13948
+2011,West Devon,E07000047,South West (England),Total,Employee: Full-time,12110
+2011,Christchurch,E07000048,South West (England),Total,Employee: Full-time,10786
+2011,East Dorset,E07000049,South West (England),Total,Employee: Full-time,21297
+2011,North Dorset,E07000050,South West (England),Total,Employee: Full-time,18705
+2011,Purbeck,E07000051,South West (England),Total,Employee: Full-time,11568
+2011,West Dorset,E07000052,South West (England),Total,Employee: Full-time,23139
+2011,Weymouth and Portland,E07000053,South West (England),Total,Employee: Full-time,16457
+2011,Cheltenham,E07000078,South West (England),Total,Employee: Full-time,36092
+2011,Cotswold,E07000079,South West (England),Total,Employee: Full-time,21933
+2011,Forest of Dean,E07000080,South West (England),Total,Employee: Full-time,21356
+2011,Gloucester,E07000081,South West (England),Total,Employee: Full-time,38442
+2011,Stroud,E07000082,South West (England),Total,Employee: Full-time,31910
+2011,Tewkesbury,E07000083,South West (England),Total,Employee: Full-time,24881
+2011,Mendip,E07000187,South West (England),Total,Employee: Full-time,28252
+2011,Sedgemoor,E07000188,South West (England),Total,Employee: Full-time,30108
+2011,South Somerset,E07000189,South West (England),Total,Employee: Full-time,44645
+2011,Taunton Deane,E07000190,South West (England),Total,Employee: Full-time,30983
+2011,West Somerset,E07000191,South West (England),Total,Employee: Full-time,7290
+2011,Isle of Anglesey,W06000001,Wales,Total,Employee: Full-time,17274
+2011,Gwynedd,W06000002,Wales,Total,Employee: Full-time,27834
+2011,Conwy,W06000003,Wales,Total,Employee: Full-time,26697
+2011,Denbighshire,W06000004,Wales,Total,Employee: Full-time,23121
+2011,Flintshire,W06000005,Wales,Total,Employee: Full-time,45785
+2011,Wrexham,W06000006,Wales,Total,Employee: Full-time,39011
+2011,Powys,W06000023,Wales,Total,Employee: Full-time,31210
+2011,Ceredigion,W06000008,Wales,Total,Employee: Full-time,15161
+2011,Pembrokeshire,W06000009,Wales,Total,Employee: Full-time,27231
+2011,Carmarthenshire,W06000010,Wales,Total,Employee: Full-time,44839
+2011,Swansea,W06000011,Wales,Total,Employee: Full-time,59606
+2011,Neath Port Talbot,W06000012,Wales,Total,Employee: Full-time,36977
+2011,Bridgend,W06000013,Wales,Total,Employee: Full-time,38066
+2011,Vale of Glamorgan,W06000014,Wales,Total,Employee: Full-time,34955
+2011,Cardiff,W06000015,Wales,Total,Employee: Full-time,97170
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Employee: Full-time,61225
+2011,Merthyr Tydfil,W06000024,Wales,Total,Employee: Full-time,15882
+2011,Caerphilly,W06000018,Wales,Total,Employee: Full-time,50160
+2011,Blaenau Gwent,W06000019,Wales,Total,Employee: Full-time,18147
+2011,Torfaen,W06000020,Wales,Total,Employee: Full-time,25574
+2011,Monmouthshire,W06000021,Wales,Total,Employee: Full-time,24246
+2011,Newport,W06000022,Wales,Total,Employee: Full-time,39177
+2011,Darlington,E06000005,North East (England),Total,Employee: Part-time,11555
+2011,County Durham,E06000047,North East (England),Total,Employee: Part-time,50595
+2011,Hartlepool,E06000001,North East (England),Total,Employee: Part-time,10092
+2011,Middlesbrough,E06000002,North East (England),Total,Employee: Part-time,15063
+2011,Northumberland,E06000057,North East (England),Total,Employee: Part-time,34368
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Employee: Part-time,15322
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Employee: Part-time,22070
+2011,Gateshead,E08000037,North East (England),Total,Employee: Part-time,21023
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Employee: Part-time,25835
+2011,North Tyneside,E08000022,North East (England),Total,Employee: Part-time,21815
+2011,South Tyneside,E08000023,North East (England),Total,Employee: Part-time,15480
+2011,Sunderland,E08000024,North East (England),Total,Employee: Part-time,29186
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Employee: Part-time,14535
+2011,Blackpool,E06000009,North West (England),Total,Employee: Part-time,14836
+2011,Cheshire East,E06000049,North West (England),Total,Employee: Part-time,38940
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Employee: Part-time,36206
+2011,Halton,E06000006,North West (England),Total,Employee: Part-time,13102
+2011,Warrington,E06000007,North West (England),Total,Employee: Part-time,21782
+2011,Allerdale,E07000026,North West (England),Total,Employee: Part-time,11615
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Employee: Part-time,8470
+2011,Carlisle,E07000028,North West (England),Total,Employee: Part-time,13295
+2011,Copeland,E07000029,North West (England),Total,Employee: Part-time,7984
+2011,Eden,E07000030,North West (England),Total,Employee: Part-time,6191
+2011,South Lakeland,E07000031,North West (England),Total,Employee: Part-time,12015
+2011,Bolton,E08000001,North West (England),Total,Employee: Part-time,27798
+2011,Bury,E08000002,North West (England),Total,Employee: Part-time,19118
+2011,Manchester,E08000003,North West (England),Total,Employee: Part-time,41535
+2011,Oldham,E08000004,North West (England),Total,Employee: Part-time,22171
+2011,Rochdale,E08000005,North West (England),Total,Employee: Part-time,20101
+2011,Salford,E08000006,North West (England),Total,Employee: Part-time,21676
+2011,Stockport,E08000007,North West (England),Total,Employee: Part-time,29946
+2011,Tameside,E08000008,North West (England),Total,Employee: Part-time,21377
+2011,Trafford,E08000009,North West (England),Total,Employee: Part-time,22799
+2011,Wigan,E08000010,North West (England),Total,Employee: Part-time,32880
+2011,Burnley,E07000117,North West (England),Total,Employee: Part-time,9129
+2011,Chorley,E07000118,North West (England),Total,Employee: Part-time,11542
+2011,Fylde,E07000119,North West (England),Total,Employee: Part-time,7374
+2011,Hyndburn,E07000120,North West (England),Total,Employee: Part-time,7902
+2011,Lancaster,E07000121,North West (England),Total,Employee: Part-time,14852
+2011,Pendle,E07000122,North West (England),Total,Employee: Part-time,9036
+2011,Preston,E07000123,North West (England),Total,Employee: Part-time,14188
+2011,Ribble Valley,E07000124,North West (England),Total,Employee: Part-time,6023
+2011,Rossendale,E07000125,North West (England),Total,Employee: Part-time,6794
+2011,South Ribble,E07000126,North West (England),Total,Employee: Part-time,11969
+2011,West Lancashire,E07000127,North West (England),Total,Employee: Part-time,11504
+2011,Wyre,E07000128,North West (England),Total,Employee: Part-time,11298
+2011,Knowsley,E08000011,North West (England),Total,Employee: Part-time,15173
+2011,Liverpool,E08000012,North West (England),Total,Employee: Part-time,44816
+2011,Sefton,E08000014,North West (England),Total,Employee: Part-time,29799
+2011,St. Helens,E08000013,North West (England),Total,Employee: Part-time,18169
+2011,Wirral,E08000015,North West (England),Total,Employee: Part-time,34513
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Employee: Part-time,37856
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Employee: Part-time,28041
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Employee: Part-time,19086
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Employee: Part-time,18768
+2011,York,E06000014,Yorkshire and The Humber,Total,Employee: Part-time,22487
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Employee: Part-time,6139
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Employee: Part-time,9843
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Employee: Part-time,16998
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Employee: Part-time,5217
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Employee: Part-time,5773
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Employee: Part-time,12834
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Employee: Part-time,9293
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Employee: Part-time,24807
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Employee: Part-time,33112
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Employee: Part-time,28830
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Employee: Part-time,56868
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Employee: Part-time,52795
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Employee: Part-time,21923
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Employee: Part-time,44638
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Employee: Part-time,73507
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Employee: Part-time,35763
+2011,Derby,E06000015,East Midlands (England),Total,Employee: Part-time,26310
+2011,Leicester,E06000016,East Midlands (England),Total,Employee: Part-time,33341
+2011,Nottingham,E06000018,East Midlands (England),Total,Employee: Part-time,27605
+2011,Rutland,E06000017,East Midlands (England),Total,Employee: Part-time,3847
+2011,Amber Valley,E07000032,East Midlands (England),Total,Employee: Part-time,13374
+2011,Bolsover,E07000033,East Midlands (England),Total,Employee: Part-time,7986
+2011,Chesterfield,E07000034,East Midlands (England),Total,Employee: Part-time,12272
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Employee: Part-time,8270
+2011,Erewash,E07000036,East Midlands (England),Total,Employee: Part-time,12446
+2011,High Peak,E07000037,East Midlands (England),Total,Employee: Part-time,10316
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Employee: Part-time,11679
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Employee: Part-time,10279
+2011,Blaby,E07000129,East Midlands (England),Total,Employee: Part-time,10733
+2011,Charnwood,E07000130,East Midlands (England),Total,Employee: Part-time,17209
+2011,Harborough,E07000131,East Midlands (England),Total,Employee: Part-time,9419
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Employee: Part-time,11408
+2011,Melton,E07000133,East Midlands (England),Total,Employee: Part-time,5636
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Employee: Part-time,9845
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Employee: Part-time,6146
+2011,Boston,E07000136,East Midlands (England),Total,Employee: Part-time,7480
+2011,East Lindsey,E07000137,East Midlands (England),Total,Employee: Part-time,14264
+2011,Lincoln,E07000138,East Midlands (England),Total,Employee: Part-time,9926
+2011,North Kesteven,E07000139,East Midlands (England),Total,Employee: Part-time,11437
+2011,South Holland,E07000140,East Midlands (England),Total,Employee: Part-time,8432
+2011,South Kesteven,E07000141,East Midlands (England),Total,Employee: Part-time,14579
+2011,West Lindsey,E07000142,East Midlands (England),Total,Employee: Part-time,9855
+2011,Corby,E07000150,East Midlands (England),Total,Employee: Part-time,6145
+2011,Daventry,E07000151,East Midlands (England),Total,Employee: Part-time,7904
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Employee: Part-time,8602
+2011,Kettering,E07000153,East Midlands (England),Total,Employee: Part-time,9967
+2011,Northampton,E07000154,East Midlands (England),Total,Employee: Part-time,21026
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Employee: Part-time,9004
+2011,Wellingborough,E07000156,East Midlands (England),Total,Employee: Part-time,7449
+2011,Ashfield,E07000170,East Midlands (England),Total,Employee: Part-time,12976
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Employee: Part-time,12752
+2011,Broxtowe,E07000172,East Midlands (England),Total,Employee: Part-time,11855
+2011,Gedling,E07000173,East Midlands (England),Total,Employee: Part-time,12940
+2011,Mansfield,E07000174,East Midlands (England),Total,Employee: Part-time,11627
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Employee: Part-time,12686
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Employee: Part-time,11753
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Employee: Part-time,20345
+2011,Shropshire,E06000051,West Midlands (England),Total,Employee: Part-time,34760
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Employee: Part-time,24732
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Employee: Part-time,16530
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Employee: Part-time,11009
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Employee: Part-time,12135
+2011,Lichfield,E07000194,West Midlands (England),Total,Employee: Part-time,10890
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Employee: Part-time,12736
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Employee: Part-time,12224
+2011,Stafford,E07000197,West Midlands (England),Total,Employee: Part-time,14101
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Employee: Part-time,10527
+2011,Tamworth,E07000199,West Midlands (England),Total,Employee: Part-time,8566
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Employee: Part-time,6732
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Employee: Part-time,13588
+2011,Rugby,E07000220,West Midlands (England),Total,Employee: Part-time,10096
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Employee: Part-time,12651
+2011,Warwick,E07000222,West Midlands (England),Total,Employee: Part-time,13456
+2011,Birmingham,E08000025,West Midlands (England),Total,Employee: Part-time,96186
+2011,Coventry,E08000026,West Midlands (England),Total,Employee: Part-time,29800
+2011,Dudley,E08000027,West Midlands (England),Total,Employee: Part-time,33987
+2011,Sandwell,E08000028,West Midlands (England),Total,Employee: Part-time,29779
+2011,Solihull,E08000029,West Midlands (England),Total,Employee: Part-time,21701
+2011,Walsall,E08000030,West Midlands (England),Total,Employee: Part-time,26934
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Employee: Part-time,24364
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Employee: Part-time,10393
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Employee: Part-time,7704
+2011,Redditch,E07000236,West Midlands (England),Total,Employee: Part-time,8991
+2011,Worcester,E07000237,West Midlands (England),Total,Employee: Part-time,11000
+2011,Wychavon,E07000238,West Midlands (England),Total,Employee: Part-time,12816
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Employee: Part-time,10994
+2011,Bedford,E06000055,East of England,Total,Employee: Part-time,15841
+2011,Central Bedfordshire,E06000056,East of England,Total,Employee: Part-time,26069
+2011,Luton,E06000032,East of England,Total,Employee: Part-time,18407
+2011,Peterborough,E06000031,East of England,Total,Employee: Part-time,18654
+2011,Southend-on-Sea,E06000033,East of England,Total,Employee: Part-time,17949
+2011,Thurrock,E06000034,East of England,Total,Employee: Part-time,16370
+2011,Cambridge,E07000008,East of England,Total,Employee: Part-time,10001
+2011,East Cambridgeshire,E07000009,East of England,Total,Employee: Part-time,8811
+2011,Fenland,E07000010,East of England,Total,Employee: Part-time,9701
+2011,Huntingdonshire,E07000011,East of England,Total,Employee: Part-time,17780
+2011,South Cambridgeshire,E07000012,East of England,Total,Employee: Part-time,15597
+2011,Basildon,E07000066,East of England,Total,Employee: Part-time,17855
+2011,Braintree,E07000067,East of England,Total,Employee: Part-time,15747
+2011,Brentwood,E07000068,East of England,Total,Employee: Part-time,7142
+2011,Castle Point,E07000069,East of England,Total,Employee: Part-time,9525
+2011,Chelmsford,E07000070,East of England,Total,Employee: Part-time,18138
+2011,Colchester,E07000071,East of England,Total,Employee: Part-time,18471
+2011,Epping Forest,E07000072,East of England,Total,Employee: Part-time,12023
+2011,Harlow,E07000073,East of England,Total,Employee: Part-time,8643
+2011,Maldon,E07000074,East of England,Total,Employee: Part-time,6640
+2011,Rochford,E07000075,East of England,Total,Employee: Part-time,9179
+2011,Tendring,E07000076,East of England,Total,Employee: Part-time,14148
+2011,Uttlesford,E07000077,East of England,Total,Employee: Part-time,8306
+2011,Broxbourne,E07000095,East of England,Total,Employee: Part-time,9790
+2011,Dacorum,E07000096,East of England,Total,Employee: Part-time,14422
+2011,East Hertfordshire,E07000242,East of England,Total,Employee: Part-time,14070
+2011,Hertsmere,E07000098,East of England,Total,Employee: Part-time,9622
+2011,North Hertfordshire,E07000099,East of England,Total,Employee: Part-time,12782
+2011,St Albans,E07000240,East of England,Total,Employee: Part-time,13476
+2011,Stevenage,E07000243,East of England,Total,Employee: Part-time,8729
+2011,Three Rivers,E07000102,East of England,Total,Employee: Part-time,8425
+2011,Watford,E07000103,East of England,Total,Employee: Part-time,8438
+2011,Welwyn Hatfield,E07000241,East of England,Total,Employee: Part-time,9939
+2011,Breckland,E07000143,East of England,Total,Employee: Part-time,13772
+2011,Broadland,E07000144,East of England,Total,Employee: Part-time,15110
+2011,Great Yarmouth,E07000145,East of England,Total,Employee: Part-time,11433
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Employee: Part-time,15537
+2011,North Norfolk,E07000147,East of England,Total,Employee: Part-time,10606
+2011,Norwich,E07000148,East of England,Total,Employee: Part-time,13516
+2011,South Norfolk,E07000149,East of England,Total,Employee: Part-time,14032
+2011,Babergh,E07000200,East of England,Total,Employee: Part-time,9578
+2011,Forest Heath,E07000201,East of England,Total,Employee: Part-time,5705
+2011,Ipswich,E07000202,East of England,Total,Employee: Part-time,16071
+2011,Mid Suffolk,E07000203,East of England,Total,Employee: Part-time,10977
+2011,St Edmundsbury,E07000204,East of England,Total,Employee: Part-time,12418
+2011,Suffolk Coastal,E07000205,East of England,Total,Employee: Part-time,14036
+2011,Waveney,E07000206,East of England,Total,Employee: Part-time,13463
+2011,Camden,E09000007,London,Total,Employee: Part-time,13727
+2011,City of London,E09000001,London,Total,Employee: Part-time,360
+2011,Hackney,E09000012,London,Total,Employee: Part-time,21394
+2011,Hammersmith and Fulham,E09000013,London,Total,Employee: Part-time,11073
+2011,Haringey,E09000014,London,Total,Employee: Part-time,21601
+2011,Islington,E09000019,London,Total,Employee: Part-time,13596
+2011,Kensington and Chelsea,E09000020,London,Total,Employee: Part-time,8583
+2011,Lambeth,E09000022,London,Total,Employee: Part-time,22530
+2011,Lewisham,E09000023,London,Total,Employee: Part-time,24079
+2011,Newham,E09000025,London,Total,Employee: Part-time,26408
+2011,Southwark,E09000028,London,Total,Employee: Part-time,22225
+2011,Tower Hamlets,E09000030,London,Total,Employee: Part-time,18852
+2011,Wandsworth,E09000032,London,Total,Employee: Part-time,18968
+2011,Westminster,E09000033,London,Total,Employee: Part-time,12606
+2011,Barking and Dagenham,E09000002,London,Total,Employee: Part-time,15608
+2011,Barnet,E09000003,London,Total,Employee: Part-time,30478
+2011,Bexley,E09000004,London,Total,Employee: Part-time,23072
+2011,Brent,E09000005,London,Total,Employee: Part-time,25702
+2011,Bromley,E09000006,London,Total,Employee: Part-time,29012
+2011,Croydon,E09000008,London,Total,Employee: Part-time,33112
+2011,Ealing,E09000009,London,Total,Employee: Part-time,25882
+2011,Enfield,E09000010,London,Total,Employee: Part-time,29134
+2011,Greenwich,E09000011,London,Total,Employee: Part-time,20697
+2011,Harrow,E09000015,London,Total,Employee: Part-time,21423
+2011,Havering,E09000016,London,Total,Employee: Part-time,23479
+2011,Hillingdon,E09000017,London,Total,Employee: Part-time,23706
+2011,Hounslow,E09000018,London,Total,Employee: Part-time,20588
+2011,Kingston upon Thames,E09000021,London,Total,Employee: Part-time,13588
+2011,Merton,E09000024,London,Total,Employee: Part-time,16484
+2011,Redbridge,E09000026,London,Total,Employee: Part-time,23948
+2011,Richmond upon Thames,E09000027,London,Total,Employee: Part-time,14207
+2011,Sutton,E09000029,London,Total,Employee: Part-time,18502
+2011,Waltham Forest,E09000031,London,Total,Employee: Part-time,21889
+2011,Bracknell Forest,E06000036,South East (England),Total,Employee: Part-time,11066
+2011,Brighton and Hove,E06000043,South East (England),Total,Employee: Part-time,27492
+2011,Isle of Wight,E06000046,South East (England),Total,Employee: Part-time,15728
+2011,Medway,E06000035,South East (England),Total,Employee: Part-time,27137
+2011,Milton Keynes,E06000042,South East (England),Total,Employee: Part-time,23644
+2011,Portsmouth,E06000044,South East (England),Total,Employee: Part-time,20626
+2011,Reading,E06000038,South East (England),Total,Employee: Part-time,13883
+2011,Slough,E06000039,South East (England),Total,Employee: Part-time,11886
+2011,Southampton,E06000045,South East (England),Total,Employee: Part-time,22856
+2011,West Berkshire,E06000037,South East (England),Total,Employee: Part-time,15567
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Employee: Part-time,12727
+2011,Wokingham,E06000041,South East (England),Total,Employee: Part-time,15282
+2011,Aylesbury Vale,E07000004,South East (England),Total,Employee: Part-time,17751
+2011,Chiltern,E07000005,South East (England),Total,Employee: Part-time,8854
+2011,South Bucks,E07000006,South East (England),Total,Employee: Part-time,5643
+2011,Wycombe,E07000007,South East (England),Total,Employee: Part-time,16001
+2011,Eastbourne,E07000061,South East (England),Total,Employee: Part-time,10395
+2011,Hastings,E07000062,South East (England),Total,Employee: Part-time,9770
+2011,Lewes,E07000063,South East (England),Total,Employee: Part-time,10626
+2011,Rother,E07000064,South East (England),Total,Employee: Part-time,8685
+2011,Wealden,E07000065,South East (England),Total,Employee: Part-time,15676
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Employee: Part-time,16506
+2011,East Hampshire,E07000085,South East (England),Total,Employee: Part-time,11975
+2011,Eastleigh,E07000086,South East (England),Total,Employee: Part-time,14551
+2011,Fareham,E07000087,South East (England),Total,Employee: Part-time,12324
+2011,Gosport,E07000088,South East (England),Total,Employee: Part-time,8592
+2011,Hart,E07000089,South East (England),Total,Employee: Part-time,9156
+2011,Havant,E07000090,South East (England),Total,Employee: Part-time,13080
+2011,New Forest,E07000091,South East (England),Total,Employee: Part-time,19709
+2011,Rushmoor,E07000092,South East (England),Total,Employee: Part-time,9362
+2011,Test Valley,E07000093,South East (England),Total,Employee: Part-time,12473
+2011,Winchester,E07000094,South East (England),Total,Employee: Part-time,11434
+2011,Ashford,E07000105,South East (England),Total,Employee: Part-time,12334
+2011,Canterbury,E07000106,South East (England),Total,Employee: Part-time,14268
+2011,Dartford,E07000107,South East (England),Total,Employee: Part-time,9765
+2011,Dover,E07000108,South East (England),Total,Employee: Part-time,11864
+2011,Gravesham,E07000109,South East (England),Total,Employee: Part-time,10560
+2011,Maidstone,E07000110,South East (England),Total,Employee: Part-time,16283
+2011,Sevenoaks,E07000111,South East (England),Total,Employee: Part-time,11527
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Employee: Part-time,11151
+2011,Swale,E07000113,South East (England),Total,Employee: Part-time,13844
+2011,Thanet,E07000114,South East (England),Total,Employee: Part-time,13626
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Employee: Part-time,12690
+2011,Tunbridge Wells,E07000116,South East (England),Total,Employee: Part-time,11265
+2011,Cherwell,E07000177,South East (England),Total,Employee: Part-time,15063
+2011,Oxford,E07000178,South East (England),Total,Employee: Part-time,12360
+2011,South Oxfordshire,E07000179,South East (England),Total,Employee: Part-time,13591
+2011,Vale of White Horse,E07000180,South East (England),Total,Employee: Part-time,12547
+2011,West Oxfordshire,E07000181,South East (England),Total,Employee: Part-time,10889
+2011,Elmbridge,E07000207,South East (England),Total,Employee: Part-time,10910
+2011,Epsom and Ewell,E07000208,South East (England),Total,Employee: Part-time,7401
+2011,Guildford,E07000209,South East (England),Total,Employee: Part-time,12432
+2011,Mole Valley,E07000210,South East (England),Total,Employee: Part-time,8418
+2011,Reigate and Banstead,E07000211,South East (England),Total,Employee: Part-time,13429
+2011,Runnymede,E07000212,South East (England),Total,Employee: Part-time,7221
+2011,Spelthorne,E07000213,South East (England),Total,Employee: Part-time,9279
+2011,Surrey Heath,E07000214,South East (England),Total,Employee: Part-time,8500
+2011,Tandridge,E07000215,South East (England),Total,Employee: Part-time,8047
+2011,Waverley,E07000216,South East (England),Total,Employee: Part-time,11669
+2011,Woking,E07000217,South East (England),Total,Employee: Part-time,8977
+2011,Adur,E07000223,South East (England),Total,Employee: Part-time,7034
+2011,Arun,E07000224,South East (England),Total,Employee: Part-time,15734
+2011,Chichester,E07000225,South East (England),Total,Employee: Part-time,11384
+2011,Crawley,E07000226,South East (England),Total,Employee: Part-time,11129
+2011,Horsham,E07000227,South East (England),Total,Employee: Part-time,13926
+2011,Mid Sussex,E07000228,South East (England),Total,Employee: Part-time,15173
+2011,Worthing,E07000229,South East (England),Total,Employee: Part-time,11186
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Employee: Part-time,18818
+2011,Bournemouth,E06000028,South West (England),Total,Employee: Part-time,18289
+2011,"Bristol, City of",E06000023,South West (England),Total,Employee: Part-time,42980
+2011,Cornwall,E06000052,South West (England),Total,Employee: Part-time,59778
+2011,Isles of Scilly,E06000053,South West (England),Total,Employee: Part-time,220
+2011,North Somerset,E06000024,South West (England),Total,Employee: Part-time,23117
+2011,Plymouth,E06000026,South West (England),Total,Employee: Part-time,28356
+2011,Poole,E06000029,South West (England),Total,Employee: Part-time,16215
+2011,South Gloucestershire,E06000025,South West (England),Total,Employee: Part-time,31453
+2011,Swindon,E06000030,South West (England),Total,Employee: Part-time,22137
+2011,Torbay,E06000027,South West (England),Total,Employee: Part-time,14782
+2011,Wiltshire,E06000054,South West (England),Total,Employee: Part-time,50806
+2011,East Devon,E07000040,South West (England),Total,Employee: Part-time,14837
+2011,Exeter,E07000041,South West (England),Total,Employee: Part-time,13348
+2011,Mid Devon,E07000042,South West (England),Total,Employee: Part-time,8789
+2011,North Devon,E07000043,South West (England),Total,Employee: Part-time,11045
+2011,South Hams,E07000044,South West (England),Total,Employee: Part-time,9180
+2011,Teignbridge,E07000045,South West (England),Total,Employee: Part-time,14300
+2011,Torridge,E07000046,South West (England),Total,Employee: Part-time,7250
+2011,West Devon,E07000047,South West (England),Total,Employee: Part-time,5918
+2011,Christchurch,E07000048,South West (England),Total,Employee: Part-time,5102
+2011,East Dorset,E07000049,South West (England),Total,Employee: Part-time,9661
+2011,North Dorset,E07000050,South West (England),Total,Employee: Part-time,7183
+2011,Purbeck,E07000051,South West (England),Total,Employee: Part-time,5222
+2011,West Dorset,E07000052,South West (England),Total,Employee: Part-time,10923
+2011,Weymouth and Portland,E07000053,South West (England),Total,Employee: Part-time,8174
+2011,Cheltenham,E07000078,South West (England),Total,Employee: Part-time,11506
+2011,Cotswold,E07000079,South West (England),Total,Employee: Part-time,8703
+2011,Forest of Dean,E07000080,South West (England),Total,Employee: Part-time,9008
+2011,Gloucester,E07000081,South West (England),Total,Employee: Part-time,14303
+2011,Stroud,E07000082,South West (England),Total,Employee: Part-time,12899
+2011,Tewkesbury,E07000083,South West (England),Total,Employee: Part-time,9008
+2011,Mendip,E07000187,South West (England),Total,Employee: Part-time,12726
+2011,Sedgemoor,E07000188,South West (England),Total,Employee: Part-time,13097
+2011,South Somerset,E07000189,South West (England),Total,Employee: Part-time,18305
+2011,Taunton Deane,E07000190,South West (England),Total,Employee: Part-time,12872
+2011,West Somerset,E07000191,South West (England),Total,Employee: Part-time,3626
+2011,Isle of Anglesey,W06000001,Wales,Total,Employee: Part-time,6949
+2011,Gwynedd,W06000002,Wales,Total,Employee: Part-time,12300
+2011,Conwy,W06000003,Wales,Total,Employee: Part-time,12398
+2011,Denbighshire,W06000004,Wales,Total,Employee: Part-time,9696
+2011,Flintshire,W06000005,Wales,Total,Employee: Part-time,16875
+2011,Wrexham,W06000006,Wales,Total,Employee: Part-time,14567
+2011,Powys,W06000023,Wales,Total,Employee: Part-time,13955
+2011,Ceredigion,W06000008,Wales,Total,Employee: Part-time,6612
+2011,Pembrokeshire,W06000009,Wales,Total,Employee: Part-time,13507
+2011,Carmarthenshire,W06000010,Wales,Total,Employee: Part-time,18475
+2011,Swansea,W06000011,Wales,Total,Employee: Part-time,25141
+2011,Neath Port Talbot,W06000012,Wales,Total,Employee: Part-time,14335
+2011,Bridgend,W06000013,Wales,Total,Employee: Part-time,14633
+2011,Vale of Glamorgan,W06000014,Wales,Total,Employee: Part-time,13657
+2011,Cardiff,W06000015,Wales,Total,Employee: Part-time,32468
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Employee: Part-time,23068
+2011,Merthyr Tydfil,W06000024,Wales,Total,Employee: Part-time,5913
+2011,Caerphilly,W06000018,Wales,Total,Employee: Part-time,17292
+2011,Blaenau Gwent,W06000019,Wales,Total,Employee: Part-time,6763
+2011,Torfaen,W06000020,Wales,Total,Employee: Part-time,9535
+2011,Monmouthshire,W06000021,Wales,Total,Employee: Part-time,9352
+2011,Newport,W06000022,Wales,Total,Employee: Part-time,15531
+2011,Darlington,E06000005,North East (England),Total,Self-employed without employees: Full-time,2818
+2011,County Durham,E06000047,North East (England),Total,Self-employed without employees: Full-time,12741
+2011,Hartlepool,E06000001,North East (England),Total,Self-employed without employees: Full-time,1855
+2011,Middlesbrough,E06000002,North East (England),Total,Self-employed without employees: Full-time,2472
+2011,Northumberland,E06000057,North East (England),Total,Self-employed without employees: Full-time,10568
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Self-employed without employees: Full-time,2908
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Self-employed without employees: Full-time,4395
+2011,Gateshead,E08000037,North East (England),Total,Self-employed without employees: Full-time,4509
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Self-employed without employees: Full-time,6236
+2011,North Tyneside,E08000022,North East (England),Total,Self-employed without employees: Full-time,4933
+2011,South Tyneside,E08000023,North East (England),Total,Self-employed without employees: Full-time,2993
+2011,Sunderland,E08000024,North East (England),Total,Self-employed without employees: Full-time,5574
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Self-employed without employees: Full-time,3724
+2011,Blackpool,E06000009,North West (England),Total,Self-employed without employees: Full-time,5550
+2011,Cheshire East,E06000049,North West (England),Total,Self-employed without employees: Full-time,13605
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Self-employed without employees: Full-time,10529
+2011,Halton,E06000006,North West (England),Total,Self-employed without employees: Full-time,2940
+2011,Warrington,E06000007,North West (England),Total,Self-employed without employees: Full-time,5870
+2011,Allerdale,E07000026,North West (England),Total,Self-employed without employees: Full-time,3639
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Self-employed without employees: Full-time,1496
+2011,Carlisle,E07000028,North West (England),Total,Self-employed without employees: Full-time,3820
+2011,Copeland,E07000029,North West (England),Total,Self-employed without employees: Full-time,1915
+2011,Eden,E07000030,North West (England),Total,Self-employed without employees: Full-time,3480
+2011,South Lakeland,E07000031,North West (England),Total,Self-employed without employees: Full-time,5524
+2011,Bolton,E08000001,North West (England),Total,Self-employed without employees: Full-time,8029
+2011,Bury,E08000002,North West (England),Total,Self-employed without employees: Full-time,6019
+2011,Manchester,E08000003,North West (England),Total,Self-employed without employees: Full-time,11675
+2011,Oldham,E08000004,North West (England),Total,Self-employed without employees: Full-time,6147
+2011,Rochdale,E08000005,North West (England),Total,Self-employed without employees: Full-time,6069
+2011,Salford,E08000006,North West (England),Total,Self-employed without employees: Full-time,6228
+2011,Stockport,E08000007,North West (England),Total,Self-employed without employees: Full-time,9975
+2011,Tameside,E08000008,North West (England),Total,Self-employed without employees: Full-time,6595
+2011,Trafford,E08000009,North West (England),Total,Self-employed without employees: Full-time,7649
+2011,Wigan,E08000010,North West (England),Total,Self-employed without employees: Full-time,9465
+2011,Burnley,E07000117,North West (England),Total,Self-employed without employees: Full-time,2250
+2011,Chorley,E07000118,North West (England),Total,Self-employed without employees: Full-time,3698
+2011,Fylde,E07000119,North West (England),Total,Self-employed without employees: Full-time,2752
+2011,Hyndburn,E07000120,North West (England),Total,Self-employed without employees: Full-time,2387
+2011,Lancaster,E07000121,North West (England),Total,Self-employed without employees: Full-time,4402
+2011,Pendle,E07000122,North West (England),Total,Self-employed without employees: Full-time,2649
+2011,Preston,E07000123,North West (England),Total,Self-employed without employees: Full-time,3331
+2011,Ribble Valley,E07000124,North West (England),Total,Self-employed without employees: Full-time,2570
+2011,Rossendale,E07000125,North West (England),Total,Self-employed without employees: Full-time,2549
+2011,South Ribble,E07000126,North West (England),Total,Self-employed without employees: Full-time,3500
+2011,West Lancashire,E07000127,North West (England),Total,Self-employed without employees: Full-time,3734
+2011,Wyre,E07000128,North West (England),Total,Self-employed without employees: Full-time,4094
+2011,Knowsley,E08000011,North West (England),Total,Self-employed without employees: Full-time,3541
+2011,Liverpool,E08000012,North West (England),Total,Self-employed without employees: Full-time,10894
+2011,Sefton,E08000014,North West (England),Total,Self-employed without employees: Full-time,8204
+2011,St. Helens,E08000013,North West (England),Total,Self-employed without employees: Full-time,4246
+2011,Wirral,E08000015,North West (England),Total,Self-employed without employees: Full-time,8346
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,11844
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,5236
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,3834
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,4262
+2011,York,E06000014,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,6232
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,3103
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,4326
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,7320
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,2391
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,3168
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,4706
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,3167
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,7086
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,8216
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,7313
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,15467
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,14828
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,6999
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,13332
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,21460
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Self-employed without employees: Full-time,8531
+2011,Derby,E06000015,East Midlands (England),Total,Self-employed without employees: Full-time,6017
+2011,Leicester,E06000016,East Midlands (England),Total,Self-employed without employees: Full-time,6814
+2011,Nottingham,E06000018,East Midlands (England),Total,Self-employed without employees: Full-time,6709
+2011,Rutland,E06000017,East Midlands (England),Total,Self-employed without employees: Full-time,1507
+2011,Amber Valley,E07000032,East Midlands (England),Total,Self-employed without employees: Full-time,4240
+2011,Bolsover,E07000033,East Midlands (England),Total,Self-employed without employees: Full-time,2148
+2011,Chesterfield,E07000034,East Midlands (England),Total,Self-employed without employees: Full-time,2969
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Self-employed without employees: Full-time,3727
+2011,Erewash,E07000036,East Midlands (England),Total,Self-employed without employees: Full-time,3462
+2011,High Peak,E07000037,East Midlands (England),Total,Self-employed without employees: Full-time,3911
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Self-employed without employees: Full-time,3525
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Self-employed without employees: Full-time,3217
+2011,Blaby,E07000129,East Midlands (England),Total,Self-employed without employees: Full-time,3537
+2011,Charnwood,E07000130,East Midlands (England),Total,Self-employed without employees: Full-time,5244
+2011,Harborough,E07000131,East Midlands (England),Total,Self-employed without employees: Full-time,3763
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Self-employed without employees: Full-time,3961
+2011,Melton,E07000133,East Midlands (England),Total,Self-employed without employees: Full-time,2094
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Self-employed without employees: Full-time,3309
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Self-employed without employees: Full-time,1669
+2011,Boston,E07000136,East Midlands (England),Total,Self-employed without employees: Full-time,1927
+2011,East Lindsey,E07000137,East Midlands (England),Total,Self-employed without employees: Full-time,5223
+2011,Lincoln,E07000138,East Midlands (England),Total,Self-employed without employees: Full-time,2486
+2011,North Kesteven,E07000139,East Midlands (England),Total,Self-employed without employees: Full-time,3759
+2011,South Holland,E07000140,East Midlands (England),Total,Self-employed without employees: Full-time,3298
+2011,South Kesteven,E07000141,East Midlands (England),Total,Self-employed without employees: Full-time,4954
+2011,West Lindsey,E07000142,East Midlands (England),Total,Self-employed without employees: Full-time,3196
+2011,Corby,E07000150,East Midlands (England),Total,Self-employed without employees: Full-time,1506
+2011,Daventry,E07000151,East Midlands (England),Total,Self-employed without employees: Full-time,3376
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Self-employed without employees: Full-time,3577
+2011,Kettering,E07000153,East Midlands (England),Total,Self-employed without employees: Full-time,3268
+2011,Northampton,E07000154,East Midlands (England),Total,Self-employed without employees: Full-time,6955
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Self-employed without employees: Full-time,4283
+2011,Wellingborough,E07000156,East Midlands (England),Total,Self-employed without employees: Full-time,2363
+2011,Ashfield,E07000170,East Midlands (England),Total,Self-employed without employees: Full-time,3379
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Self-employed without employees: Full-time,3461
+2011,Broxtowe,E07000172,East Midlands (England),Total,Self-employed without employees: Full-time,3153
+2011,Gedling,E07000173,East Midlands (England),Total,Self-employed without employees: Full-time,3986
+2011,Mansfield,E07000174,East Midlands (England),Total,Self-employed without employees: Full-time,2927
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Self-employed without employees: Full-time,4030
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Self-employed without employees: Full-time,3999
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Self-employed without employees: Full-time,10130
+2011,Shropshire,E06000051,West Midlands (England),Total,Self-employed without employees: Full-time,14427
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Self-employed without employees: Full-time,5962
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Self-employed without employees: Full-time,4437
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Self-employed without employees: Full-time,3737
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Self-employed without employees: Full-time,3624
+2011,Lichfield,E07000194,West Midlands (England),Total,Self-employed without employees: Full-time,3776
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Self-employed without employees: Full-time,3513
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Self-employed without employees: Full-time,4217
+2011,Stafford,E07000197,West Midlands (England),Total,Self-employed without employees: Full-time,4320
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Self-employed without employees: Full-time,4348
+2011,Tamworth,E07000199,West Midlands (England),Total,Self-employed without employees: Full-time,2342
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Self-employed without employees: Full-time,2491
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Self-employed without employees: Full-time,3412
+2011,Rugby,E07000220,West Midlands (England),Total,Self-employed without employees: Full-time,3445
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Self-employed without employees: Full-time,6040
+2011,Warwick,E07000222,West Midlands (England),Total,Self-employed without employees: Full-time,4858
+2011,Birmingham,E08000025,West Midlands (England),Total,Self-employed without employees: Full-time,24916
+2011,Coventry,E08000026,West Midlands (England),Total,Self-employed without employees: Full-time,7558
+2011,Dudley,E08000027,West Midlands (England),Total,Self-employed without employees: Full-time,9191
+2011,Sandwell,E08000028,West Midlands (England),Total,Self-employed without employees: Full-time,6787
+2011,Solihull,E08000029,West Midlands (England),Total,Self-employed without employees: Full-time,6767
+2011,Walsall,E08000030,West Midlands (England),Total,Self-employed without employees: Full-time,7260
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Self-employed without employees: Full-time,5910
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Self-employed without employees: Full-time,3720
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Self-employed without employees: Full-time,3676
+2011,Redditch,E07000236,West Midlands (England),Total,Self-employed without employees: Full-time,2747
+2011,Worcester,E07000237,West Midlands (England),Total,Self-employed without employees: Full-time,3068
+2011,Wychavon,E07000238,West Midlands (England),Total,Self-employed without employees: Full-time,5352
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Self-employed without employees: Full-time,3627
+2011,Bedford,E06000055,East of England,Total,Self-employed without employees: Full-time,5473
+2011,Central Bedfordshire,E06000056,East of England,Total,Self-employed without employees: Full-time,11135
+2011,Luton,E06000032,East of England,Total,Self-employed without employees: Full-time,6479
+2011,Peterborough,E06000031,East of England,Total,Self-employed without employees: Full-time,5001
+2011,Southend-on-Sea,E06000033,East of England,Total,Self-employed without employees: Full-time,6834
+2011,Thurrock,E06000034,East of England,Total,Self-employed without employees: Full-time,5973
+2011,Cambridge,E07000008,East of England,Total,Self-employed without employees: Full-time,3510
+2011,East Cambridgeshire,E07000009,East of England,Total,Self-employed without employees: Full-time,3700
+2011,Fenland,E07000010,East of England,Total,Self-employed without employees: Full-time,3579
+2011,Huntingdonshire,E07000011,East of England,Total,Self-employed without employees: Full-time,6156
+2011,South Cambridgeshire,E07000012,East of England,Total,Self-employed without employees: Full-time,5995
+2011,Basildon,E07000066,East of England,Total,Self-employed without employees: Full-time,6956
+2011,Braintree,E07000067,East of England,Total,Self-employed without employees: Full-time,6731
+2011,Brentwood,E07000068,East of England,Total,Self-employed without employees: Full-time,3237
+2011,Castle Point,E07000069,East of England,Total,Self-employed without employees: Full-time,4225
+2011,Chelmsford,E07000070,East of England,Total,Self-employed without employees: Full-time,6693
+2011,Colchester,E07000071,East of England,Total,Self-employed without employees: Full-time,6417
+2011,Epping Forest,E07000072,East of England,Total,Self-employed without employees: Full-time,6614
+2011,Harlow,E07000073,East of England,Total,Self-employed without employees: Full-time,3050
+2011,Maldon,E07000074,East of England,Total,Self-employed without employees: Full-time,3175
+2011,Rochford,E07000075,East of England,Total,Self-employed without employees: Full-time,3739
+2011,Tendring,E07000076,East of England,Total,Self-employed without employees: Full-time,5113
+2011,Uttlesford,E07000077,East of England,Total,Self-employed without employees: Full-time,4138
+2011,Broxbourne,E07000095,East of England,Total,Self-employed without employees: Full-time,4537
+2011,Dacorum,E07000096,East of England,Total,Self-employed without employees: Full-time,6441
+2011,East Hertfordshire,E07000242,East of England,Total,Self-employed without employees: Full-time,6252
+2011,Hertsmere,E07000098,East of England,Total,Self-employed without employees: Full-time,4913
+2011,North Hertfordshire,E07000099,East of England,Total,Self-employed without employees: Full-time,4990
+2011,St Albans,E07000240,East of England,Total,Self-employed without employees: Full-time,5910
+2011,Stevenage,E07000243,East of England,Total,Self-employed without employees: Full-time,3130
+2011,Three Rivers,E07000102,East of England,Total,Self-employed without employees: Full-time,4076
+2011,Watford,E07000103,East of England,Total,Self-employed without employees: Full-time,3774
+2011,Welwyn Hatfield,E07000241,East of England,Total,Self-employed without employees: Full-time,3941
+2011,Breckland,E07000143,East of England,Total,Self-employed without employees: Full-time,5015
+2011,Broadland,E07000144,East of England,Total,Self-employed without employees: Full-time,5312
+2011,Great Yarmouth,E07000145,East of England,Total,Self-employed without employees: Full-time,3021
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Self-employed without employees: Full-time,5575
+2011,North Norfolk,E07000147,East of England,Total,Self-employed without employees: Full-time,4825
+2011,Norwich,E07000148,East of England,Total,Self-employed without employees: Full-time,3915
+2011,South Norfolk,E07000149,East of England,Total,Self-employed without employees: Full-time,5477
+2011,Babergh,E07000200,East of England,Total,Self-employed without employees: Full-time,4065
+2011,Forest Heath,E07000201,East of England,Total,Self-employed without employees: Full-time,2198
+2011,Ipswich,E07000202,East of England,Total,Self-employed without employees: Full-time,3956
+2011,Mid Suffolk,E07000203,East of England,Total,Self-employed without employees: Full-time,4604
+2011,St Edmundsbury,E07000204,East of England,Total,Self-employed without employees: Full-time,3947
+2011,Suffolk Coastal,E07000205,East of England,Total,Self-employed without employees: Full-time,4799
+2011,Waveney,E07000206,East of England,Total,Self-employed without employees: Full-time,3752
+2011,Camden,E09000007,London,Total,Self-employed without employees: Full-time,11629
+2011,City of London,E09000001,London,Total,Self-employed without employees: Full-time,510
+2011,Hackney,E09000012,London,Total,Self-employed without employees: Full-time,12868
+2011,Hammersmith and Fulham,E09000013,London,Total,Self-employed without employees: Full-time,9252
+2011,Haringey,E09000014,London,Total,Self-employed without employees: Full-time,13715
+2011,Islington,E09000019,London,Total,Self-employed without employees: Full-time,10295
+2011,Kensington and Chelsea,E09000020,London,Total,Self-employed without employees: Full-time,8777
+2011,Lambeth,E09000022,London,Total,Self-employed without employees: Full-time,14882
+2011,Lewisham,E09000023,London,Total,Self-employed without employees: Full-time,11658
+2011,Newham,E09000025,London,Total,Self-employed without employees: Full-time,10914
+2011,Southwark,E09000028,London,Total,Self-employed without employees: Full-time,12075
+2011,Tower Hamlets,E09000030,London,Total,Self-employed without employees: Full-time,8864
+2011,Wandsworth,E09000032,London,Total,Self-employed without employees: Full-time,15532
+2011,Westminster,E09000033,London,Total,Self-employed without employees: Full-time,10568
+2011,Barking and Dagenham,E09000002,London,Total,Self-employed without employees: Full-time,6023
+2011,Barnet,E09000003,London,Total,Self-employed without employees: Full-time,18924
+2011,Bexley,E09000004,London,Total,Self-employed without employees: Full-time,9508
+2011,Brent,E09000005,London,Total,Self-employed without employees: Full-time,15320
+2011,Bromley,E09000006,London,Total,Self-employed without employees: Full-time,13740
+2011,Croydon,E09000008,London,Total,Self-employed without employees: Full-time,14084
+2011,Ealing,E09000009,London,Total,Self-employed without employees: Full-time,16305
+2011,Enfield,E09000010,London,Total,Self-employed without employees: Full-time,12078
+2011,Greenwich,E09000011,London,Total,Self-employed without employees: Full-time,9741
+2011,Harrow,E09000015,London,Total,Self-employed without employees: Full-time,10943
+2011,Havering,E09000016,London,Total,Self-employed without employees: Full-time,10129
+2011,Hillingdon,E09000017,London,Total,Self-employed without employees: Full-time,9812
+2011,Hounslow,E09000018,London,Total,Self-employed without employees: Full-time,10562
+2011,Kingston upon Thames,E09000021,London,Total,Self-employed without employees: Full-time,7166
+2011,Merton,E09000024,London,Total,Self-employed without employees: Full-time,9721
+2011,Redbridge,E09000026,London,Total,Self-employed without employees: Full-time,11262
+2011,Richmond upon Thames,E09000027,London,Total,Self-employed without employees: Full-time,9947
+2011,Sutton,E09000029,London,Total,Self-employed without employees: Full-time,8603
+2011,Waltham Forest,E09000031,London,Total,Self-employed without employees: Full-time,12777
+2011,Bracknell Forest,E06000036,South East (England),Total,Self-employed without employees: Full-time,4581
+2011,Brighton and Hove,E06000043,South East (England),Total,Self-employed without employees: Full-time,14181
+2011,Isle of Wight,E06000046,South East (England),Total,Self-employed without employees: Full-time,5673
+2011,Medway,E06000035,South East (England),Total,Self-employed without employees: Full-time,9910
+2011,Milton Keynes,E06000042,South East (England),Total,Self-employed without employees: Full-time,8658
+2011,Portsmouth,E06000044,South East (England),Total,Self-employed without employees: Full-time,6676
+2011,Reading,E06000038,South East (England),Total,Self-employed without employees: Full-time,5329
+2011,Slough,E06000039,South East (England),Total,Self-employed without employees: Full-time,4646
+2011,Southampton,E06000045,South East (England),Total,Self-employed without employees: Full-time,7522
+2011,West Berkshire,E06000037,South East (England),Total,Self-employed without employees: Full-time,6620
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Self-employed without employees: Full-time,6474
+2011,Wokingham,E06000041,South East (England),Total,Self-employed without employees: Full-time,6241
+2011,Aylesbury Vale,E07000004,South East (England),Total,Self-employed without employees: Full-time,8065
+2011,Chiltern,E07000005,South East (England),Total,Self-employed without employees: Full-time,4376
+2011,South Bucks,E07000006,South East (England),Total,Self-employed without employees: Full-time,3142
+2011,Wycombe,E07000007,South East (England),Total,Self-employed without employees: Full-time,7707
+2011,Eastbourne,E07000061,South East (England),Total,Self-employed without employees: Full-time,3948
+2011,Hastings,E07000062,South East (England),Total,Self-employed without employees: Full-time,4119
+2011,Lewes,E07000063,South East (England),Total,Self-employed without employees: Full-time,4874
+2011,Rother,E07000064,South East (England),Total,Self-employed without employees: Full-time,4737
+2011,Wealden,E07000065,South East (England),Total,Self-employed without employees: Full-time,8322
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Self-employed without employees: Full-time,6449
+2011,East Hampshire,E07000085,South East (England),Total,Self-employed without employees: Full-time,5604
+2011,Eastleigh,E07000086,South East (England),Total,Self-employed without employees: Full-time,4784
+2011,Fareham,E07000087,South East (England),Total,Self-employed without employees: Full-time,3911
+2011,Gosport,E07000088,South East (England),Total,Self-employed without employees: Full-time,2535
+2011,Hart,E07000089,South East (England),Total,Self-employed without employees: Full-time,3831
+2011,Havant,E07000090,South East (England),Total,Self-employed without employees: Full-time,4576
+2011,New Forest,E07000091,South East (England),Total,Self-employed without employees: Full-time,7400
+2011,Rushmoor,E07000092,South East (England),Total,Self-employed without employees: Full-time,3220
+2011,Test Valley,E07000093,South East (England),Total,Self-employed without employees: Full-time,4479
+2011,Winchester,E07000094,South East (England),Total,Self-employed without employees: Full-time,4729
+2011,Ashford,E07000105,South East (England),Total,Self-employed without employees: Full-time,5316
+2011,Canterbury,E07000106,South East (England),Total,Self-employed without employees: Full-time,5486
+2011,Dartford,E07000107,South East (England),Total,Self-employed without employees: Full-time,3920
+2011,Dover,E07000108,South East (England),Total,Self-employed without employees: Full-time,3887
+2011,Gravesham,E07000109,South East (England),Total,Self-employed without employees: Full-time,3723
+2011,Maidstone,E07000110,South East (England),Total,Self-employed without employees: Full-time,6700
+2011,Sevenoaks,E07000111,South East (England),Total,Self-employed without employees: Full-time,5462
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Self-employed without employees: Full-time,4269
+2011,Swale,E07000113,South East (England),Total,Self-employed without employees: Full-time,5316
+2011,Thanet,E07000114,South East (England),Total,Self-employed without employees: Full-time,5047
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Self-employed without employees: Full-time,5044
+2011,Tunbridge Wells,E07000116,South East (England),Total,Self-employed without employees: Full-time,5430
+2011,Cherwell,E07000177,South East (England),Total,Self-employed without employees: Full-time,5598
+2011,Oxford,E07000178,South East (England),Total,Self-employed without employees: Full-time,3954
+2011,South Oxfordshire,E07000179,South East (England),Total,Self-employed without employees: Full-time,6030
+2011,Vale of White Horse,E07000180,South East (England),Total,Self-employed without employees: Full-time,4689
+2011,West Oxfordshire,E07000181,South East (England),Total,Self-employed without employees: Full-time,4629
+2011,Elmbridge,E07000207,South East (England),Total,Self-employed without employees: Full-time,6306
+2011,Epsom and Ewell,E07000208,South East (England),Total,Self-employed without employees: Full-time,3256
+2011,Guildford,E07000209,South East (England),Total,Self-employed without employees: Full-time,5586
+2011,Mole Valley,E07000210,South East (England),Total,Self-employed without employees: Full-time,4330
+2011,Reigate and Banstead,E07000211,South East (England),Total,Self-employed without employees: Full-time,6248
+2011,Runnymede,E07000212,South East (England),Total,Self-employed without employees: Full-time,3384
+2011,Spelthorne,E07000213,South East (England),Total,Self-employed without employees: Full-time,3762
+2011,Surrey Heath,E07000214,South East (England),Total,Self-employed without employees: Full-time,3697
+2011,Tandridge,E07000215,South East (England),Total,Self-employed without employees: Full-time,4199
+2011,Waverley,E07000216,South East (England),Total,Self-employed without employees: Full-time,5859
+2011,Woking,E07000217,South East (England),Total,Self-employed without employees: Full-time,4231
+2011,Adur,E07000223,South East (England),Total,Self-employed without employees: Full-time,2726
+2011,Arun,E07000224,South East (England),Total,Self-employed without employees: Full-time,6065
+2011,Chichester,E07000225,South East (England),Total,Self-employed without employees: Full-time,5632
+2011,Crawley,E07000226,South East (England),Total,Self-employed without employees: Full-time,3423
+2011,Horsham,E07000227,South East (England),Total,Self-employed without employees: Full-time,5967
+2011,Mid Sussex,E07000228,South East (England),Total,Self-employed without employees: Full-time,6323
+2011,Worthing,E07000229,South East (England),Total,Self-employed without employees: Full-time,4236
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Self-employed without employees: Full-time,7116
+2011,Bournemouth,E06000028,South West (England),Total,Self-employed without employees: Full-time,7433
+2011,"Bristol, City of",E06000023,South West (England),Total,Self-employed without employees: Full-time,14537
+2011,Cornwall,E06000052,South West (England),Total,Self-employed without employees: Full-time,26771
+2011,Isles of Scilly,E06000053,South West (England),Total,Self-employed without employees: Full-time,210
+2011,North Somerset,E06000024,South West (England),Total,Self-employed without employees: Full-time,7770
+2011,Plymouth,E06000026,South West (England),Total,Self-employed without employees: Full-time,6913
+2011,Poole,E06000029,South West (England),Total,Self-employed without employees: Full-time,5560
+2011,South Gloucestershire,E06000025,South West (England),Total,Self-employed without employees: Full-time,9274
+2011,Swindon,E06000030,South West (England),Total,Self-employed without employees: Full-time,6814
+2011,Torbay,E06000027,South West (England),Total,Self-employed without employees: Full-time,5644
+2011,Wiltshire,E06000054,South West (England),Total,Self-employed without employees: Full-time,19233
+2011,East Devon,E07000040,South West (England),Total,Self-employed without employees: Full-time,6295
+2011,Exeter,E07000041,South West (England),Total,Self-employed without employees: Full-time,3502
+2011,Mid Devon,E07000042,South West (England),Total,Self-employed without employees: Full-time,4512
+2011,North Devon,E07000043,South West (England),Total,Self-employed without employees: Full-time,5177
+2011,South Hams,E07000044,South West (England),Total,Self-employed without employees: Full-time,5008
+2011,Teignbridge,E07000045,South West (England),Total,Self-employed without employees: Full-time,5837
+2011,Torridge,E07000046,South West (England),Total,Self-employed without employees: Full-time,3922
+2011,West Devon,E07000047,South West (England),Total,Self-employed without employees: Full-time,3289
+2011,Christchurch,E07000048,South West (England),Total,Self-employed without employees: Full-time,1857
+2011,East Dorset,E07000049,South West (England),Total,Self-employed without employees: Full-time,3826
+2011,North Dorset,E07000050,South West (England),Total,Self-employed without employees: Full-time,3462
+2011,Purbeck,E07000051,South West (England),Total,Self-employed without employees: Full-time,1928
+2011,West Dorset,E07000052,South West (England),Total,Self-employed without employees: Full-time,4904
+2011,Weymouth and Portland,E07000053,South West (England),Total,Self-employed without employees: Full-time,2272
+2011,Cheltenham,E07000078,South West (England),Total,Self-employed without employees: Full-time,4229
+2011,Cotswold,E07000079,South West (England),Total,Self-employed without employees: Full-time,4612
+2011,Forest of Dean,E07000080,South West (England),Total,Self-employed without employees: Full-time,3877
+2011,Gloucester,E07000081,South West (England),Total,Self-employed without employees: Full-time,3479
+2011,Stroud,E07000082,South West (England),Total,Self-employed without employees: Full-time,5215
+2011,Tewkesbury,E07000083,South West (England),Total,Self-employed without employees: Full-time,3184
+2011,Mendip,E07000187,South West (England),Total,Self-employed without employees: Full-time,5569
+2011,Sedgemoor,E07000188,South West (England),Total,Self-employed without employees: Full-time,4944
+2011,South Somerset,E07000189,South West (England),Total,Self-employed without employees: Full-time,7036
+2011,Taunton Deane,E07000190,South West (England),Total,Self-employed without employees: Full-time,4357
+2011,West Somerset,E07000191,South West (England),Total,Self-employed without employees: Full-time,2065
+2011,Isle of Anglesey,W06000001,Wales,Total,Self-employed without employees: Full-time,2662
+2011,Gwynedd,W06000002,Wales,Total,Self-employed without employees: Full-time,5766
+2011,Conwy,W06000003,Wales,Total,Self-employed without employees: Full-time,4773
+2011,Denbighshire,W06000004,Wales,Total,Self-employed without employees: Full-time,3601
+2011,Flintshire,W06000005,Wales,Total,Self-employed without employees: Full-time,4611
+2011,Wrexham,W06000006,Wales,Total,Self-employed without employees: Full-time,3797
+2011,Powys,W06000023,Wales,Total,Self-employed without employees: Full-time,9715
+2011,Ceredigion,W06000008,Wales,Total,Self-employed without employees: Full-time,4677
+2011,Pembrokeshire,W06000009,Wales,Total,Self-employed without employees: Full-time,6087
+2011,Carmarthenshire,W06000010,Wales,Total,Self-employed without employees: Full-time,8237
+2011,Swansea,W06000011,Wales,Total,Self-employed without employees: Full-time,5542
+2011,Neath Port Talbot,W06000012,Wales,Total,Self-employed without employees: Full-time,3015
+2011,Bridgend,W06000013,Wales,Total,Self-employed without employees: Full-time,3411
+2011,Vale of Glamorgan,W06000014,Wales,Total,Self-employed without employees: Full-time,4016
+2011,Cardiff,W06000015,Wales,Total,Self-employed without employees: Full-time,9044
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Self-employed without employees: Full-time,6027
+2011,Merthyr Tydfil,W06000024,Wales,Total,Self-employed without employees: Full-time,1286
+2011,Caerphilly,W06000018,Wales,Total,Self-employed without employees: Full-time,4061
+2011,Blaenau Gwent,W06000019,Wales,Total,Self-employed without employees: Full-time,1366
+2011,Torfaen,W06000020,Wales,Total,Self-employed without employees: Full-time,2032
+2011,Monmouthshire,W06000021,Wales,Total,Self-employed without employees: Full-time,4014
+2011,Newport,W06000022,Wales,Total,Self-employed without employees: Full-time,3368
+2011,Darlington,E06000005,North East (England),Total,Unemployed,4002
+2011,County Durham,E06000047,North East (England),Total,Unemployed,17013
+2011,Hartlepool,E06000001,North East (England),Total,Unemployed,5194
+2011,Middlesbrough,E06000002,North East (England),Total,Unemployed,7631
+2011,Northumberland,E06000057,North East (England),Total,Unemployed,10329
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Unemployed,6533
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Unemployed,8075
+2011,Gateshead,E08000037,North East (England),Total,Unemployed,7419
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Unemployed,10652
+2011,North Tyneside,E08000022,North East (England),Total,Unemployed,7304
+2011,South Tyneside,E08000023,North East (England),Total,Unemployed,7145
+2011,Sunderland,E08000024,North East (England),Total,Unemployed,12016
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Unemployed,5575
+2011,Blackpool,E06000009,North West (England),Total,Unemployed,6337
+2011,Cheshire East,E06000049,North West (England),Total,Unemployed,8742
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Unemployed,8949
+2011,Halton,E06000006,North West (England),Total,Unemployed,5151
+2011,Warrington,E06000007,North West (England),Total,Unemployed,5961
+2011,Allerdale,E07000026,North West (England),Total,Unemployed,2553
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Unemployed,2365
+2011,Carlisle,E07000028,North West (England),Total,Unemployed,2847
+2011,Copeland,E07000029,North West (England),Total,Unemployed,2235
+2011,Eden,E07000030,North West (England),Total,Unemployed,822
+2011,South Lakeland,E07000031,North West (England),Total,Unemployed,1524
+2011,Bolton,E08000001,North West (England),Total,Unemployed,9913
+2011,Bury,E08000002,North West (England),Total,Unemployed,5769
+2011,Manchester,E08000003,North West (England),Total,Unemployed,21880
+2011,Oldham,E08000004,North West (England),Total,Unemployed,8661
+2011,Rochdale,E08000005,North West (England),Total,Unemployed,9047
+2011,Salford,E08000006,North West (England),Total,Unemployed,9041
+2011,Stockport,E08000007,North West (England),Total,Unemployed,8002
+2011,Tameside,E08000008,North West (England),Total,Unemployed,8052
+2011,Trafford,E08000009,North West (England),Total,Unemployed,6136
+2011,Wigan,E08000010,North West (England),Total,Unemployed,11483
+2011,Burnley,E07000117,North West (England),Total,Unemployed,3342
+2011,Chorley,E07000118,North West (England),Total,Unemployed,2588
+2011,Fylde,E07000119,North West (England),Total,Unemployed,1687
+2011,Hyndburn,E07000120,North West (England),Total,Unemployed,2688
+2011,Lancaster,E07000121,North West (England),Total,Unemployed,3362
+2011,Pendle,E07000122,North West (England),Total,Unemployed,3012
+2011,Preston,E07000123,North West (England),Total,Unemployed,4575
+2011,Ribble Valley,E07000124,North West (England),Total,Unemployed,852
+2011,Rossendale,E07000125,North West (England),Total,Unemployed,2090
+2011,South Ribble,E07000126,North West (England),Total,Unemployed,2421
+2011,West Lancashire,E07000127,North West (England),Total,Unemployed,3180
+2011,Wyre,E07000128,North West (England),Total,Unemployed,2464
+2011,Knowsley,E08000011,North West (England),Total,Unemployed,6926
+2011,Liverpool,E08000012,North West (England),Total,Unemployed,23980
+2011,Sefton,E08000014,North West (England),Total,Unemployed,9708
+2011,St. Helens,E08000013,North West (England),Total,Unemployed,6640
+2011,Wirral,E08000015,North West (England),Total,Unemployed,11939
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Unemployed,8795
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Unemployed,15296
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Unemployed,7486
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Unemployed,5869
+2011,York,E06000014,Yorkshire and The Humber,Total,Unemployed,4582
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Unemployed,1003
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Unemployed,1670
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Unemployed,2931
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Unemployed,1116
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Unemployed,1029
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Unemployed,3371
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Unemployed,2154
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Unemployed,8738
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Unemployed,12697
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Unemployed,9821
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Unemployed,19626
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Unemployed,21224
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Unemployed,7394
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Unemployed,14465
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Unemployed,26786
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Unemployed,11702
+2011,Derby,E06000015,East Midlands (England),Total,Unemployed,9297
+2011,Leicester,E06000016,East Midlands (England),Total,Unemployed,14982
+2011,Nottingham,E06000018,East Midlands (England),Total,Unemployed,14775
+2011,Rutland,E06000017,East Midlands (England),Total,Unemployed,643
+2011,Amber Valley,E07000032,East Midlands (England),Total,Unemployed,3503
+2011,Bolsover,E07000033,East Midlands (England),Total,Unemployed,2612
+2011,Chesterfield,E07000034,East Midlands (England),Total,Unemployed,3557
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Unemployed,1394
+2011,Erewash,E07000036,East Midlands (England),Total,Unemployed,3742
+2011,High Peak,E07000037,East Midlands (England),Total,Unemployed,2576
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Unemployed,2697
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Unemployed,2125
+2011,Blaby,E07000129,East Midlands (England),Total,Unemployed,1963
+2011,Charnwood,E07000130,East Midlands (England),Total,Unemployed,3864
+2011,Harborough,E07000131,East Midlands (England),Total,Unemployed,1517
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Unemployed,2448
+2011,Melton,E07000133,East Midlands (England),Total,Unemployed,1067
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Unemployed,2361
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Unemployed,1314
+2011,Boston,E07000136,East Midlands (England),Total,Unemployed,1969
+2011,East Lindsey,E07000137,East Midlands (England),Total,Unemployed,3966
+2011,Lincoln,E07000138,East Midlands (England),Total,Unemployed,3533
+2011,North Kesteven,E07000139,East Midlands (England),Total,Unemployed,2290
+2011,South Holland,E07000140,East Midlands (England),Total,Unemployed,2532
+2011,South Kesteven,E07000141,East Midlands (England),Total,Unemployed,3248
+2011,West Lindsey,E07000142,East Midlands (England),Total,Unemployed,2497
+2011,Corby,E07000150,East Midlands (England),Total,Unemployed,2222
+2011,Daventry,E07000151,East Midlands (England),Total,Unemployed,1731
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Unemployed,2136
+2011,Kettering,E07000153,East Midlands (England),Total,Unemployed,2728
+2011,Northampton,E07000154,East Midlands (England),Total,Unemployed,7223
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Unemployed,1476
+2011,Wellingborough,E07000156,East Midlands (England),Total,Unemployed,2562
+2011,Ashfield,E07000170,East Midlands (England),Total,Unemployed,4140
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Unemployed,3294
+2011,Broxtowe,E07000172,East Midlands (England),Total,Unemployed,3156
+2011,Gedling,E07000173,East Midlands (England),Total,Unemployed,3391
+2011,Mansfield,E07000174,East Midlands (England),Total,Unemployed,3547
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Unemployed,2995
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Unemployed,2222
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Unemployed,4353
+2011,Shropshire,E06000051,West Midlands (England),Total,Unemployed,7350
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Unemployed,9715
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Unemployed,5806
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Unemployed,3311
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Unemployed,3171
+2011,Lichfield,E07000194,West Midlands (England),Total,Unemployed,2531
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Unemployed,3378
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Unemployed,2670
+2011,Stafford,E07000197,West Midlands (England),Total,Unemployed,3028
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Unemployed,2031
+2011,Tamworth,E07000199,West Midlands (England),Total,Unemployed,2541
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Unemployed,1662
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Unemployed,4363
+2011,Rugby,E07000220,West Midlands (England),Total,Unemployed,2613
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Unemployed,2154
+2011,Warwick,E07000222,West Midlands (England),Total,Unemployed,3118
+2011,Birmingham,E08000025,West Midlands (England),Total,Unemployed,54114
+2011,Coventry,E08000026,West Midlands (England),Total,Unemployed,12532
+2011,Dudley,E08000027,West Midlands (England),Total,Unemployed,12064
+2011,Sandwell,E08000028,West Midlands (England),Total,Unemployed,16049
+2011,Solihull,E08000029,West Midlands (England),Total,Unemployed,6304
+2011,Walsall,E08000030,West Midlands (England),Total,Unemployed,13006
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Unemployed,14127
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Unemployed,2070
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Unemployed,1690
+2011,Redditch,E07000236,West Midlands (England),Total,Unemployed,2877
+2011,Worcester,E07000237,West Midlands (England),Total,Unemployed,3071
+2011,Wychavon,E07000238,West Midlands (England),Total,Unemployed,2675
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Unemployed,3041
+2011,Bedford,E06000055,East of England,Total,Unemployed,5060
+2011,Central Bedfordshire,E06000056,East of England,Total,Unemployed,6443
+2011,Luton,E06000032,East of England,Total,Unemployed,8337
+2011,Peterborough,E06000031,East of England,Total,Unemployed,6691
+2011,Southend-on-Sea,E06000033,East of England,Total,Unemployed,6209
+2011,Thurrock,E06000034,East of England,Total,Unemployed,6190
+2011,Cambridge,E07000008,East of England,Total,Unemployed,2641
+2011,East Cambridgeshire,E07000009,East of England,Total,Unemployed,1747
+2011,Fenland,E07000010,East of England,Total,Unemployed,2931
+2011,Huntingdonshire,E07000011,East of England,Total,Unemployed,3957
+2011,South Cambridgeshire,E07000012,East of England,Total,Unemployed,2499
+2011,Basildon,E07000066,East of England,Total,Unemployed,5846
+2011,Braintree,E07000067,East of England,Total,Unemployed,4014
+2011,Brentwood,E07000068,East of England,Total,Unemployed,1667
+2011,Castle Point,E07000069,East of England,Total,Unemployed,2289
+2011,Chelmsford,E07000070,East of England,Total,Unemployed,4223
+2011,Colchester,E07000071,East of England,Total,Unemployed,4456
+2011,Epping Forest,E07000072,East of England,Total,Unemployed,3259
+2011,Harlow,E07000073,East of England,Total,Unemployed,3043
+2011,Maldon,E07000074,East of England,Total,Unemployed,1381
+2011,Rochford,E07000075,East of England,Total,Unemployed,1836
+2011,Tendring,E07000076,East of England,Total,Unemployed,4533
+2011,Uttlesford,E07000077,East of England,Total,Unemployed,1527
+2011,Broxbourne,E07000095,East of England,Total,Unemployed,2825
+2011,Dacorum,E07000096,East of England,Total,Unemployed,3829
+2011,East Hertfordshire,E07000242,East of England,Total,Unemployed,2849
+2011,Hertsmere,E07000098,East of England,Total,Unemployed,2650
+2011,North Hertfordshire,E07000099,East of England,Total,Unemployed,3145
+2011,St Albans,E07000240,East of England,Total,Unemployed,2715
+2011,Stevenage,E07000243,East of England,Total,Unemployed,2925
+2011,Three Rivers,E07000102,East of England,Total,Unemployed,1984
+2011,Watford,E07000103,East of England,Total,Unemployed,2692
+2011,Welwyn Hatfield,E07000241,East of England,Total,Unemployed,2687
+2011,Breckland,E07000143,East of England,Total,Unemployed,3302
+2011,Broadland,E07000144,East of England,Total,Unemployed,2314
+2011,Great Yarmouth,E07000145,East of England,Total,Unemployed,4258
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Unemployed,3901
+2011,North Norfolk,E07000147,East of England,Total,Unemployed,2404
+2011,Norwich,E07000148,East of England,Total,Unemployed,5060
+2011,South Norfolk,E07000149,East of England,Total,Unemployed,2439
+2011,Babergh,E07000200,East of England,Total,Unemployed,1879
+2011,Forest Heath,E07000201,East of England,Total,Unemployed,1412
+2011,Ipswich,E07000202,East of England,Total,Unemployed,5212
+2011,Mid Suffolk,E07000203,East of England,Total,Unemployed,1789
+2011,St Edmundsbury,E07000204,East of England,Total,Unemployed,2463
+2011,Suffolk Coastal,E07000205,East of England,Total,Unemployed,2394
+2011,Waveney,E07000206,East of England,Total,Unemployed,3724
+2011,Camden,E09000007,London,Total,Unemployed,7755
+2011,City of London,E09000001,London,Total,Unemployed,187
+2011,Hackney,E09000012,London,Total,Unemployed,13207
+2011,Hammersmith and Fulham,E09000013,London,Total,Unemployed,7060
+2011,Haringey,E09000014,London,Total,Unemployed,11730
+2011,Islington,E09000019,London,Total,Unemployed,8960
+2011,Kensington and Chelsea,E09000020,London,Total,Unemployed,5433
+2011,Lambeth,E09000022,London,Total,Unemployed,14255
+2011,Lewisham,E09000023,London,Total,Unemployed,12776
+2011,Newham,E09000025,London,Total,Unemployed,15734
+2011,Southwark,E09000028,London,Total,Unemployed,13484
+2011,Tower Hamlets,E09000030,London,Total,Unemployed,13259
+2011,Wandsworth,E09000032,London,Total,Unemployed,9311
+2011,Westminster,E09000033,London,Total,Unemployed,7941
+2011,Barking and Dagenham,E09000002,London,Total,Unemployed,9367
+2011,Barnet,E09000003,London,Total,Unemployed,11476
+2011,Bexley,E09000004,London,Total,Unemployed,7245
+2011,Brent,E09000005,London,Total,Unemployed,13535
+2011,Bromley,E09000006,London,Total,Unemployed,8668
+2011,Croydon,E09000008,London,Total,Unemployed,14512
+2011,Ealing,E09000009,London,Total,Unemployed,13158
+2011,Enfield,E09000010,London,Total,Unemployed,13192
+2011,Greenwich,E09000011,London,Total,Unemployed,11518
+2011,Harrow,E09000015,London,Total,Unemployed,7854
+2011,Havering,E09000016,London,Total,Unemployed,7627
+2011,Hillingdon,E09000017,London,Total,Unemployed,8693
+2011,Hounslow,E09000018,London,Total,Unemployed,8815
+2011,Kingston upon Thames,E09000021,London,Total,Unemployed,3850
+2011,Merton,E09000024,London,Total,Unemployed,6072
+2011,Redbridge,E09000026,London,Total,Unemployed,10590
+2011,Richmond upon Thames,E09000027,London,Total,Unemployed,4153
+2011,Sutton,E09000029,London,Total,Unemployed,5429
+2011,Waltham Forest,E09000031,London,Total,Unemployed,11654
+2011,Bracknell Forest,E06000036,South East (England),Total,Unemployed,2808
+2011,Brighton and Hove,E06000043,South East (England),Total,Unemployed,7818
+2011,Isle of Wight,E06000046,South East (England),Total,Unemployed,4386
+2011,Medway,E06000035,South East (England),Total,Unemployed,9469
+2011,Milton Keynes,E06000042,South East (England),Total,Unemployed,8640
+2011,Portsmouth,E06000044,South East (England),Total,Unemployed,6536
+2011,Reading,E06000038,South East (England),Total,Unemployed,5329
+2011,Slough,E06000039,South East (England),Total,Unemployed,5440
+2011,Southampton,E06000045,South East (England),Total,Unemployed,7631
+2011,West Berkshire,E06000037,South East (England),Total,Unemployed,3279
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Unemployed,3292
+2011,Wokingham,E06000041,South East (England),Total,Unemployed,2958
+2011,Aylesbury Vale,E07000004,South East (England),Total,Unemployed,3869
+2011,Chiltern,E07000005,South East (England),Total,Unemployed,1728
+2011,South Bucks,E07000006,South East (England),Total,Unemployed,1267
+2011,Wycombe,E07000007,South East (England),Total,Unemployed,4023
+2011,Eastbourne,E07000061,South East (England),Total,Unemployed,2874
+2011,Hastings,E07000062,South East (England),Total,Unemployed,3621
+2011,Lewes,E07000063,South East (England),Total,Unemployed,2319
+2011,Rother,E07000064,South East (England),Total,Unemployed,2019
+2011,Wealden,E07000065,South East (England),Total,Unemployed,2670
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Unemployed,3999
+2011,East Hampshire,E07000085,South East (England),Total,Unemployed,2133
+2011,Eastleigh,E07000086,South East (England),Total,Unemployed,2768
+2011,Fareham,E07000087,South East (England),Total,Unemployed,2117
+2011,Gosport,E07000088,South East (England),Total,Unemployed,2520
+2011,Hart,E07000089,South East (England),Total,Unemployed,1570
+2011,Havant,E07000090,South East (England),Total,Unemployed,3444
+2011,New Forest,E07000091,South East (England),Total,Unemployed,3288
+2011,Rushmoor,E07000092,South East (England),Total,Unemployed,2593
+2011,Test Valley,E07000093,South East (England),Total,Unemployed,2133
+2011,Winchester,E07000094,South East (England),Total,Unemployed,1943
+2011,Ashford,E07000105,South East (England),Total,Unemployed,3058
+2011,Canterbury,E07000106,South East (England),Total,Unemployed,3410
+2011,Dartford,E07000107,South East (England),Total,Unemployed,3099
+2011,Dover,E07000108,South East (England),Total,Unemployed,3607
+2011,Gravesham,E07000109,South East (England),Total,Unemployed,3714
+2011,Maidstone,E07000110,South East (England),Total,Unemployed,3848
+2011,Sevenoaks,E07000111,South East (England),Total,Unemployed,2332
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Unemployed,3576
+2011,Swale,E07000113,South East (England),Total,Unemployed,4538
+2011,Thanet,E07000114,South East (England),Total,Unemployed,5358
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Unemployed,2580
+2011,Tunbridge Wells,E07000116,South East (England),Total,Unemployed,2421
+2011,Cherwell,E07000177,South East (England),Total,Unemployed,2936
+2011,Oxford,E07000178,South East (England),Total,Unemployed,3801
+2011,South Oxfordshire,E07000179,South East (England),Total,Unemployed,2446
+2011,Vale of White Horse,E07000180,South East (England),Total,Unemployed,2190
+2011,West Oxfordshire,E07000181,South East (England),Total,Unemployed,1730
+2011,Elmbridge,E07000207,South East (England),Total,Unemployed,2457
+2011,Epsom and Ewell,E07000208,South East (England),Total,Unemployed,1480
+2011,Guildford,E07000209,South East (England),Total,Unemployed,2750
+2011,Mole Valley,E07000210,South East (England),Total,Unemployed,1529
+2011,Reigate and Banstead,E07000211,South East (England),Total,Unemployed,2892
+2011,Runnymede,E07000212,South East (England),Total,Unemployed,1630
+2011,Spelthorne,E07000213,South East (England),Total,Unemployed,2277
+2011,Surrey Heath,E07000214,South East (England),Total,Unemployed,1731
+2011,Tandridge,E07000215,South East (England),Total,Unemployed,1645
+2011,Waverley,E07000216,South East (England),Total,Unemployed,2068
+2011,Woking,E07000217,South East (England),Total,Unemployed,2313
+2011,Adur,E07000223,South East (England),Total,Unemployed,1466
+2011,Arun,E07000224,South East (England),Total,Unemployed,3538
+2011,Chichester,E07000225,South East (England),Total,Unemployed,2267
+2011,Crawley,E07000226,South East (England),Total,Unemployed,3490
+2011,Horsham,E07000227,South East (England),Total,Unemployed,2557
+2011,Mid Sussex,E07000228,South East (England),Total,Unemployed,2435
+2011,Worthing,E07000229,South East (England),Total,Unemployed,2578
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Unemployed,3548
+2011,Bournemouth,E06000028,South West (England),Total,Unemployed,5262
+2011,"Bristol, City of",E06000023,South West (England),Total,Unemployed,13817
+2011,Cornwall,E06000052,South West (England),Total,Unemployed,12694
+2011,Isles of Scilly,E06000053,South West (England),Total,Unemployed,18
+2011,North Somerset,E06000024,South West (England),Total,Unemployed,4350
+2011,Plymouth,E06000026,South West (England),Total,Unemployed,8136
+2011,Poole,E06000029,South West (England),Total,Unemployed,3413
+2011,South Gloucestershire,E06000025,South West (England),Total,Unemployed,5354
+2011,Swindon,E06000030,South West (England),Total,Unemployed,6518
+2011,Torbay,E06000027,South West (England),Total,Unemployed,4275
+2011,Wiltshire,E06000054,South West (England),Total,Unemployed,9999
+2011,East Devon,E07000040,South West (England),Total,Unemployed,2270
+2011,Exeter,E07000041,South West (England),Total,Unemployed,2739
+2011,Mid Devon,E07000042,South West (England),Total,Unemployed,1513
+2011,North Devon,E07000043,South West (England),Total,Unemployed,2052
+2011,South Hams,E07000044,South West (England),Total,Unemployed,1422
+2011,Teignbridge,E07000045,South West (England),Total,Unemployed,2477
+2011,Torridge,E07000046,South West (England),Total,Unemployed,1586
+2011,West Devon,E07000047,South West (England),Total,Unemployed,1197
+2011,Christchurch,E07000048,South West (England),Total,Unemployed,1007
+2011,East Dorset,E07000049,South West (England),Total,Unemployed,1309
+2011,North Dorset,E07000050,South West (England),Total,Unemployed,1301
+2011,Purbeck,E07000051,South West (England),Total,Unemployed,899
+2011,West Dorset,E07000052,South West (England),Total,Unemployed,1616
+2011,Weymouth and Portland,E07000053,South West (England),Total,Unemployed,1854
+2011,Cheltenham,E07000078,South West (England),Total,Unemployed,2878
+2011,Cotswold,E07000079,South West (England),Total,Unemployed,1491
+2011,Forest of Dean,E07000080,South West (England),Total,Unemployed,2084
+2011,Gloucester,E07000081,South West (England),Total,Unemployed,3791
+2011,Stroud,E07000082,South West (England),Total,Unemployed,2306
+2011,Tewkesbury,E07000083,South West (England),Total,Unemployed,1682
+2011,Mendip,E07000187,South West (England),Total,Unemployed,2297
+2011,Sedgemoor,E07000188,South West (England),Total,Unemployed,2972
+2011,South Somerset,E07000189,South West (England),Total,Unemployed,3170
+2011,Taunton Deane,E07000190,South West (England),Total,Unemployed,2223
+2011,West Somerset,E07000191,South West (England),Total,Unemployed,688
+2011,Isle of Anglesey,W06000001,Wales,Total,Unemployed,2381
+2011,Gwynedd,W06000002,Wales,Total,Unemployed,3176
+2011,Conwy,W06000003,Wales,Total,Unemployed,3362
+2011,Denbighshire,W06000004,Wales,Total,Unemployed,2857
+2011,Flintshire,W06000005,Wales,Total,Unemployed,4332
+2011,Wrexham,W06000006,Wales,Total,Unemployed,4128
+2011,Powys,W06000023,Wales,Total,Unemployed,2928
+2011,Ceredigion,W06000008,Wales,Total,Unemployed,1469
+2011,Pembrokeshire,W06000009,Wales,Total,Unemployed,3555
+2011,Carmarthenshire,W06000010,Wales,Total,Unemployed,4962
+2011,Swansea,W06000011,Wales,Total,Unemployed,6831
+2011,Neath Port Talbot,W06000012,Wales,Total,Unemployed,4630
+2011,Bridgend,W06000013,Wales,Total,Unemployed,4687
+2011,Vale of Glamorgan,W06000014,Wales,Total,Unemployed,3956
+2011,Cardiff,W06000015,Wales,Total,Unemployed,11566
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Unemployed,8104
+2011,Merthyr Tydfil,W06000024,Wales,Total,Unemployed,2481
+2011,Caerphilly,W06000018,Wales,Total,Unemployed,6731
+2011,Blaenau Gwent,W06000019,Wales,Total,Unemployed,3557
+2011,Torfaen,W06000020,Wales,Total,Unemployed,3163
+2011,Monmouthshire,W06000021,Wales,Total,Unemployed,2217
+2011,Newport,W06000022,Wales,Total,Unemployed,5616
+2011,Darlington,E06000005,North East (England),Total, Inactive: Retired,12214
+2011,County Durham,E06000047,North East (England),Total, Inactive: Retired,65444
+2011,Hartlepool,E06000001,North East (England),Total, Inactive: Retired,10621
+2011,Middlesbrough,E06000002,North East (England),Total, Inactive: Retired,13922
+2011,Northumberland,E06000057,North East (England),Total, Inactive: Retired,43897
+2011,Redcar and Cleveland,E06000003,North East (England),Total, Inactive: Retired,19206
+2011,Stockton-on-Tees,E06000004,North East (England),Total, Inactive: Retired,20767
+2011,Gateshead,E08000037,North East (England),Total, Inactive: Retired,23531
+2011,Newcastle upon Tyne,E08000021,North East (England),Total, Inactive: Retired,24571
+2011,North Tyneside,E08000022,North East (England),Total, Inactive: Retired,23497
+2011,South Tyneside,E08000023,North East (England),Total, Inactive: Retired,17355
+2011,Sunderland,E08000024,North East (England),Total, Inactive: Retired,32215
+2011,Blackburn with Darwen,E06000008,North West (England),Total, Inactive: Retired,13248
+2011,Blackpool,E06000009,North West (England),Total, Inactive: Retired,16807
+2011,Cheshire East,E06000049,North West (England),Total, Inactive: Retired,46446
+2011,Cheshire West and Chester,E06000050,North West (England),Total, Inactive: Retired,39893
+2011,Halton,E06000006,North West (England),Total, Inactive: Retired,13332
+2011,Warrington,E06000007,North West (England),Total, Inactive: Retired,22189
+2011,Allerdale,E07000026,North West (England),Total, Inactive: Retired,13422
+2011,Barrow-in-Furness,E07000027,North West (England),Total, Inactive: Retired,9168
+2011,Carlisle,E07000028,North West (England),Total, Inactive: Retired,12331
+2011,Copeland,E07000029,North West (England),Total, Inactive: Retired,9657
+2011,Eden,E07000030,North West (England),Total, Inactive: Retired,6822
+2011,South Lakeland,E07000031,North West (England),Total, Inactive: Retired,15457
+2011,Bolton,E08000001,North West (England),Total, Inactive: Retired,29514
+2011,Bury,E08000002,North West (England),Total, Inactive: Retired,19558
+2011,Manchester,E08000003,North West (England),Total, Inactive: Retired,29179
+2011,Oldham,E08000004,North West (England),Total, Inactive: Retired,22426
+2011,Rochdale,E08000005,North West (England),Total, Inactive: Retired,20853
+2011,Salford,E08000006,North West (England),Total, Inactive: Retired,20950
+2011,Stockport,E08000007,North West (England),Total, Inactive: Retired,31395
+2011,Tameside,E08000008,North West (England),Total, Inactive: Retired,23682
+2011,Trafford,E08000009,North West (England),Total, Inactive: Retired,21729
+2011,Wigan,E08000010,North West (England),Total, Inactive: Retired,38211
+2011,Burnley,E07000117,North West (England),Total, Inactive: Retired,9745
+2011,Chorley,E07000118,North West (England),Total, Inactive: Retired,12899
+2011,Fylde,E07000119,North West (England),Total, Inactive: Retired,11262
+2011,Hyndburn,E07000120,North West (England),Total, Inactive: Retired,8803
+2011,Lancaster,E07000121,North West (England),Total, Inactive: Retired,15718
+2011,Pendle,E07000122,North West (England),Total, Inactive: Retired,9753
+2011,Preston,E07000123,North West (England),Total, Inactive: Retired,12147
+2011,Ribble Valley,E07000124,North West (England),Total, Inactive: Retired,7431
+2011,Rossendale,E07000125,North West (England),Total, Inactive: Retired,7372
+2011,South Ribble,E07000126,North West (England),Total, Inactive: Retired,13286
+2011,West Lancashire,E07000127,North West (England),Total, Inactive: Retired,13888
+2011,Wyre,E07000128,North West (England),Total, Inactive: Retired,16467
+2011,Knowsley,E08000011,North West (England),Total, Inactive: Retired,14415
+2011,Liverpool,E08000012,North West (England),Total, Inactive: Retired,41070
+2011,Sefton,E08000014,North West (England),Total, Inactive: Retired,34329
+2011,St. Helens,E08000013,North West (England),Total, Inactive: Retired,22144
+2011,Wirral,E08000015,North West (England),Total, Inactive: Retired,38761
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total, Inactive: Retired,47790
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total, Inactive: Retired,23025
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total, Inactive: Retired,18018
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total, Inactive: Retired,20296
+2011,York,E06000014,Yorkshire and The Humber,Total, Inactive: Retired,20688
+2011,Craven,E07000163,Yorkshire and The Humber,Total, Inactive: Retired,7525
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total, Inactive: Retired,11809
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total, Inactive: Retired,17693
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total, Inactive: Retired,5761
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total, Inactive: Retired,7005
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total, Inactive: Retired,16117
+2011,Selby,E07000169,Yorkshire and The Humber,Total, Inactive: Retired,9710
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total, Inactive: Retired,28008
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total, Inactive: Retired,34110
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total, Inactive: Retired,31117
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total, Inactive: Retired,52941
+2011,Bradford,E08000032,Yorkshire and The Humber,Total, Inactive: Retired,43961
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total, Inactive: Retired,22405
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total, Inactive: Retired,44027
+2011,Leeds,E08000035,Yorkshire and The Humber,Total, Inactive: Retired,69446
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total, Inactive: Retired,38721
+2011,Derby,E06000015,East Midlands (England),Total, Inactive: Retired,22925
+2011,Leicester,E06000016,East Midlands (England),Total, Inactive: Retired,22435
+2011,Nottingham,E06000018,East Midlands (England),Total, Inactive: Retired,21144
+2011,Rutland,E06000017,East Midlands (England),Total, Inactive: Retired,4579
+2011,Amber Valley,E07000032,East Midlands (England),Total, Inactive: Retired,15715
+2011,Bolsover,E07000033,East Midlands (England),Total, Inactive: Retired,9463
+2011,Chesterfield,E07000034,East Midlands (England),Total, Inactive: Retired,12894
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total, Inactive: Retired,9903
+2011,Erewash,E07000036,East Midlands (England),Total, Inactive: Retired,12894
+2011,High Peak,E07000037,East Midlands (England),Total, Inactive: Retired,10561
+2011,North East Derbyshire,E07000038,East Midlands (England),Total, Inactive: Retired,14159
+2011,South Derbyshire,E07000039,East Midlands (England),Total, Inactive: Retired,10286
+2011,Blaby,E07000129,East Midlands (England),Total, Inactive: Retired,10721
+2011,Charnwood,E07000130,East Midlands (England),Total, Inactive: Retired,17092
+2011,Harborough,E07000131,East Midlands (England),Total, Inactive: Retired,9569
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total, Inactive: Retired,12924
+2011,Melton,E07000133,East Midlands (England),Total, Inactive: Retired,5831
+2011,North West Leicestershire,E07000134,East Midlands (England),Total, Inactive: Retired,11025
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total, Inactive: Retired,6102
+2011,Boston,E07000136,East Midlands (England),Total, Inactive: Retired,7842
+2011,East Lindsey,E07000137,East Midlands (England),Total, Inactive: Retired,24038
+2011,Lincoln,E07000138,East Midlands (England),Total, Inactive: Retired,8015
+2011,North Kesteven,E07000139,East Midlands (England),Total, Inactive: Retired,14890
+2011,South Holland,E07000140,East Midlands (England),Total, Inactive: Retired,11891
+2011,South Kesteven,E07000141,East Midlands (England),Total, Inactive: Retired,16064
+2011,West Lindsey,E07000142,East Midlands (England),Total, Inactive: Retired,12366
+2011,Corby,E07000150,East Midlands (England),Total, Inactive: Retired,5566
+2011,Daventry,E07000151,East Midlands (England),Total, Inactive: Retired,8777
+2011,East Northamptonshire,E07000152,East Midlands (England),Total, Inactive: Retired,9549
+2011,Kettering,E07000153,East Midlands (England),Total, Inactive: Retired,9729
+2011,Northampton,E07000154,East Midlands (England),Total, Inactive: Retired,17458
+2011,South Northamptonshire,E07000155,East Midlands (England),Total, Inactive: Retired,9161
+2011,Wellingborough,E07000156,East Midlands (England),Total, Inactive: Retired,8059
+2011,Ashfield,E07000170,East Midlands (England),Total, Inactive: Retired,14545
+2011,Bassetlaw,E07000171,East Midlands (England),Total, Inactive: Retired,14204
+2011,Broxtowe,E07000172,East Midlands (England),Total, Inactive: Retired,13440
+2011,Gedling,E07000173,East Midlands (England),Total, Inactive: Retired,13774
+2011,Mansfield,E07000174,East Midlands (England),Total, Inactive: Retired,12120
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total, Inactive: Retired,14352
+2011,Rushcliffe,E07000176,East Midlands (England),Total, Inactive: Retired,12820
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total, Inactive: Retired,22149
+2011,Shropshire,E06000051,West Midlands (England),Total, Inactive: Retired,37833
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total, Inactive: Retired,26108
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total, Inactive: Retired,16798
+2011,Cannock Chase,E07000192,West Midlands (England),Total, Inactive: Retired,10735
+2011,East Staffordshire,E07000193,West Midlands (England),Total, Inactive: Retired,12497
+2011,Lichfield,E07000194,West Midlands (England),Total, Inactive: Retired,13883
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total, Inactive: Retired,14830
+2011,South Staffordshire,E07000196,West Midlands (England),Total, Inactive: Retired,14754
+2011,Stafford,E07000197,West Midlands (England),Total, Inactive: Retired,16246
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total, Inactive: Retired,13745
+2011,Tamworth,E07000199,West Midlands (England),Total, Inactive: Retired,8104
+2011,North Warwickshire,E07000218,West Midlands (England),Total, Inactive: Retired,7636
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total, Inactive: Retired,14372
+2011,Rugby,E07000220,West Midlands (England),Total, Inactive: Retired,10723
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total, Inactive: Retired,15155
+2011,Warwick,E07000222,West Midlands (England),Total, Inactive: Retired,13319
+2011,Birmingham,E08000025,West Midlands (England),Total, Inactive: Retired,81213
+2011,Coventry,E08000026,West Midlands (England),Total, Inactive: Retired,27790
+2011,Dudley,E08000027,West Midlands (England),Total, Inactive: Retired,36619
+2011,Sandwell,E08000028,West Midlands (England),Total, Inactive: Retired,28582
+2011,Solihull,E08000029,West Midlands (England),Total, Inactive: Retired,24019
+2011,Walsall,E08000030,West Midlands (England),Total, Inactive: Retired,28865
+2011,Wolverhampton,E08000031,West Midlands (England),Total, Inactive: Retired,23763
+2011,Bromsgrove,E07000234,West Midlands (England),Total, Inactive: Retired,11031
+2011,Malvern Hills,E07000235,West Midlands (England),Total, Inactive: Retired,10292
+2011,Redditch,E07000236,West Midlands (England),Total, Inactive: Retired,8106
+2011,Worcester,E07000237,West Midlands (England),Total, Inactive: Retired,8918
+2011,Wychavon,E07000238,West Midlands (England),Total, Inactive: Retired,14864
+2011,Wyre Forest,E07000239,West Midlands (England),Total, Inactive: Retired,13356
+2011,Bedford,E06000055,East of England,Total, Inactive: Retired,14517
+2011,Central Bedfordshire,E06000056,East of England,Total, Inactive: Retired,25111
+2011,Luton,E06000032,East of England,Total, Inactive: Retired,14336
+2011,Peterborough,E06000031,East of England,Total, Inactive: Retired,15323
+2011,Southend-on-Sea,E06000033,East of England,Total, Inactive: Retired,17655
+2011,Thurrock,E06000034,East of England,Total, Inactive: Retired,13377
+2011,Cambridge,E07000008,East of England,Total, Inactive: Retired,7001
+2011,East Cambridgeshire,E07000009,East of England,Total, Inactive: Retired,8224
+2011,Fenland,E07000010,East of England,Total, Inactive: Retired,11869
+2011,Huntingdonshire,E07000011,East of England,Total, Inactive: Retired,17677
+2011,South Cambridgeshire,E07000012,East of England,Total, Inactive: Retired,14045
+2011,Basildon,E07000066,East of England,Total, Inactive: Retired,17497
+2011,Braintree,E07000067,East of England,Total, Inactive: Retired,15027
+2011,Brentwood,E07000068,East of England,Total, Inactive: Retired,7884
+2011,Castle Point,E07000069,East of England,Total, Inactive: Retired,12525
+2011,Chelmsford,E07000070,East of England,Total, Inactive: Retired,17484
+2011,Colchester,E07000071,East of England,Total, Inactive: Retired,16901
+2011,Epping Forest,E07000072,East of England,Total, Inactive: Retired,12746
+2011,Harlow,E07000073,East of England,Total, Inactive: Retired,6625
+2011,Maldon,E07000074,East of England,Total, Inactive: Retired,8148
+2011,Rochford,E07000075,East of England,Total, Inactive: Retired,10715
+2011,Tendring,E07000076,East of England,Total, Inactive: Retired,22402
+2011,Uttlesford,E07000077,East of England,Total, Inactive: Retired,7685
+2011,Broxbourne,E07000095,East of England,Total, Inactive: Retired,8930
+2011,Dacorum,E07000096,East of England,Total, Inactive: Retired,12906
+2011,East Hertfordshire,E07000242,East of England,Total, Inactive: Retired,12485
+2011,Hertsmere,E07000098,East of England,Total, Inactive: Retired,8029
+2011,North Hertfordshire,E07000099,East of England,Total, Inactive: Retired,12149
+2011,St Albans,E07000240,East of England,Total, Inactive: Retired,12321
+2011,Stevenage,E07000243,East of England,Total, Inactive: Retired,6749
+2011,Three Rivers,E07000102,East of England,Total, Inactive: Retired,7971
+2011,Watford,E07000103,East of England,Total, Inactive: Retired,6260
+2011,Welwyn Hatfield,E07000241,East of England,Total, Inactive: Retired,8920
+2011,Breckland,E07000143,East of England,Total, Inactive: Retired,16939
+2011,Broadland,E07000144,East of England,Total, Inactive: Retired,16776
+2011,Great Yarmouth,E07000145,East of England,Total, Inactive: Retired,12881
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total, Inactive: Retired,20888
+2011,North Norfolk,E07000147,East of England,Total, Inactive: Retired,17240
+2011,Norwich,E07000148,East of England,Total, Inactive: Retired,10766
+2011,South Norfolk,E07000149,East of England,Total, Inactive: Retired,16249
+2011,Babergh,E07000200,East of England,Total, Inactive: Retired,11468
+2011,Forest Heath,E07000201,East of England,Total, Inactive: Retired,5403
+2011,Ipswich,E07000202,East of England,Total, Inactive: Retired,11279
+2011,Mid Suffolk,E07000203,East of England,Total, Inactive: Retired,12193
+2011,St Edmundsbury,E07000204,East of England,Total, Inactive: Retired,12451
+2011,Suffolk Coastal,E07000205,East of England,Total, Inactive: Retired,17161
+2011,Waveney,E07000206,East of England,Total, Inactive: Retired,16590
+2011,Camden,E09000007,London,Total, Inactive: Retired,11908
+2011,City of London,E09000001,London,Total, Inactive: Retired,580
+2011,Hackney,E09000012,London,Total, Inactive: Retired,10441
+2011,Hammersmith and Fulham,E09000013,London,Total, Inactive: Retired,9135
+2011,Haringey,E09000014,London,Total, Inactive: Retired,13391
+2011,Islington,E09000019,London,Total, Inactive: Retired,10204
+2011,Kensington and Chelsea,E09000020,London,Total, Inactive: Retired,10119
+2011,Lambeth,E09000022,London,Total, Inactive: Retired,13265
+2011,Lewisham,E09000023,London,Total, Inactive: Retired,15088
+2011,Newham,E09000025,London,Total, Inactive: Retired,13211
+2011,Southwark,E09000028,London,Total, Inactive: Retired,12940
+2011,Tower Hamlets,E09000030,London,Total, Inactive: Retired,9262
+2011,Wandsworth,E09000032,London,Total, Inactive: Retired,15140
+2011,Westminster,E09000033,London,Total, Inactive: Retired,12010
+2011,Barking and Dagenham,E09000002,London,Total, Inactive: Retired,10995
+2011,Barnet,E09000003,London,Total, Inactive: Retired,22967
+2011,Bexley,E09000004,London,Total, Inactive: Retired,21839
+2011,Brent,E09000005,London,Total, Inactive: Retired,18619
+2011,Bromley,E09000006,London,Total, Inactive: Retired,29656
+2011,Croydon,E09000008,London,Total, Inactive: Retired,26079
+2011,Ealing,E09000009,London,Total, Inactive: Retired,20905
+2011,Enfield,E09000010,London,Total, Inactive: Retired,22062
+2011,Greenwich,E09000011,London,Total, Inactive: Retired,15695
+2011,Harrow,E09000015,London,Total, Inactive: Retired,18189
+2011,Havering,E09000016,London,Total, Inactive: Retired,24404
+2011,Hillingdon,E09000017,London,Total, Inactive: Retired,20310
+2011,Hounslow,E09000018,London,Total, Inactive: Retired,15843
+2011,Kingston upon Thames,E09000021,London,Total, Inactive: Retired,11281
+2011,Merton,E09000024,London,Total, Inactive: Retired,12903
+2011,Redbridge,E09000026,London,Total, Inactive: Retired,19026
+2011,Richmond upon Thames,E09000027,London,Total, Inactive: Retired,13794
+2011,Sutton,E09000029,London,Total, Inactive: Retired,15461
+2011,Waltham Forest,E09000031,London,Total, Inactive: Retired,15335
+2011,Bracknell Forest,E06000036,South East (England),Total, Inactive: Retired,8496
+2011,Brighton and Hove,E06000043,South East (England),Total, Inactive: Retired,19625
+2011,Isle of Wight,E06000046,South East (England),Total, Inactive: Retired,20478
+2011,Medway,E06000035,South East (England),Total, Inactive: Retired,24738
+2011,Milton Keynes,E06000042,South East (England),Total, Inactive: Retired,18654
+2011,Portsmouth,E06000044,South East (England),Total, Inactive: Retired,16385
+2011,Reading,E06000038,South East (England),Total, Inactive: Retired,10001
+2011,Slough,E06000039,South East (England),Total, Inactive: Retired,7517
+2011,Southampton,E06000045,South East (England),Total, Inactive: Retired,17775
+2011,West Berkshire,E06000037,South East (England),Total, Inactive: Retired,14094
+2011,Windsor and Maidenhead,E06000040,South East (England),Total, Inactive: Retired,13366
+2011,Wokingham,E06000041,South East (England),Total, Inactive: Retired,14976
+2011,Aylesbury Vale,E07000004,South East (England),Total, Inactive: Retired,15684
+2011,Chiltern,E07000005,South East (England),Total, Inactive: Retired,10038
+2011,South Bucks,E07000006,South East (England),Total, Inactive: Retired,6914
+2011,Wycombe,E07000007,South East (England),Total, Inactive: Retired,15713
+2011,Eastbourne,E07000061,South East (England),Total, Inactive: Retired,11829
+2011,Hastings,E07000062,South East (England),Total, Inactive: Retired,9469
+2011,Lewes,E07000063,South East (England),Total, Inactive: Retired,12184
+2011,Rother,E07000064,South East (England),Total, Inactive: Retired,14163
+2011,Wealden,E07000065,South East (England),Total, Inactive: Retired,19091
+2011,Basingstoke and Deane,E07000084,South East (England),Total, Inactive: Retired,15461
+2011,East Hampshire,E07000085,South East (England),Total, Inactive: Retired,12787
+2011,Eastleigh,E07000086,South East (England),Total, Inactive: Retired,12922
+2011,Fareham,E07000087,South East (England),Total, Inactive: Retired,14078
+2011,Gosport,E07000088,South East (England),Total, Inactive: Retired,8650
+2011,Hart,E07000089,South East (England),Total, Inactive: Retired,9425
+2011,Havant,E07000090,South East (England),Total, Inactive: Retired,14894
+2011,New Forest,E07000091,South East (England),Total, Inactive: Retired,24595
+2011,Rushmoor,E07000092,South East (England),Total, Inactive: Retired,6814
+2011,Test Valley,E07000093,South East (England),Total, Inactive: Retired,13087
+2011,Winchester,E07000094,South East (England),Total, Inactive: Retired,12223
+2011,Ashford,E07000105,South East (England),Total, Inactive: Retired,12141
+2011,Canterbury,E07000106,South East (England),Total, Inactive: Retired,16830
+2011,Dartford,E07000107,South East (England),Total, Inactive: Retired,8359
+2011,Dover,E07000108,South East (England),Total, Inactive: Retired,14215
+2011,Gravesham,E07000109,South East (England),Total, Inactive: Retired,9904
+2011,Maidstone,E07000110,South East (England),Total, Inactive: Retired,16310
+2011,Sevenoaks,E07000111,South East (England),Total, Inactive: Retired,12531
+2011,Folkestone and Hythe,E07000112,South East (England),Total, Inactive: Retired,13794
+2011,Swale,E07000113,South East (England),Total, Inactive: Retired,14903
+2011,Thanet,E07000114,South East (England),Total, Inactive: Retired,17231
+2011,Tonbridge and Malling,E07000115,South East (England),Total, Inactive: Retired,12531
+2011,Tunbridge Wells,E07000116,South East (England),Total, Inactive: Retired,10378
+2011,Cherwell,E07000177,South East (England),Total, Inactive: Retired,12694
+2011,Oxford,E07000178,South East (England),Total, Inactive: Retired,8346
+2011,South Oxfordshire,E07000179,South East (England),Total, Inactive: Retired,13471
+2011,Vale of White Horse,E07000180,South East (England),Total, Inactive: Retired,12150
+2011,West Oxfordshire,E07000181,South East (England),Total, Inactive: Retired,10418
+2011,Elmbridge,E07000207,South East (England),Total, Inactive: Retired,11239
+2011,Epsom and Ewell,E07000208,South East (England),Total, Inactive: Retired,7280
+2011,Guildford,E07000209,South East (England),Total, Inactive: Retired,11556
+2011,Mole Valley,E07000210,South East (England),Total, Inactive: Retired,9519
+2011,Reigate and Banstead,E07000211,South East (England),Total, Inactive: Retired,12278
+2011,Runnymede,E07000212,South East (England),Total, Inactive: Retired,7091
+2011,Spelthorne,E07000213,South East (England),Total, Inactive: Retired,9289
+2011,Surrey Heath,E07000214,South East (England),Total, Inactive: Retired,8441
+2011,Tandridge,E07000215,South East (England),Total, Inactive: Retired,8390
+2011,Waverley,E07000216,South East (England),Total, Inactive: Retired,12260
+2011,Woking,E07000217,South East (England),Total, Inactive: Retired,8242
+2011,Adur,E07000223,South East (England),Total, Inactive: Retired,7375
+2011,Arun,E07000224,South East (England),Total, Inactive: Retired,21665
+2011,Chichester,E07000225,South East (England),Total, Inactive: Retired,14773
+2011,Crawley,E07000226,South East (England),Total, Inactive: Retired,7333
+2011,Horsham,E07000227,South East (England),Total, Inactive: Retired,14601
+2011,Mid Sussex,E07000228,South East (England),Total, Inactive: Retired,14203
+2011,Worthing,E07000229,South East (England),Total, Inactive: Retired,11426
+2011,Bath and North East Somerset,E06000022,South West (England),Total, Inactive: Retired,17896
+2011,Bournemouth,E06000028,South West (England),Total, Inactive: Retired,16837
+2011,"Bristol, City of",E06000023,South West (England),Total, Inactive: Retired,31534
+2011,Cornwall,E06000052,South West (England),Total, Inactive: Retired,73605
+2011,Isles of Scilly,E06000053,South West (England),Total, Inactive: Retired,209
+2011,North Somerset,E06000024,South West (England),Total, Inactive: Retired,25366
+2011,Plymouth,E06000026,South West (England),Total, Inactive: Retired,27019
+2011,Poole,E06000029,South West (England),Total, Inactive: Retired,17178
+2011,South Gloucestershire,E06000025,South West (England),Total, Inactive: Retired,27390
+2011,Swindon,E06000030,South West (England),Total, Inactive: Retired,17868
+2011,Torbay,E06000027,South West (England),Total, Inactive: Retired,18416
+2011,Wiltshire,E06000054,South West (England),Total, Inactive: Retired,49893
+2011,East Devon,E07000040,South West (England),Total, Inactive: Retired,20750
+2011,Exeter,E07000041,South West (England),Total, Inactive: Retired,9976
+2011,Mid Devon,E07000042,South West (England),Total, Inactive: Retired,9194
+2011,North Devon,E07000043,South West (England),Total, Inactive: Retired,12257
+2011,South Hams,E07000044,South West (England),Total, Inactive: Retired,12247
+2011,Teignbridge,E07000045,South West (England),Total, Inactive: Retired,17009
+2011,Torridge,E07000046,South West (England),Total, Inactive: Retired,9527
+2011,West Devon,E07000047,South West (England),Total, Inactive: Retired,7630
+2011,Christchurch,E07000048,South West (England),Total, Inactive: Retired,7490
+2011,East Dorset,E07000049,South West (England),Total, Inactive: Retired,13495
+2011,North Dorset,E07000050,South West (England),Total, Inactive: Retired,8374
+2011,Purbeck,E07000051,South West (England),Total, Inactive: Retired,6493
+2011,West Dorset,E07000052,South West (England),Total, Inactive: Retired,14917
+2011,Weymouth and Portland,E07000053,South West (England),Total, Inactive: Retired,8694
+2011,Cheltenham,E07000078,South West (England),Total, Inactive: Retired,10916
+2011,Cotswold,E07000079,South West (England),Total, Inactive: Retired,9762
+2011,Forest of Dean,E07000080,South West (England),Total, Inactive: Retired,10701
+2011,Gloucester,E07000081,South West (England),Total, Inactive: Retired,10726
+2011,Stroud,E07000082,South West (England),Total, Inactive: Retired,12806
+2011,Tewkesbury,E07000083,South West (England),Total, Inactive: Retired,10057
+2011,Mendip,E07000187,South West (England),Total, Inactive: Retired,12049
+2011,Sedgemoor,E07000188,South West (England),Total, Inactive: Retired,14122
+2011,South Somerset,E07000189,South West (England),Total, Inactive: Retired,20745
+2011,Taunton Deane,E07000190,South West (England),Total, Inactive: Retired,12292
+2011,West Somerset,E07000191,South West (England),Total, Inactive: Retired,5764
+2011,Isle of Anglesey,W06000001,Wales,Total, Inactive: Retired,10150
+2011,Gwynedd,W06000002,Wales,Total, Inactive: Retired,14561
+2011,Conwy,W06000003,Wales,Total, Inactive: Retired,16178
+2011,Denbighshire,W06000004,Wales,Total, Inactive: Retired,12487
+2011,Flintshire,W06000005,Wales,Total, Inactive: Retired,18839
+2011,Wrexham,W06000006,Wales,Total, Inactive: Retired,14983
+2011,Powys,W06000023,Wales,Total, Inactive: Retired,17283
+2011,Ceredigion,W06000008,Wales,Total, Inactive: Retired,9550
+2011,Pembrokeshire,W06000009,Wales,Total, Inactive: Retired,16505
+2011,Carmarthenshire,W06000010,Wales,Total, Inactive: Retired,24097
+2011,Swansea,W06000011,Wales,Total, Inactive: Retired,27684
+2011,Neath Port Talbot,W06000012,Wales,Total, Inactive: Retired,17837
+2011,Bridgend,W06000013,Wales,Total, Inactive: Retired,17204
+2011,Vale of Glamorgan,W06000014,Wales,Total, Inactive: Retired,14912
+2011,Cardiff,W06000015,Wales,Total, Inactive: Retired,27061
+2011,Rhondda Cynon Taff,W06000016,Wales,Total, Inactive: Retired,27595
+2011,Merthyr Tydfil,W06000024,Wales,Total, Inactive: Retired,6690
+2011,Caerphilly,W06000018,Wales,Total, Inactive: Retired,21032
+2011,Blaenau Gwent,W06000019,Wales,Total, Inactive: Retired,8709
+2011,Torfaen,W06000020,Wales,Total, Inactive: Retired,11115
+2011,Monmouthshire,W06000021,Wales,Total, Inactive: Retired,11640
+2011,Newport,W06000022,Wales,Total, Inactive: Retired,15389

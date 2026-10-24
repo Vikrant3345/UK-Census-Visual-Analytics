@@ -1,0 +1,1741 @@
+﻿date,geography,area_code,Regions,Rural Urban,health_category,population
+2011,Darlington,E06000005,North East (England),Total,Very good health,47046
+2011,County Durham,E06000047,North East (England),Total,Very good health,217373
+2011,Hartlepool,E06000001,North East (England),Total,Very good health,39816
+2011,Middlesbrough,E06000002,North East (England),Total,Very good health,62855
+2011,Northumberland,E06000057,North East (England),Total,Very good health,138990
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Very good health,57285
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Very good health,88811
+2011,Gateshead,E08000037,North East (England),Total,Very good health,85320
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Very good health,133933
+2011,North Tyneside,E08000022,North East (England),Total,Very good health,90031
+2011,South Tyneside,E08000023,North East (England),Total,Very good health,63345
+2011,Sunderland,E08000024,North East (England),Total,Very good health,117365
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Very good health,66991
+2011,Blackpool,E06000009,North West (England),Total,Very good health,56600
+2011,Cheshire East,E06000049,North West (England),Total,Very good health,181595
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Very good health,159777
+2011,Halton,E06000006,North West (England),Total,Very good health,58684
+2011,Warrington,E06000007,North West (England),Total,Very good health,100734
+2011,Allerdale,E07000026,North West (England),Total,Very good health,42887
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Very good health,29538
+2011,Carlisle,E07000028,North West (England),Total,Very good health,48593
+2011,Copeland,E07000029,North West (England),Total,Very good health,31329
+2011,Eden,E07000030,North West (England),Total,Very good health,24210
+2011,South Lakeland,E07000031,North West (England),Total,Very good health,48461
+2011,Bolton,E08000001,North West (England),Total,Very good health,125548
+2011,Bury,E08000002,North West (England),Total,Very good health,87128
+2011,Manchester,E08000003,North West (England),Total,Very good health,245334
+2011,Oldham,E08000004,North West (England),Total,Very good health,101526
+2011,Rochdale,E08000005,North West (England),Total,Very good health,94233
+2011,Salford,E08000006,North West (England),Total,Very good health,107689
+2011,Stockport,E08000007,North West (England),Total,Very good health,135500
+2011,Tameside,E08000008,North West (England),Total,Very good health,96404
+2011,Trafford,E08000009,North West (England),Total,Very good health,115496
+2011,Wigan,E08000010,North West (England),Total,Very good health,144283
+2011,Burnley,E07000117,North West (England),Total,Very good health,37372
+2011,Chorley,E07000118,North West (England),Total,Very good health,51303
+2011,Fylde,E07000119,North West (England),Total,Very good health,33815
+2011,Hyndburn,E07000120,North West (England),Total,Very good health,34759
+2011,Lancaster,E07000121,North West (England),Total,Very good health,64577
+2011,Pendle,E07000122,North West (England),Total,Very good health,38965
+2011,Preston,E07000123,North West (England),Total,Very good health,65276
+2011,Ribble Valley,E07000124,North West (England),Total,Very good health,29415
+2011,Rossendale,E07000125,North West (England),Total,Very good health,31438
+2011,South Ribble,E07000126,North West (England),Total,Very good health,52009
+2011,West Lancashire,E07000127,North West (England),Total,Very good health,52675
+2011,Wyre,E07000128,North West (England),Total,Very good health,46601
+2011,Knowsley,E08000011,North West (England),Total,Very good health,67153
+2011,Liverpool,E08000012,North West (England),Total,Very good health,217977
+2011,Sefton,E08000014,North West (England),Total,Very good health,124069
+2011,St. Helens,E08000013,North West (England),Total,Very good health,78620
+2011,Wirral,E08000015,North West (England),Total,Very good health,148028
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Very good health,151003
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Very good health,110555
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Very good health,70242
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Very good health,73234
+2011,York,E06000014,Yorkshire and The Humber,Total,Very good health,98402
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Very good health,26383
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Very good health,43384
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Very good health,79934
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Very good health,26678
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Very good health,23555
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Very good health,45241
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Very good health,40351
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Very good health,96194
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Very good health,131738
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Very good health,111232
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Very good health,258250
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Very good health,234133
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Very good health,94449
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Very good health,192366
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Very good health,361295
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Very good health,139288
+2011,Derby,E06000015,East Midlands (England),Total,Very good health,111837
+2011,Leicester,E06000016,East Midlands (England),Total,Very good health,148108
+2011,Nottingham,E06000018,East Midlands (England),Total,Very good health,141038
+2011,Rutland,E06000017,East Midlands (England),Total,Very good health,18828
+2011,Amber Valley,E07000032,East Midlands (England),Total,Very good health,53826
+2011,Bolsover,E07000033,East Midlands (England),Total,Very good health,30934
+2011,Chesterfield,E07000034,East Midlands (England),Total,Very good health,43274
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Very good health,33487
+2011,Erewash,E07000036,East Midlands (England),Total,Very good health,49349
+2011,High Peak,E07000037,East Midlands (England),Total,Very good health,43185
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Very good health,42535
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Very good health,45075
+2011,Blaby,E07000129,East Midlands (England),Total,Very good health,44615
+2011,Charnwood,E07000130,East Midlands (England),Total,Very good health,79906
+2011,Harborough,E07000131,East Midlands (England),Total,Very good health,43421
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Very good health,48612
+2011,Melton,E07000133,East Midlands (England),Total,Very good health,24349
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Very good health,42477
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Very good health,25383
+2011,Boston,E07000136,East Midlands (England),Total,Very good health,26298
+2011,East Lindsey,E07000137,East Midlands (England),Total,Very good health,52138
+2011,Lincoln,E07000138,East Midlands (England),Total,Very good health,41329
+2011,North Kesteven,E07000139,East Midlands (England),Total,Very good health,49563
+2011,South Holland,E07000140,East Midlands (England),Total,Very good health,35771
+2011,South Kesteven,E07000141,East Midlands (England),Total,Very good health,62625
+2011,West Lindsey,E07000142,East Midlands (England),Total,Very good health,39293
+2011,Corby,E07000150,East Midlands (England),Total,Very good health,28138
+2011,Daventry,E07000151,East Midlands (England),Total,Very good health,37709
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Very good health,40656
+2011,Kettering,E07000153,East Midlands (England),Total,Very good health,43038
+2011,Northampton,E07000154,East Midlands (England),Total,Very good health,98367
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Very good health,43204
+2011,Wellingborough,E07000156,East Midlands (England),Total,Very good health,32913
+2011,Ashfield,E07000170,East Midlands (England),Total,Very good health,50253
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Very good health,48326
+2011,Broxtowe,E07000172,East Midlands (England),Total,Very good health,49831
+2011,Gedling,E07000173,East Midlands (England),Total,Very good health,51154
+2011,Mansfield,E07000174,East Midlands (England),Total,Very good health,43295
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Very good health,51505
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Very good health,57689
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Very good health,83874
+2011,Shropshire,E06000051,West Midlands (England),Total,Very good health,142309
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Very good health,104510
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Very good health,76439
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Very good health,42634
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Very good health,52094
+2011,Lichfield,E07000194,West Midlands (England),Total,Very good health,47225
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Very good health,55311
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Very good health,49032
+2011,Stafford,E07000197,West Midlands (England),Total,Very good health,60366
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Very good health,42874
+2011,Tamworth,E07000199,West Midlands (England),Total,Very good health,35029
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Very good health,27979
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Very good health,55086
+2011,Rugby,E07000220,West Midlands (England),Total,Very good health,47711
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Very good health,58094
+2011,Warwick,E07000222,West Midlands (England),Total,Very good health,69660
+2011,Birmingham,E08000025,West Midlands (England),Total,Very good health,488568
+2011,Coventry,E08000026,West Midlands (England),Total,Very good health,145948
+2011,Dudley,E08000027,West Midlands (England),Total,Very good health,132825
+2011,Sandwell,E08000028,West Midlands (England),Total,Very good health,129182
+2011,Solihull,E08000029,West Midlands (England),Total,Very good health,98197
+2011,Walsall,E08000030,West Midlands (England),Total,Very good health,113525
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Very good health,104263
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Very good health,45932
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Very good health,34011
+2011,Redditch,E07000236,West Midlands (England),Total,Very good health,39391
+2011,Worcester,E07000237,West Midlands (England),Total,Very good health,46851
+2011,Wychavon,E07000238,West Midlands (England),Total,Very good health,54212
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Very good health,42730
+2011,Bedford,E06000055,East of England,Total,Very good health,73860
+2011,Central Bedfordshire,E06000056,East of England,Total,Very good health,125019
+2011,Luton,E06000032,East of England,Total,Very good health,94607
+2011,Peterborough,E06000031,East of England,Total,Very good health,81275
+2011,Southend-on-Sea,E06000033,East of England,Total,Very good health,78341
+2011,Thurrock,E06000034,East of England,Total,Very good health,76012
+2011,Cambridge,E07000008,East of England,Total,Very good health,67743
+2011,East Cambridgeshire,E07000009,East of England,Total,Very good health,40874
+2011,Fenland,E07000010,East of England,Total,Very good health,37577
+2011,Huntingdonshire,E07000011,East of England,Total,Very good health,82675
+2011,South Cambridgeshire,E07000012,East of England,Total,Very good health,78041
+2011,Basildon,E07000066,East of England,Total,Very good health,80704
+2011,Braintree,E07000067,East of England,Total,Very good health,69884
+2011,Brentwood,E07000068,East of England,Total,Very good health,37548
+2011,Castle Point,E07000069,East of England,Total,Very good health,38280
+2011,Chelmsford,E07000070,East of England,Total,Very good health,84476
+2011,Colchester,E07000071,East of England,Total,Very good health,84520
+2011,Epping Forest,E07000072,East of England,Total,Very good health,61413
+2011,Harlow,E07000073,East of England,Total,Very good health,36969
+2011,Maldon,E07000074,East of England,Total,Very good health,28471
+2011,Rochford,E07000075,East of England,Total,Very good health,39774
+2011,Tendring,E07000076,East of England,Total,Very good health,53035
+2011,Uttlesford,E07000077,East of England,Total,Very good health,41746
+2011,Broxbourne,E07000095,East of England,Total,Very good health,44661
+2011,Dacorum,E07000096,East of England,Total,Very good health,72910
+2011,East Hertfordshire,E07000242,East of England,Total,Very good health,72332
+2011,Hertsmere,E07000098,East of England,Total,Very good health,51558
+2011,North Hertfordshire,E07000099,East of England,Total,Very good health,63801
+2011,St Albans,E07000240,East of England,Total,Very good health,77531
+2011,Stevenage,E07000243,East of England,Total,Very good health,39514
+2011,Three Rivers,E07000102,East of England,Total,Very good health,44267
+2011,Watford,E07000103,East of England,Total,Very good health,45200
+2011,Welwyn Hatfield,E07000241,East of England,Total,Very good health,56252
+2011,Breckland,E07000143,East of England,Total,Very good health,55097
+2011,Broadland,E07000144,East of England,Total,Very good health,55219
+2011,Great Yarmouth,E07000145,East of England,Total,Very good health,39204
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Very good health,60322
+2011,North Norfolk,E07000147,East of England,Total,Very good health,39504
+2011,Norwich,E07000148,East of England,Total,Very good health,59454
+2011,South Norfolk,E07000149,East of England,Total,Very good health,57480
+2011,Babergh,E07000200,East of England,Total,Very good health,40875
+2011,Forest Heath,E07000201,East of England,Total,Very good health,28739
+2011,Ipswich,E07000202,East of England,Total,Very good health,60771
+2011,Mid Suffolk,E07000203,East of England,Total,Very good health,46319
+2011,St Edmundsbury,E07000204,East of England,Total,Very good health,52543
+2011,Suffolk Coastal,E07000205,East of England,Total,Very good health,57526
+2011,Waveney,E07000206,East of England,Total,Very good health,47348
+2011,Camden,E09000007,London,Total,Very good health,117692
+2011,City of London,E09000001,London,Total,Very good health,4112
+2011,Hackney,E09000012,London,Total,Very good health,128442
+2011,Hammersmith and Fulham,E09000013,London,Total,Very good health,103036
+2011,Haringey,E09000014,London,Total,Very good health,126485
+2011,Islington,E09000019,London,Total,Very good health,106386
+2011,Kensington and Chelsea,E09000020,London,Total,Very good health,91764
+2011,Lambeth,E09000022,London,Total,Very good health,160326
+2011,Lewisham,E09000023,London,Total,Very good health,135428
+2011,Newham,E09000025,London,Total,Very good health,149269
+2011,Southwark,E09000028,London,Total,Very good health,154204
+2011,Tower Hamlets,E09000030,London,Total,Very good health,128468
+2011,Wandsworth,E09000032,London,Total,Very good health,176198
+2011,Westminster,E09000033,London,Total,Very good health,118808
+2011,Barking and Dagenham,E09000002,London,Total,Very good health,87819
+2011,Barnet,E09000003,London,Total,Very good health,183453
+2011,Bexley,E09000004,London,Total,Very good health,111323
+2011,Brent,E09000005,London,Total,Very good health,149695
+2011,Bromley,E09000006,London,Total,Very good health,154998
+2011,Croydon,E09000008,London,Total,Very good health,174584
+2011,Ealing,E09000009,London,Total,Very good health,166385
+2011,Enfield,E09000010,London,Total,Very good health,146351
+2011,Greenwich,E09000011,London,Total,Very good health,127641
+2011,Harrow,E09000015,London,Total,Very good health,113731
+2011,Havering,E09000016,London,Total,Very good health,109131
+2011,Hillingdon,E09000017,London,Total,Very good health,133627
+2011,Hounslow,E09000018,London,Total,Very good health,124442
+2011,Kingston upon Thames,E09000021,London,Total,Very good health,84332
+2011,Merton,E09000024,London,Total,Very good health,103891
+2011,Redbridge,E09000026,London,Total,Very good health,134230
+2011,Richmond upon Thames,E09000027,London,Total,Very good health,107217
+2011,Sutton,E09000029,London,Total,Very good health,92668
+2011,Waltham Forest,E09000031,London,Total,Very good health,121652
+2011,Bracknell Forest,E06000036,South East (England),Total,Very good health,59320
+2011,Brighton and Hove,E06000043,South East (England),Total,Very good health,134673
+2011,Isle of Wight,E06000046,South East (England),Total,Very good health,56420
+2011,Medway,E06000035,South East (England),Total,Very good health,120662
+2011,Milton Keynes,E06000042,South East (England),Total,Very good health,124826
+2011,Portsmouth,E06000044,South East (England),Total,Very good health,97795
+2011,Reading,E06000038,South East (England),Total,Very good health,78169
+2011,Slough,E06000039,South East (England),Total,Very good health,67156
+2011,Southampton,E06000045,South East (England),Total,Very good health,112653
+2011,West Berkshire,E06000037,South East (England),Total,Very good health,79432
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Very good health,78802
+2011,Wokingham,E06000041,South East (England),Total,Very good health,83759
+2011,Aylesbury Vale,E07000004,South East (England),Total,Very good health,89515
+2011,Chiltern,E07000005,South East (England),Total,Very good health,49848
+2011,South Bucks,E07000006,South East (England),Total,Very good health,35055
+2011,Wycombe,E07000007,South East (England),Total,Very good health,88483
+2011,Eastbourne,E07000061,South East (England),Total,Very good health,42818
+2011,Hastings,E07000062,South East (England),Total,Very good health,36556
+2011,Lewes,E07000063,South East (England),Total,Very good health,43719
+2011,Rother,E07000064,South East (England),Total,Very good health,36737
+2011,Wealden,E07000065,South East (England),Total,Very good health,70867
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Very good health,85034
+2011,East Hampshire,E07000085,South East (England),Total,Very good health,58330
+2011,Eastleigh,E07000086,South East (England),Total,Very good health,61561
+2011,Fareham,E07000087,South East (England),Total,Very good health,54170
+2011,Gosport,E07000088,South East (England),Total,Very good health,37447
+2011,Hart,E07000089,South East (England),Total,Very good health,50079
+2011,Havant,E07000090,South East (England),Total,Very good health,53474
+2011,New Forest,E07000091,South East (England),Total,Very good health,79671
+2011,Rushmoor,E07000092,South East (England),Total,Very good health,46970
+2011,Test Valley,E07000093,South East (England),Total,Very good health,58222
+2011,Winchester,E07000094,South East (England),Total,Very good health,62025
+2011,Ashford,E07000105,South East (England),Total,Very good health,56128
+2011,Canterbury,E07000106,South East (England),Total,Very good health,70764
+2011,Dartford,E07000107,South East (England),Total,Very good health,47273
+2011,Dover,E07000108,South East (England),Total,Very good health,48433
+2011,Gravesham,E07000109,South East (England),Total,Very good health,47298
+2011,Maidstone,E07000110,South East (England),Total,Very good health,74636
+2011,Sevenoaks,E07000111,South East (England),Total,Very good health,58796
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Very good health,45577
+2011,Swale,E07000113,South East (England),Total,Very good health,60198
+2011,Thanet,E07000114,South East (England),Total,Very good health,54640
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Very good health,60306
+2011,Tunbridge Wells,E07000116,South East (England),Total,Very good health,59156
+2011,Cherwell,E07000177,South East (England),Total,Very good health,71403
+2011,Oxford,E07000178,South East (England),Total,Very good health,83904
+2011,South Oxfordshire,E07000179,South East (England),Total,Very good health,70571
+2011,Vale of White Horse,E07000180,South East (England),Total,Very good health,62738
+2011,West Oxfordshire,E07000181,South East (England),Total,Very good health,53984
+2011,Elmbridge,E07000207,South East (England),Total,Very good health,73880
+2011,Epsom and Ewell,E07000208,South East (England),Total,Very good health,39208
+2011,Guildford,E07000209,South East (England),Total,Very good health,73969
+2011,Mole Valley,E07000210,South East (England),Total,Very good health,43926
+2011,Reigate and Banstead,E07000211,South East (England),Total,Very good health,71052
+2011,Runnymede,E07000212,South East (England),Total,Very good health,41319
+2011,Spelthorne,E07000213,South East (England),Total,Very good health,45929
+2011,Surrey Heath,E07000214,South East (England),Total,Very good health,46062
+2011,Tandridge,E07000215,South East (England),Total,Very good health,41916
+2011,Waverley,E07000216,South East (England),Total,Very good health,65068
+2011,Woking,E07000217,South East (England),Total,Very good health,51360
+2011,Adur,E07000223,South East (England),Total,Very good health,26107
+2011,Arun,E07000224,South East (England),Total,Very good health,62774
+2011,Chichester,E07000225,South East (England),Total,Very good health,54210
+2011,Crawley,E07000226,South East (England),Total,Very good health,50751
+2011,Horsham,E07000227,South East (England),Total,Very good health,66403
+2011,Mid Sussex,E07000228,South East (England),Total,Very good health,72448
+2011,Worthing,E07000229,South East (England),Total,Very good health,46272
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Very good health,88882
+2011,Bournemouth,E06000028,South West (England),Total,Very good health,84955
+2011,"Bristol, City of",E06000023,South West (England),Total,Very good health,209024
+2011,Cornwall,E06000052,South West (England),Total,Very good health,240759
+2011,Isles of Scilly,E06000053,South West (England),Total,Very good health,1135
+2011,North Somerset,E06000024,South West (England),Total,Very good health,93803
+2011,Plymouth,E06000026,South West (England),Total,Very good health,117976
+2011,Poole,E06000029,South West (England),Total,Very good health,68689
+2011,South Gloucestershire,E06000025,South West (England),Total,Very good health,129141
+2011,Swindon,E06000030,South West (England),Total,Very good health,100931
+2011,Torbay,E06000027,South West (England),Total,Very good health,54614
+2011,Wiltshire,E06000054,South West (England),Total,Very good health,234318
+2011,East Devon,E07000040,South West (England),Total,Very good health,58004
+2011,Exeter,E07000041,South West (England),Total,Very good health,58775
+2011,Mid Devon,E07000042,South West (England),Total,Very good health,36263
+2011,North Devon,E07000043,South West (England),Total,Very good health,43441
+2011,South Hams,E07000044,South West (England),Total,Very good health,39414
+2011,Teignbridge,E07000045,South West (England),Total,Very good health,55819
+2011,Torridge,E07000046,South West (England),Total,Very good health,27787
+2011,West Devon,E07000047,South West (England),Total,Very good health,24556
+2011,Christchurch,E07000048,South West (England),Total,Very good health,20203
+2011,East Dorset,E07000049,South West (England),Total,Very good health,39505
+2011,North Dorset,E07000050,South West (England),Total,Very good health,32782
+2011,Purbeck,E07000051,South West (England),Total,Very good health,20231
+2011,West Dorset,E07000052,South West (England),Total,Very good health,44070
+2011,Weymouth and Portland,E07000053,South West (England),Total,Very good health,27562
+2011,Cheltenham,E07000078,South West (England),Total,Very good health,57758
+2011,Cotswold,E07000079,South West (England),Total,Very good health,40433
+2011,Forest of Dean,E07000080,South West (England),Total,Very good health,36281
+2011,Gloucester,E07000081,South West (England),Total,Very good health,56655
+2011,Stroud,E07000082,South West (England),Total,Very good health,53779
+2011,Tewkesbury,E07000083,South West (England),Total,Very good health,39036
+2011,Mendip,E07000187,South West (England),Total,Very good health,51153
+2011,Sedgemoor,E07000188,South West (England),Total,Very good health,51044
+2011,South Somerset,E07000189,South West (England),Total,Very good health,73277
+2011,Taunton Deane,E07000190,South West (England),Total,Very good health,51946
+2011,West Somerset,E07000191,South West (England),Total,Very good health,14080
+2011,Isle of Anglesey,W06000001,Wales,Total,Very good health,33492
+2011,Gwynedd,W06000002,Wales,Total,Very good health,61396
+2011,Conwy,W06000003,Wales,Total,Very good health,52335
+2011,Denbighshire,W06000004,Wales,Total,Very good health,43690
+2011,Flintshire,W06000005,Wales,Total,Very good health,74216
+2011,Wrexham,W06000006,Wales,Total,Very good health,63642
+2011,Powys,W06000023,Wales,Total,Very good health,59511
+2011,Ceredigion,W06000008,Wales,Total,Very good health,35796
+2011,Pembrokeshire,W06000009,Wales,Total,Very good health,55535
+2011,Carmarthenshire,W06000010,Wales,Total,Very good health,82638
+2011,Swansea,W06000011,Wales,Total,Very good health,116295
+2011,Neath Port Talbot,W06000012,Wales,Total,Very good health,62849
+2011,Bridgend,W06000013,Wales,Total,Very good health,64134
+2011,Vale of Glamorgan,W06000014,Wales,Total,Very good health,60656
+2011,Cardiff,W06000015,Wales,Total,Very good health,174329
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Very good health,105154
+2011,Merthyr Tydfil,W06000024,Wales,Total,Very good health,25948
+2011,Caerphilly,W06000018,Wales,Total,Very good health,79382
+2011,Blaenau Gwent,W06000019,Wales,Total,Very good health,29269
+2011,Torfaen,W06000020,Wales,Total,Very good health,39398
+2011,Monmouthshire,W06000021,Wales,Total,Very good health,42365
+2011,Newport,W06000022,Wales,Total,Very good health,66667
+2011,Darlington,E06000005,North East (England),Total,Good health,37199
+2011,County Durham,E06000047,North East (England),Total,Good health,171564
+2011,Hartlepool,E06000001,North East (England),Total,Good health,30117
+2011,Middlesbrough,E06000002,North East (England),Total,Good health,45295
+2011,Northumberland,E06000057,North East (England),Total,Good health,108458
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Good health,45844
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Good health,64282
+2011,Gateshead,E08000037,North East (England),Total,Good health,67807
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Good health,89096
+2011,North Tyneside,E08000022,North East (England),Total,Good health,66955
+2011,South Tyneside,E08000023,North East (England),Total,Good health,48861
+2011,Sunderland,E08000024,North East (England),Total,Good health,90557
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Good health,49010
+2011,Blackpool,E06000009,North West (England),Total,Good health,48022
+2011,Cheshire East,E06000049,North West (England),Total,Good health,123065
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Good health,108967
+2011,Halton,E06000006,North West (England),Total,Good health,39693
+2011,Warrington,E06000007,North West (England),Total,Good health,66223
+2011,Allerdale,E07000026,North West (England),Total,Good health,33297
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Good health,22865
+2011,Carlisle,E07000028,North West (England),Total,Good health,37494
+2011,Copeland,E07000029,North West (England),Total,Good health,23938
+2011,Eden,E07000030,North West (England),Total,Good health,18810
+2011,South Lakeland,E07000031,North West (England),Total,Good health,36385
+2011,Bolton,E08000001,North West (England),Total,Good health,93765
+2011,Bury,E08000002,North West (England),Total,Good health,61634
+2011,Manchester,E08000003,North West (England),Total,Good health,159452
+2011,Oldham,E08000004,North West (England),Total,Good health,74987
+2011,Rochdale,E08000005,North West (England),Total,Good health,70158
+2011,Salford,E08000006,North West (England),Total,Good health,75685
+2011,Stockport,E08000007,North West (England),Total,Good health,94251
+2011,Tameside,E08000008,North West (England),Total,Good health,73918
+2011,Trafford,E08000009,North West (England),Total,Good health,71694
+2011,Wigan,E08000010,North West (England),Total,Good health,103934
+2011,Burnley,E07000117,North West (England),Total,Good health,29286
+2011,Chorley,E07000118,North West (England),Total,Good health,35705
+2011,Fylde,E07000119,North West (England),Total,Good health,25591
+2011,Hyndburn,E07000120,North West (England),Total,Good health,27610
+2011,Lancaster,E07000121,North West (England),Total,Good health,46831
+2011,Pendle,E07000122,North West (England),Total,Good health,30826
+2011,Preston,E07000123,North West (England),Total,Good health,47840
+2011,Ribble Valley,E07000124,North West (England),Total,Good health,18376
+2011,Rossendale,E07000125,North West (England),Total,Good health,22508
+2011,South Ribble,E07000126,North West (England),Total,Good health,37211
+2011,West Lancashire,E07000127,North West (England),Total,Good health,36226
+2011,Wyre,E07000128,North West (England),Total,Good health,36224
+2011,Knowsley,E08000011,North West (England),Total,Good health,43505
+2011,Liverpool,E08000012,North West (England),Total,Good health,142132
+2011,Sefton,E08000014,North West (England),Total,Good health,89115
+2011,St. Helens,E08000013,North West (England),Total,Good health,55983
+2011,Wirral,E08000015,North West (England),Total,Good health,102085
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Good health,116859
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Good health,89572
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Good health,55935
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Good health,59883
+2011,York,E06000014,Yorkshire and The Humber,Total,Good health,67709
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Good health,19150
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Good health,30682
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Good health,53313
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Good health,17383
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Good health,18476
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Good health,38721
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Good health,28624
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Good health,77649
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Good health,102983
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Good health,87237
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Good health,184343
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Good health,186031
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Good health,70007
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Good health,147731
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Good health,254023
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Good health,110920
+2011,Derby,E06000015,East Midlands (England),Total,Good health,87060
+2011,Leicester,E06000016,East Midlands (England),Total,Good health,117551
+2011,Nottingham,E06000018,East Midlands (England),Total,Good health,103332
+2011,Rutland,E06000017,East Midlands (England),Total,Good health,12718
+2011,Amber Valley,E07000032,East Midlands (England),Total,Good health,42795
+2011,Bolsover,E07000033,East Midlands (England),Total,Good health,25423
+2011,Chesterfield,E07000034,East Midlands (England),Total,Good health,35622
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Good health,24683
+2011,Erewash,E07000036,East Midlands (England),Total,Good health,39666
+2011,High Peak,E07000037,East Midlands (England),Total,Good health,30980
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Good health,33926
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Good health,32550
+2011,Blaby,E07000129,East Midlands (England),Total,Good health,33631
+2011,Charnwood,E07000130,East Midlands (England),Total,Good health,58637
+2011,Harborough,E07000131,East Midlands (England),Total,Good health,29261
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Good health,37653
+2011,Melton,E07000133,East Midlands (England),Total,Good health,17892
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Good health,33202
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Good health,20568
+2011,Boston,E07000136,East Midlands (England),Total,Good health,24225
+2011,East Lindsey,E07000137,East Midlands (England),Total,Good health,48140
+2011,Lincoln,E07000138,East Midlands (England),Total,Good health,34216
+2011,North Kesteven,E07000139,East Midlands (England),Total,Good health,37834
+2011,South Holland,E07000140,East Midlands (England),Total,Good health,33149
+2011,South Kesteven,E07000141,East Midlands (England),Total,Good health,46999
+2011,West Lindsey,E07000142,East Midlands (England),Total,Good health,32075
+2011,Corby,E07000150,East Midlands (England),Total,Good health,21539
+2011,Daventry,E07000151,East Midlands (England),Total,Good health,27454
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Good health,31175
+2011,Kettering,E07000153,East Midlands (England),Total,Good health,33973
+2011,Northampton,E07000154,East Midlands (England),Total,Good health,77331
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Good health,29703
+2011,Wellingborough,E07000156,East Midlands (England),Total,Good health,27907
+2011,Ashfield,E07000170,East Midlands (England),Total,Good health,41200
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Good health,39138
+2011,Broxtowe,E07000172,East Midlands (England),Total,Good health,38276
+2011,Gedling,E07000173,East Midlands (England),Total,Good health,39934
+2011,Mansfield,E07000174,East Midlands (England),Total,Good health,35895
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Good health,39671
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Good health,36222
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Good health,64494
+2011,Shropshire,E06000051,West Midlands (England),Total,Good health,106909
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Good health,86311
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Good health,57198
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Good health,34133
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Good health,40576
+2011,Lichfield,E07000194,West Midlands (England),Total,Good health,35014
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Good health,42716
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Good health,38390
+2011,Stafford,E07000197,West Midlands (England),Total,Good health,46574
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Good health,34050
+2011,Tamworth,E07000199,West Midlands (England),Total,Good health,27064
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Good health,21604
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Good health,44255
+2011,Rugby,E07000220,West Midlands (England),Total,Good health,35306
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Good health,41966
+2011,Warwick,E07000222,West Midlands (England),Total,Good health,46720
+2011,Birmingham,E08000025,West Midlands (England),Total,Good health,363904
+2011,Coventry,E08000026,West Midlands (England),Total,Good health,109815
+2011,Dudley,E08000027,West Midlands (England),Total,Good health,111905
+2011,Sandwell,E08000028,West Midlands (England),Total,Good health,107081
+2011,Solihull,E08000029,West Midlands (England),Total,Good health,70683
+2011,Walsall,E08000030,West Midlands (England),Total,Good health,94650
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Good health,88168
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Good health,31306
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Good health,26171
+2011,Redditch,E07000236,West Midlands (England),Total,Good health,29354
+2011,Worcester,E07000237,West Midlands (England),Total,Good health,34497
+2011,Wychavon,E07000238,West Midlands (England),Total,Good health,41641
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Good health,34481
+2011,Bedford,E06000055,East of England,Total,Good health,56663
+2011,Central Bedfordshire,E06000056,East of England,Total,Good health,90360
+2011,Luton,E06000032,East of England,Total,Good health,73300
+2011,Peterborough,E06000031,East of England,Total,Good health,68493
+2011,Southend-on-Sea,E06000033,East of England,Total,Good health,60929
+2011,Thurrock,E06000034,East of England,Total,Good health,54788
+2011,Cambridge,E07000008,East of England,Total,Good health,39600
+2011,East Cambridgeshire,E07000009,East of England,Total,Good health,29487
+2011,Fenland,E07000010,East of England,Total,Good health,36042
+2011,Huntingdonshire,E07000011,East of England,Total,Good health,60470
+2011,South Cambridgeshire,E07000012,East of England,Total,Good health,50147
+2011,Basildon,E07000066,East of England,Total,Good health,60991
+2011,Braintree,E07000067,East of England,Total,Good health,52492
+2011,Brentwood,E07000068,East of England,Total,Good health,24537
+2011,Castle Point,E07000069,East of England,Total,Good health,31786
+2011,Chelmsford,E07000070,East of England,Total,Good health,58430
+2011,Colchester,E07000071,East of England,Total,Good health,60279
+2011,Epping Forest,E07000072,East of England,Total,Good health,42077
+2011,Harlow,E07000073,East of England,Total,Good health,29380
+2011,Maldon,E07000074,East of England,Total,Good health,21961
+2011,Rochford,E07000075,East of England,Total,Good health,29085
+2011,Tendring,E07000076,East of England,Total,Good health,49451
+2011,Uttlesford,E07000077,East of England,Total,Good health,26483
+2011,Broxbourne,E07000095,East of England,Total,Good health,33072
+2011,Dacorum,E07000096,East of England,Total,Good health,49326
+2011,East Hertfordshire,E07000242,East of England,Total,Good health,46399
+2011,Hertsmere,E07000098,East of England,Total,Good health,32887
+2011,North Hertfordshire,E07000099,East of England,Total,Good health,43360
+2011,St Albans,E07000240,East of England,Total,Good health,44813
+2011,Stevenage,E07000243,East of England,Total,Good health,29953
+2011,Three Rivers,E07000102,East of England,Total,Good health,29873
+2011,Watford,E07000103,East of England,Total,Good health,31453
+2011,Welwyn Hatfield,E07000241,East of England,Total,Good health,37488
+2011,Breckland,E07000143,East of England,Total,Good health,48663
+2011,Broadland,E07000144,East of England,Total,Good health,46106
+2011,Great Yarmouth,E07000145,East of England,Total,Good health,35032
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Good health,54681
+2011,North Norfolk,E07000147,East of England,Total,Good health,38336
+2011,Norwich,E07000148,East of England,Total,Good health,46939
+2011,South Norfolk,E07000149,East of England,Total,Good health,44400
+2011,Babergh,E07000200,East of England,Total,Good health,31433
+2011,Forest Heath,E07000201,East of England,Total,Good health,21194
+2011,Ipswich,E07000202,East of England,Total,Good health,47800
+2011,Mid Suffolk,E07000203,East of England,Total,Good health,34155
+2011,St Edmundsbury,E07000204,East of England,Total,Good health,39656
+2011,Suffolk Coastal,E07000205,East of England,Total,Good health,44087
+2011,Waveney,E07000206,East of England,Total,Good health,41820
+2011,Camden,E09000007,London,Total,Good health,67334
+2011,City of London,E09000001,London,Total,Good health,2374
+2011,Hackney,E09000012,London,Total,Good health,75699
+2011,Hammersmith and Fulham,E09000013,London,Total,Good health,53374
+2011,Haringey,E09000014,London,Total,Good health,85567
+2011,Islington,E09000019,London,Total,Good health,63382
+2011,Kensington and Chelsea,E09000020,London,Total,Good health,45189
+2011,Lambeth,E09000022,London,Total,Good health,97286
+2011,Lewisham,E09000023,London,Total,Good health,93850
+2011,Newham,E09000025,London,Total,Good health,106549
+2011,Southwark,E09000028,London,Total,Good health,90004
+2011,Tower Hamlets,E09000030,London,Total,Good health,83209
+2011,Wandsworth,E09000032,London,Total,Good health,91935
+2011,Westminster,E09000033,London,Total,Good health,65807
+2011,Barking and Dagenham,E09000002,London,Total,Good health,62720
+2011,Barnet,E09000003,London,Total,Good health,117508
+2011,Bexley,E09000004,London,Total,Good health,80446
+2011,Brent,E09000005,London,Total,Good health,108169
+2011,Bromley,E09000006,London,Total,Good health,105574
+2011,Croydon,E09000008,London,Total,Good health,128634
+2011,Ealing,E09000009,London,Total,Good health,116712
+2011,Enfield,E09000010,London,Total,Good health,109394
+2011,Greenwich,E09000011,London,Total,Good health,83875
+2011,Harrow,E09000015,London,Total,Good health,86069
+2011,Havering,E09000016,London,Total,Good health,84378
+2011,Hillingdon,E09000017,London,Total,Good health,96647
+2011,Hounslow,E09000018,London,Total,Good health,89064
+2011,Kingston upon Thames,E09000021,London,Total,Good health,53598
+2011,Merton,E09000024,London,Total,Good health,67098
+2011,Redbridge,E09000026,London,Total,Good health,97595
+2011,Richmond upon Thames,E09000027,London,Total,Good health,57088
+2011,Sutton,E09000029,London,Total,Good health,67563
+2011,Waltham Forest,E09000031,London,Total,Good health,91954
+2011,Bracknell Forest,E06000036,South East (England),Total,Good health,38814
+2011,Brighton and Hove,E06000043,South East (England),Total,Good health,91970
+2011,Isle of Wight,E06000046,South East (England),Total,Good health,50514
+2011,Medway,E06000035,South East (England),Total,Good health,95679
+2011,Milton Keynes,E06000042,South East (England),Total,Good health,86778
+2011,Portsmouth,E06000044,South East (England),Total,Good health,71443
+2011,Reading,E06000038,South East (England),Total,Good health,54913
+2011,Slough,E06000039,South East (England),Total,Good health,50464
+2011,Southampton,E06000045,South East (England),Total,Good health,82880
+2011,West Berkshire,E06000037,South East (England),Total,Good health,53069
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Good health,46571
+2011,Wokingham,E06000041,South East (England),Total,Good health,51808
+2011,Aylesbury Vale,E07000004,South East (England),Total,Good health,59530
+2011,Chiltern,E07000005,South East (England),Total,Good health,30368
+2011,South Bucks,E07000006,South East (England),Total,Good health,22267
+2011,Wycombe,E07000007,South East (England),Total,Good health,58721
+2011,Eastbourne,E07000061,South East (England),Total,Good health,35193
+2011,Hastings,E07000062,South East (England),Total,Good health,32707
+2011,Lewes,E07000063,South East (England),Total,Good health,34634
+2011,Rother,E07000064,South East (England),Total,Good health,33152
+2011,Wealden,E07000065,South East (England),Total,Good health,52009
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Good health,58917
+2011,East Hampshire,E07000085,South East (England),Total,Good health,40113
+2011,Eastleigh,E07000086,South East (England),Total,Good health,44190
+2011,Fareham,E07000087,South East (England),Total,Good health,39284
+2011,Gosport,E07000088,South East (England),Total,Good health,29915
+2011,Hart,E07000089,South East (England),Total,Good health,30120
+2011,Havant,E07000090,South East (England),Total,Good health,43275
+2011,New Forest,E07000091,South East (England),Total,Good health,63302
+2011,Rushmoor,E07000092,South East (England),Total,Good health,33340
+2011,Test Valley,E07000093,South East (England),Total,Good health,40262
+2011,Winchester,E07000094,South East (England),Total,Good health,38219
+2011,Ashford,E07000105,South East (England),Total,Good health,41385
+2011,Canterbury,E07000106,South East (England),Total,Good health,52338
+2011,Dartford,E07000107,South East (England),Total,Good health,33941
+2011,Dover,E07000108,South East (England),Total,Good health,39477
+2011,Gravesham,E07000109,South East (England),Total,Good health,35572
+2011,Maidstone,E07000110,South East (England),Total,Good health,54384
+2011,Sevenoaks,E07000111,South East (England),Total,Good health,38344
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Good health,38999
+2011,Swale,E07000113,South East (England),Total,Good health,48719
+2011,Thanet,E07000114,South East (England),Total,Good health,47109
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Good health,41475
+2011,Tunbridge Wells,E07000116,South East (England),Total,Good health,38656
+2011,Cherwell,E07000177,South East (England),Total,Good health,49163
+2011,Oxford,E07000178,South East (England),Total,Good health,48201
+2011,South Oxfordshire,E07000179,South East (England),Total,Good health,44779
+2011,Vale of White Horse,E07000180,South East (England),Total,Good health,41117
+2011,West Oxfordshire,E07000181,South East (England),Total,Good health,35438
+2011,Elmbridge,E07000207,South East (England),Total,Good health,40555
+2011,Epsom and Ewell,E07000208,South East (England),Total,Good health,25355
+2011,Guildford,E07000209,South East (England),Total,Good health,45445
+2011,Mole Valley,E07000210,South East (England),Total,Good health,28801
+2011,Reigate and Banstead,E07000211,South East (England),Total,Good health,46908
+2011,Runnymede,E07000212,South East (England),Total,Good health,27451
+2011,Spelthorne,E07000213,South East (England),Total,Good health,34239
+2011,Surrey Heath,E07000214,South East (England),Total,Good health,28683
+2011,Tandridge,E07000215,South East (England),Total,Good health,28514
+2011,Waverley,E07000216,South East (England),Total,Good health,39777
+2011,Woking,E07000217,South East (England),Total,Good health,34291
+2011,Adur,E07000223,South East (England),Total,Good health,22373
+2011,Arun,E07000224,South East (England),Total,Good health,54975
+2011,Chichester,E07000225,South East (England),Total,Good health,39771
+2011,Crawley,E07000226,South East (England),Total,Good health,38279
+2011,Horsham,E07000227,South East (England),Total,Good health,45684
+2011,Mid Sussex,E07000228,South East (England),Total,Good health,47524
+2011,Worthing,E07000229,South East (England),Total,Good health,37777
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Good health,58849
+2011,Bournemouth,E06000028,South West (England),Total,Good health,63260
+2011,"Bristol, City of",E06000023,South West (England),Total,Good health,143283
+2011,Cornwall,E06000052,South West (England),Total,Good health,178805
+2011,Isles of Scilly,E06000053,South West (England),Total,Good health,754
+2011,North Somerset,E06000024,South West (England),Total,Good health,70435
+2011,Plymouth,E06000026,South West (England),Total,Good health,85956
+2011,Poole,E06000029,South West (England),Total,Good health,51486
+2011,South Gloucestershire,E06000025,South West (England),Total,Good health,91675
+2011,Swindon,E06000030,South West (England),Total,Good health,73591
+2011,Torbay,E06000027,South West (England),Total,Good health,45098
+2011,Wiltshire,E06000054,South West (England),Total,Good health,160362
+2011,East Devon,E07000040,South West (England),Total,Good health,47716
+2011,Exeter,E07000041,South West (England),Total,Good health,39301
+2011,Mid Devon,E07000042,South West (England),Total,Good health,27554
+2011,North Devon,E07000043,South West (England),Total,Good health,31704
+2011,South Hams,E07000044,South West (England),Total,Good health,28574
+2011,Teignbridge,E07000045,South West (England),Total,Good health,43342
+2011,Torridge,E07000046,South West (England),Total,Good health,22242
+2011,West Devon,E07000047,South West (England),Total,Good health,18599
+2011,Christchurch,E07000048,South West (England),Total,Good health,17116
+2011,East Dorset,E07000049,South West (England),Total,Good health,31183
+2011,North Dorset,E07000050,South West (England),Total,Good health,24146
+2011,Purbeck,E07000051,South West (England),Total,Good health,16148
+2011,West Dorset,E07000052,South West (England),Total,Good health,35640
+2011,Weymouth and Portland,E07000053,South West (England),Total,Good health,23933
+2011,Cheltenham,E07000078,South West (England),Total,Good health,39722
+2011,Cotswold,E07000079,South West (England),Total,Good health,29067
+2011,Forest of Dean,E07000080,South West (England),Total,Good health,29340
+2011,Gloucester,E07000081,South West (England),Total,Good health,43150
+2011,Stroud,E07000082,South West (England),Total,Good health,39711
+2011,Tewkesbury,E07000083,South West (England),Total,Good health,29183
+2011,Mendip,E07000187,South West (England),Total,Good health,38270
+2011,Sedgemoor,E07000188,South West (England),Total,Good health,40291
+2011,South Somerset,E07000189,South West (England),Total,Good health,57906
+2011,Taunton Deane,E07000190,South West (England),Total,Good health,38014
+2011,West Somerset,E07000191,South West (England),Total,Good health,12620
+2011,Isle of Anglesey,W06000001,Wales,Total,Good health,21309
+2011,Gwynedd,W06000002,Wales,Total,Good health,37383
+2011,Conwy,W06000003,Wales,Total,Good health,36977
+2011,Denbighshire,W06000004,Wales,Total,Good health,29420
+2011,Flintshire,W06000005,Wales,Total,Good health,49498
+2011,Wrexham,W06000006,Wales,Total,Good health,43813
+2011,Powys,W06000023,Wales,Total,Good health,45459
+2011,Ceredigion,W06000008,Wales,Total,Good health,24369
+2011,Pembrokeshire,W06000009,Wales,Total,Good health,39889
+2011,Carmarthenshire,W06000010,Wales,Total,Good health,55618
+2011,Swansea,W06000011,Wales,Total,Good health,69978
+2011,Neath Port Talbot,W06000012,Wales,Total,Good health,39694
+2011,Bridgend,W06000013,Wales,Total,Good health,41659
+2011,Vale of Glamorgan,W06000014,Wales,Total,Good health,40486
+2011,Cardiff,W06000015,Wales,Total,Good health,107477
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Good health,69544
+2011,Merthyr Tydfil,W06000024,Wales,Total,Good health,16961
+2011,Caerphilly,W06000018,Wales,Total,Good health,54272
+2011,Blaenau Gwent,W06000019,Wales,Total,Good health,21385
+2011,Torfaen,W06000020,Wales,Total,Good health,29619
+2011,Monmouthshire,W06000021,Wales,Total,Good health,30742
+2011,Newport,W06000022,Wales,Total,Good health,47811
+2011,Darlington,E06000005,North East (England),Total,Fair health,15116
+2011,County Durham,E06000047,North East (England),Total,Fair health,82404
+2011,Hartlepool,E06000001,North East (England),Total,Fair health,14607
+2011,Middlesbrough,E06000002,North East (England),Total,Fair health,19719
+2011,Northumberland,E06000057,North East (England),Total,Fair health,48580
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Fair health,21449
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Fair health,26385
+2011,Gateshead,E08000037,North East (England),Total,Fair health,31158
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Fair health,38018
+2011,North Tyneside,E08000022,North East (England),Total,Fair health,30156
+2011,South Tyneside,E08000023,North East (England),Total,Fair health,23700
+2011,Sunderland,E08000024,North East (England),Total,Fair health,43951
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Fair health,20725
+2011,Blackpool,E06000009,North West (England),Total,Fair health,23977
+2011,Cheshire East,E06000049,North West (England),Total,Fair health,47306
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Fair health,42604
+2011,Halton,E06000006,North West (England),Total,Fair health,17504
+2011,Warrington,E06000007,North West (England),Total,Fair health,24446
+2011,Allerdale,E07000026,North West (England),Total,Fair health,14210
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Fair health,10898
+2011,Carlisle,E07000028,North West (England),Total,Fair health,15030
+2011,Copeland,E07000029,North West (England),Total,Fair health,10516
+2011,Eden,E07000030,North West (England),Total,Fair health,7195
+2011,South Lakeland,E07000031,North West (England),Total,Fair health,14117
+2011,Bolton,E08000001,North West (England),Total,Fair health,39139
+2011,Bury,E08000002,North West (England),Total,Fair health,25430
+2011,Manchester,E08000003,North West (England),Total,Fair health,62651
+2011,Oldham,E08000004,North West (England),Total,Fair health,32778
+2011,Rochdale,E08000005,North West (England),Total,Fair health,31303
+2011,Salford,E08000006,North West (England),Total,Fair health,32849
+2011,Stockport,E08000007,North West (England),Total,Fair health,37601
+2011,Tameside,E08000008,North West (England),Total,Fair health,33009
+2011,Trafford,E08000009,North West (England),Total,Fair health,27549
+2011,Wigan,E08000010,North West (England),Total,Fair health,46797
+2011,Burnley,E07000117,North West (England),Total,Fair health,13682
+2011,Chorley,E07000118,North West (England),Total,Fair health,14222
+2011,Fylde,E07000119,North West (England),Total,Fair health,11619
+2011,Hyndburn,E07000120,North West (England),Total,Fair health,12225
+2011,Lancaster,E07000121,North West (England),Total,Fair health,18960
+2011,Pendle,E07000122,North West (England),Total,Fair health,13431
+2011,Preston,E07000123,North West (England),Total,Fair health,18585
+2011,Ribble Valley,E07000124,North West (England),Total,Fair health,7049
+2011,Rossendale,E07000125,North West (England),Total,Fair health,9603
+2011,South Ribble,E07000126,North West (England),Total,Fair health,14240
+2011,West Lancashire,E07000127,North West (England),Total,Fair health,14800
+2011,Wyre,E07000128,North West (England),Total,Fair health,17189
+2011,Knowsley,E08000011,North West (England),Total,Fair health,21420
+2011,Liverpool,E08000012,North West (England),Total,Fair health,65422
+2011,Sefton,E08000014,North West (England),Total,Fair health,40620
+2011,St. Helens,E08000013,North West (England),Total,Fair health,26198
+2011,Wirral,E08000015,North West (England),Total,Fair health,45687
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Fair health,48307
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Fair health,38102
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Fair health,23779
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Fair health,24667
+2011,York,E06000014,Yorkshire and The Humber,Total,Fair health,23752
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Fair health,7387
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Fair health,11235
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Fair health,18633
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Fair health,5988
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Fair health,7329
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Fair health,17588
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Fair health,10654
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Fair health,37956
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Fair health,45748
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Fair health,39278
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Fair health,75733
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Fair health,71580
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Fair health,28091
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Fair health,58042
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Fair health,95515
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Fair health,50595
+2011,Derby,E06000015,East Midlands (England),Total,Fair health,35193
+2011,Leicester,E06000016,East Midlands (England),Total,Fair health,44278
+2011,Nottingham,E06000018,East Midlands (England),Total,Fair health,41581
+2011,Rutland,E06000017,East Midlands (England),Total,Fair health,4532
+2011,Amber Valley,E07000032,East Midlands (England),Total,Fair health,18336
+2011,Bolsover,E07000033,East Midlands (England),Total,Fair health,12965
+2011,Chesterfield,E07000034,East Midlands (England),Total,Fair health,16984
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Fair health,9718
+2011,Erewash,E07000036,East Midlands (England),Total,Fair health,16762
+2011,High Peak,E07000037,East Midlands (England),Total,Fair health,12011
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Fair health,15734
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Fair health,12348
+2011,Blaby,E07000129,East Midlands (England),Total,Fair health,11764
+2011,Charnwood,E07000130,East Midlands (England),Total,Fair health,20620
+2011,Harborough,E07000131,East Midlands (England),Total,Fair health,9707
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Fair health,13974
+2011,Melton,E07000133,East Midlands (England),Total,Fair health,6295
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Fair health,12978
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Fair health,7524
+2011,Boston,E07000136,East Midlands (England),Total,Fair health,10252
+2011,East Lindsey,E07000137,East Midlands (England),Total,Fair health,24915
+2011,Lincoln,E07000138,East Midlands (England),Total,Fair health,13005
+2011,North Kesteven,E07000139,East Midlands (England),Total,Fair health,14941
+2011,South Holland,E07000140,East Midlands (England),Total,Fair health,13968
+2011,South Kesteven,E07000141,East Midlands (England),Total,Fair health,17767
+2011,West Lindsey,E07000142,East Midlands (England),Total,Fair health,13100
+2011,Corby,E07000150,East Midlands (England),Total,Fair health,8045
+2011,Daventry,E07000151,East Midlands (England),Total,Fair health,9398
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Fair health,11145
+2011,Kettering,E07000153,East Midlands (England),Total,Fair health,12039
+2011,Northampton,E07000154,East Midlands (England),Total,Fair health,26530
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Fair health,9378
+2011,Wellingborough,E07000156,East Midlands (England),Total,Fair health,10687
+2011,Ashfield,E07000170,East Midlands (England),Total,Fair health,19484
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Fair health,17794
+2011,Broxtowe,E07000172,East Midlands (England),Total,Fair health,15614
+2011,Gedling,E07000173,East Midlands (England),Total,Fair health,16473
+2011,Mansfield,E07000174,East Midlands (England),Total,Fair health,16922
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Fair health,16874
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Fair health,12779
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Fair health,25517
+2011,Shropshire,E06000051,West Midlands (England),Total,Fair health,41475
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Fair health,38179
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Fair health,22609
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Fair health,14091
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Fair health,15302
+2011,Lichfield,E07000194,West Midlands (England),Total,Fair health,13259
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Fair health,17802
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Fair health,14901
+2011,Stafford,E07000197,West Midlands (England),Total,Fair health,17316
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Fair health,14432
+2011,Tamworth,E07000199,West Midlands (England),Total,Fair health,10314
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Fair health,8725
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Fair health,18133
+2011,Rugby,E07000220,West Midlands (England),Total,Fair health,12580
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Fair health,15315
+2011,Warwick,E07000222,West Midlands (England),Total,Fair health,15719
+2011,Birmingham,E08000025,West Midlands (England),Total,Fair health,148782
+2011,Coventry,E08000026,West Midlands (England),Total,Fair health,42006
+2011,Dudley,E08000027,West Midlands (England),Total,Fair health,47828
+2011,Sandwell,E08000028,West Midlands (England),Total,Fair health,48087
+2011,Solihull,E08000029,West Midlands (England),Total,Fair health,27056
+2011,Walsall,E08000030,West Midlands (England),Total,Fair health,41653
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Fair health,39096
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Fair health,11885
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Fair health,10494
+2011,Redditch,E07000236,West Midlands (England),Total,Fair health,10913
+2011,Worcester,E07000237,West Midlands (England),Total,Fair health,12625
+2011,Wychavon,E07000238,West Midlands (England),Total,Fair health,15608
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Fair health,14881
+2011,Bedford,E06000055,East of England,Total,Fair health,19812
+2011,Central Bedfordshire,E06000056,East of England,Total,Fair health,29202
+2011,Luton,E06000032,East of England,Total,Fair health,25277
+2011,Peterborough,E06000031,East of England,Total,Fair health,24362
+2011,Southend-on-Sea,E06000033,East of England,Total,Fair health,24420
+2011,Thurrock,E06000034,East of England,Total,Fair health,19389
+2011,Cambridge,E07000008,East of England,Total,Fair health,12021
+2011,East Cambridgeshire,E07000009,East of England,Total,Fair health,10131
+2011,Fenland,E07000010,East of England,Total,Fair health,15760
+2011,Huntingdonshire,E07000011,East of England,Total,Fair health,19682
+2011,South Cambridgeshire,E07000012,East of England,Total,Fair health,15792
+2011,Basildon,E07000066,East of England,Total,Fair health,23145
+2011,Braintree,E07000067,East of England,Total,Fair health,18291
+2011,Brentwood,E07000068,East of England,Total,Fair health,8565
+2011,Castle Point,E07000069,East of England,Total,Fair health,12963
+2011,Chelmsford,E07000070,East of England,Total,Fair health,19261
+2011,Colchester,E07000071,East of England,Total,Fair health,20925
+2011,Epping Forest,E07000072,East of England,Total,Fair health,15435
+2011,Harlow,E07000073,East of England,Total,Fair health,11203
+2011,Maldon,E07000074,East of England,Total,Fair health,8269
+2011,Rochford,E07000075,East of England,Total,Fair health,10832
+2011,Tendring,E07000076,East of England,Total,Fair health,25052
+2011,Uttlesford,E07000077,East of England,Total,Fair health,8620
+2011,Broxbourne,E07000095,East of England,Total,Fair health,11544
+2011,Dacorum,E07000096,East of England,Total,Fair health,16778
+2011,East Hertfordshire,E07000242,East of England,Total,Fair health,14325
+2011,Hertsmere,E07000098,East of England,Total,Fair health,11433
+2011,North Hertfordshire,E07000099,East of England,Total,Fair health,14965
+2011,St Albans,E07000240,East of England,Total,Fair health,13802
+2011,Stevenage,E07000243,East of England,Total,Fair health,10652
+2011,Three Rivers,E07000102,East of England,Total,Fair health,9772
+2011,Watford,E07000103,East of England,Total,Fair health,9911
+2011,Welwyn Hatfield,E07000241,East of England,Total,Fair health,12427
+2011,Breckland,E07000143,East of England,Total,Fair health,19565
+2011,Broadland,E07000144,East of England,Total,Fair health,17475
+2011,Great Yarmouth,E07000145,East of England,Total,Fair health,16130
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Fair health,23441
+2011,North Norfolk,E07000147,East of England,Total,Fair health,17412
+2011,Norwich,E07000148,East of England,Total,Fair health,18620
+2011,South Norfolk,E07000149,East of England,Total,Fair health,16575
+2011,Babergh,E07000200,East of England,Total,Fair health,11624
+2011,Forest Heath,E07000201,East of England,Total,Fair health,7235
+2011,Ipswich,E07000202,East of England,Total,Fair health,18053
+2011,Mid Suffolk,E07000203,East of England,Total,Fair health,12432
+2011,St Edmundsbury,E07000204,East of England,Total,Fair health,14081
+2011,Suffolk Coastal,E07000205,East of England,Total,Fair health,17122
+2011,Waveney,E07000206,East of England,Total,Fair health,18541
+2011,Camden,E09000007,London,Total,Fair health,22963
+2011,City of London,E09000001,London,Total,Fair health,643
+2011,Hackney,E09000012,London,Total,Fair health,26837
+2011,Hammersmith and Fulham,E09000013,London,Total,Fair health,17188
+2011,Haringey,E09000014,London,Total,Fair health,28444
+2011,Islington,E09000019,London,Total,Fair health,23113
+2011,Kensington and Chelsea,E09000020,London,Total,Fair health,14464
+2011,Lambeth,E09000022,London,Total,Fair health,31188
+2011,Lewisham,E09000023,London,Total,Fair health,32289
+2011,Newham,E09000025,London,Total,Fair health,34839
+2011,Southwark,E09000028,London,Total,Fair health,29935
+2011,Tower Hamlets,E09000030,London,Total,Fair health,27062
+2011,Wandsworth,E09000032,London,Total,Fair health,27299
+2011,Westminster,E09000033,London,Total,Fair health,22027
+2011,Barking and Dagenham,E09000002,London,Total,Fair health,24042
+2011,Barnet,E09000003,London,Total,Fair health,39172
+2011,Bexley,E09000004,London,Total,Fair health,29015
+2011,Brent,E09000005,London,Total,Fair health,36731
+2011,Bromley,E09000006,London,Total,Fair health,36098
+2011,Croydon,E09000008,London,Total,Fair health,43473
+2011,Ealing,E09000009,London,Total,Fair health,38421
+2011,Enfield,E09000010,London,Total,Fair health,39699
+2011,Greenwich,E09000011,London,Total,Fair health,29386
+2011,Harrow,E09000015,London,Total,Fair health,28329
+2011,Havering,E09000016,London,Total,Fair health,31492
+2011,Hillingdon,E09000017,London,Total,Fair health,31492
+2011,Hounslow,E09000018,London,Total,Fair health,28552
+2011,Kingston upon Thames,E09000021,London,Total,Fair health,16425
+2011,Merton,E09000024,London,Total,Fair health,21025
+2011,Redbridge,E09000026,London,Total,Fair health,33470
+2011,Richmond upon Thames,E09000027,London,Total,Fair health,16662
+2011,Sutton,E09000029,London,Total,Fair health,22127
+2011,Waltham Forest,E09000031,London,Total,Fair health,31133
+2011,Bracknell Forest,E06000036,South East (England),Total,Fair health,11394
+2011,Brighton and Hove,E06000043,South East (England),Total,Fair health,32298
+2011,Isle of Wight,E06000046,South East (England),Total,Fair health,22378
+2011,Medway,E06000035,South East (England),Total,Fair health,34307
+2011,Milton Keynes,E06000042,South East (England),Total,Fair health,26929
+2011,Portsmouth,E06000044,South East (England),Total,Fair health,25464
+2011,Reading,E06000038,South East (England),Total,Fair health,16770
+2011,Slough,E06000039,South East (England),Total,Fair health,16288
+2011,Southampton,E06000045,South East (England),Total,Fair health,29278
+2011,West Berkshire,E06000037,South East (England),Total,Fair health,16456
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Fair health,14234
+2011,Wokingham,E06000041,South East (England),Total,Fair health,14566
+2011,Aylesbury Vale,E07000004,South East (England),Total,Fair health,19073
+2011,Chiltern,E07000005,South East (England),Total,Fair health,9433
+2011,South Bucks,E07000006,South East (England),Total,Fair health,7025
+2011,Wycombe,E07000007,South East (England),Total,Fair health,18456
+2011,Eastbourne,E07000061,South East (England),Total,Fair health,15251
+2011,Hastings,E07000062,South East (England),Total,Fair health,14276
+2011,Lewes,E07000063,South East (England),Total,Fair health,13900
+2011,Rother,E07000064,South East (England),Total,Fair health,14960
+2011,Wealden,E07000065,South East (England),Total,Fair health,19408
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Fair health,18047
+2011,East Hampshire,E07000085,South East (England),Total,Fair health,12885
+2011,Eastleigh,E07000086,South East (England),Total,Fair health,14538
+2011,Fareham,E07000087,South East (England),Total,Fair health,13638
+2011,Gosport,E07000088,South East (England),Total,Fair health,11224
+2011,Hart,E07000089,South East (England),Total,Fair health,8432
+2011,Havant,E07000090,South East (England),Total,Fair health,17188
+2011,New Forest,E07000091,South East (England),Total,Fair health,24871
+2011,Rushmoor,E07000092,South East (England),Total,Fair health,10099
+2011,Test Valley,E07000093,South East (England),Total,Fair health,13530
+2011,Winchester,E07000094,South East (England),Total,Fair health,12354
+2011,Ashford,E07000105,South East (England),Total,Fair health,15027
+2011,Canterbury,E07000106,South East (England),Total,Fair health,20211
+2011,Dartford,E07000107,South East (England),Total,Fair health,11837
+2011,Dover,E07000108,South East (England),Total,Fair health,16745
+2011,Gravesham,E07000109,South East (England),Total,Fair health,13629
+2011,Maidstone,E07000110,South East (England),Total,Fair health,19291
+2011,Sevenoaks,E07000111,South East (England),Total,Fair health,13180
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Fair health,16465
+2011,Swale,E07000113,South East (England),Total,Fair health,19118
+2011,Thanet,E07000114,South East (England),Total,Fair health,22377
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Fair health,14263
+2011,Tunbridge Wells,E07000116,South East (England),Total,Fair health,12788
+2011,Cherwell,E07000177,South East (England),Total,Fair health,15844
+2011,Oxford,E07000178,South East (England),Total,Fair health,14320
+2011,South Oxfordshire,E07000179,South East (England),Total,Fair health,14409
+2011,Vale of White Horse,E07000180,South East (England),Total,Fair health,13063
+2011,West Oxfordshire,E07000181,South East (England),Total,Fair health,11685
+2011,Elmbridge,E07000207,South East (England),Total,Fair health,12360
+2011,Epsom and Ewell,E07000208,South East (England),Total,Fair health,7988
+2011,Guildford,E07000209,South East (England),Total,Fair health,13442
+2011,Mole Valley,E07000210,South East (England),Total,Fair health,9607
+2011,Reigate and Banstead,E07000211,South East (England),Total,Fair health,14866
+2011,Runnymede,E07000212,South East (England),Total,Fair health,8767
+2011,Spelthorne,E07000213,South East (England),Total,Fair health,11509
+2011,Surrey Heath,E07000214,South East (England),Total,Fair health,8613
+2011,Tandridge,E07000215,South East (England),Total,Fair health,9450
+2011,Waverley,E07000216,South East (England),Total,Fair health,12768
+2011,Woking,E07000217,South East (England),Total,Fair health,10184
+2011,Adur,E07000223,South East (England),Total,Fair health,9181
+2011,Arun,E07000224,South East (England),Total,Fair health,23299
+2011,Chichester,E07000225,South East (England),Total,Fair health,14900
+2011,Crawley,E07000226,South East (England),Total,Fair health,12856
+2011,Horsham,E07000227,South East (England),Total,Fair health,14580
+2011,Mid Sussex,E07000228,South East (England),Total,Fair health,14938
+2011,Worthing,E07000229,South East (England),Total,Fair health,15082
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Fair health,20856
+2011,Bournemouth,E06000028,South West (England),Total,Fair health,24866
+2011,"Bristol, City of",E06000023,South West (England),Total,Fair health,52446
+2011,Cornwall,E06000052,South West (England),Total,Fair health,79181
+2011,Isles of Scilly,E06000053,South West (England),Total,Fair health,248
+2011,North Somerset,E06000024,South West (England),Total,Fair health,27670
+2011,Plymouth,E06000026,South West (England),Total,Fair health,35756
+2011,Poole,E06000029,South West (England),Total,Fair health,19849
+2011,South Gloucestershire,E06000025,South West (England),Total,Fair health,30940
+2011,Swindon,E06000030,South West (England),Total,Fair health,25056
+2011,Torbay,E06000027,South West (England),Total,Fair health,21355
+2011,Wiltshire,E06000054,South West (England),Total,Fair health,57221
+2011,East Devon,E07000040,South West (England),Total,Fair health,19960
+2011,Exeter,E07000041,South West (England),Total,Fair health,14075
+2011,Mid Devon,E07000042,South West (England),Total,Fair health,10398
+2011,North Devon,E07000043,South West (England),Total,Fair health,13264
+2011,South Hams,E07000044,South West (England),Total,Fair health,11075
+2011,Teignbridge,E07000045,South West (England),Total,Fair health,18237
+2011,Torridge,E07000046,South West (England),Total,Fair health,9843
+2011,West Devon,E07000047,South West (England),Total,Fair health,7646
+2011,Christchurch,E07000048,South West (England),Total,Fair health,7681
+2011,East Dorset,E07000049,South West (England),Total,Fair health,12436
+2011,North Dorset,E07000050,South West (England),Total,Fair health,8808
+2011,Purbeck,E07000051,South West (England),Total,Fair health,6340
+2011,West Dorset,E07000052,South West (England),Total,Fair health,14604
+2011,Weymouth and Portland,E07000053,South West (England),Total,Fair health,9802
+2011,Cheltenham,E07000078,South West (England),Total,Fair health,13631
+2011,Cotswold,E07000079,South West (England),Total,Fair health,10220
+2011,Forest of Dean,E07000080,South West (England),Total,Fair health,11879
+2011,Gloucester,E07000081,South West (England),Total,Fair health,15933
+2011,Stroud,E07000082,South West (England),Total,Fair health,14441
+2011,Tewkesbury,E07000083,South West (England),Total,Fair health,10213
+2011,Mendip,E07000187,South West (England),Total,Fair health,14619
+2011,Sedgemoor,E07000188,South West (England),Total,Fair health,16930
+2011,South Somerset,E07000189,South West (England),Total,Fair health,22282
+2011,Taunton Deane,E07000190,South West (England),Total,Fair health,14854
+2011,West Somerset,E07000191,South West (England),Total,Fair health,5741
+2011,Isle of Anglesey,W06000001,Wales,Total,Fair health,10541
+2011,Gwynedd,W06000002,Wales,Total,Fair health,16593
+2011,Conwy,W06000003,Wales,Total,Fair health,17874
+2011,Denbighshire,W06000004,Wales,Total,Fair health,13770
+2011,Flintshire,W06000005,Wales,Total,Fair health,20114
+2011,Wrexham,W06000006,Wales,Total,Fair health,19009
+2011,Powys,W06000023,Wales,Total,Fair health,19857
+2011,Ceredigion,W06000008,Wales,Total,Fair health,10946
+2011,Pembrokeshire,W06000009,Wales,Total,Fair health,18684
+2011,Carmarthenshire,W06000010,Wales,Total,Fair health,30011
+2011,Swansea,W06000011,Wales,Total,Fair health,33402
+2011,Neath Port Talbot,W06000012,Wales,Total,Fair health,22640
+2011,Bridgend,W06000013,Wales,Total,Fair health,21002
+2011,Vale of Glamorgan,W06000014,Wales,Total,Fair health,17123
+2011,Cardiff,W06000015,Wales,Total,Fair health,42014
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Fair health,37208
+2011,Merthyr Tydfil,W06000024,Wales,Total,Fair health,9324
+2011,Caerphilly,W06000018,Wales,Total,Fair health,28488
+2011,Blaenau Gwent,W06000019,Wales,Total,Fair health,11696
+2011,Torfaen,W06000020,Wales,Total,Fair health,14155
+2011,Monmouthshire,W06000021,Wales,Total,Fair health,12800
+2011,Newport,W06000022,Wales,Total,Fair health,20538
+2011,Darlington,E06000005,North East (England),Total,Bad health,4763
+2011,County Durham,E06000047,North East (England),Total,Bad health,32568
+2011,Hartlepool,E06000001,North East (England),Total,Bad health,5789
+2011,Middlesbrough,E06000002,North East (England),Total,Bad health,8001
+2011,Northumberland,E06000057,North East (England),Total,Bad health,15641
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Bad health,8184
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Bad health,9296
+2011,Gateshead,E08000037,North East (England),Total,Bad health,12152
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Bad health,14793
+2011,North Tyneside,E08000022,North East (England),Total,Bad health,10638
+2011,South Tyneside,E08000023,North East (England),Total,Bad health,9394
+2011,Sunderland,E08000024,North East (England),Total,Bad health,18155
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Bad health,8428
+2011,Blackpool,E06000009,North West (England),Total,Bad health,10346
+2011,Cheshire East,E06000049,North West (England),Total,Bad health,14247
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Bad health,14259
+2011,Halton,E06000006,North West (England),Total,Bad health,7732
+2011,Warrington,E06000007,North West (England),Total,Bad health,8466
+2011,Allerdale,E07000026,North West (England),Total,Bad health,4762
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Bad health,4542
+2011,Carlisle,E07000028,North West (England),Total,Bad health,4964
+2011,Copeland,E07000029,North West (England),Total,Bad health,3760
+2011,Eden,E07000030,North West (England),Total,Bad health,1875
+2011,South Lakeland,E07000031,North West (England),Total,Bad health,3701
+2011,Bolton,E08000001,North West (England),Total,Bad health,14465
+2011,Bury,E08000002,North West (England),Total,Bad health,8539
+2011,Manchester,E08000003,North West (England),Total,Bad health,27014
+2011,Oldham,E08000004,North West (England),Total,Bad health,12179
+2011,Rochdale,E08000005,North West (England),Total,Bad health,12453
+2011,Salford,E08000006,North West (England),Total,Bad health,13741
+2011,Stockport,E08000007,North West (England),Total,Bad health,12505
+2011,Tameside,E08000008,North West (England),Total,Bad health,12492
+2011,Trafford,E08000009,North West (England),Total,Bad health,9273
+2011,Wigan,E08000010,North West (England),Total,Bad health,18112
+2011,Burnley,E07000117,North West (England),Total,Bad health,5213
+2011,Chorley,E07000118,North West (England),Total,Bad health,4623
+2011,Fylde,E07000119,North West (England),Total,Bad health,3692
+2011,Hyndburn,E07000120,North West (England),Total,Bad health,4800
+2011,Lancaster,E07000121,North West (England),Total,Bad health,6215
+2011,Pendle,E07000122,North West (England),Total,Bad health,4921
+2011,Preston,E07000123,North West (England),Total,Bad health,6644
+2011,Ribble Valley,E07000124,North West (England),Total,Bad health,1805
+2011,Rossendale,E07000125,North West (England),Total,Bad health,3475
+2011,South Ribble,E07000126,North West (England),Total,Bad health,4473
+2011,West Lancashire,E07000127,North West (England),Total,Bad health,5380
+2011,Wyre,E07000128,North West (England),Total,Bad health,5944
+2011,Knowsley,E08000011,North West (England),Total,Bad health,10631
+2011,Liverpool,E08000012,North West (England),Total,Bad health,31162
+2011,Sefton,E08000014,North West (England),Total,Bad health,15549
+2011,St. Helens,E08000013,North West (England),Total,Bad health,11364
+2011,Wirral,E08000015,North West (England),Total,Bad health,18448
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Bad health,13877
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Bad health,14047
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Bad health,7507
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Bad health,7593
+2011,York,E06000014,Yorkshire and The Humber,Total,Bad health,6369
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Bad health,1975
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Bad health,2972
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Bad health,4698
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Bad health,1523
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Bad health,1846
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Bad health,5712
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Bad health,3008
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Bad health,15278
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Bad health,16982
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Bad health,15114
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Bad health,26703
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Bad health,23768
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Bad health,8929
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Bad health,19030
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Bad health,31504
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Bad health,19507
+2011,Derby,E06000015,East Midlands (England),Total,Bad health,11413
+2011,Leicester,E06000016,East Midlands (England),Total,Bad health,14972
+2011,Nottingham,E06000018,East Midlands (England),Total,Bad health,15063
+2011,Rutland,E06000017,East Midlands (England),Total,Bad health,1008
+2011,Amber Valley,E07000032,East Midlands (England),Total,Bad health,5810
+2011,Bolsover,E07000033,East Midlands (England),Total,Bad health,5152
+2011,Chesterfield,E07000034,East Midlands (England),Total,Bad health,6204
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Bad health,2475
+2011,Erewash,E07000036,East Midlands (England),Total,Bad health,4874
+2011,High Peak,E07000037,East Midlands (England),Total,Bad health,3696
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Bad health,5319
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Bad health,3647
+2011,Blaby,E07000129,East Midlands (England),Total,Bad health,3081
+2011,Charnwood,E07000130,East Midlands (England),Total,Bad health,5465
+2011,Harborough,E07000131,East Midlands (England),Total,Bad health,2345
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Bad health,3812
+2011,Melton,E07000133,East Midlands (England),Total,Bad health,1449
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Bad health,3733
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Bad health,2082
+2011,Boston,E07000136,East Midlands (England),Total,Bad health,3058
+2011,East Lindsey,E07000137,East Midlands (England),Total,Bad health,8671
+2011,Lincoln,E07000138,East Midlands (England),Total,Bad health,3907
+2011,North Kesteven,E07000139,East Midlands (England),Total,Bad health,4198
+2011,South Holland,E07000140,East Midlands (England),Total,Bad health,4167
+2011,South Kesteven,E07000141,East Midlands (England),Total,Bad health,5005
+2011,West Lindsey,E07000142,East Midlands (England),Total,Bad health,3790
+2011,Corby,E07000150,East Midlands (England),Total,Bad health,2697
+2011,Daventry,E07000151,East Midlands (England),Total,Bad health,2577
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Bad health,2945
+2011,Kettering,E07000153,East Midlands (England),Total,Bad health,3477
+2011,Northampton,E07000154,East Midlands (England),Total,Bad health,7654
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Bad health,2247
+2011,Wellingborough,E07000156,East Midlands (England),Total,Bad health,2973
+2011,Ashfield,E07000170,East Midlands (England),Total,Bad health,6764
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Bad health,5912
+2011,Broxtowe,E07000172,East Midlands (England),Total,Bad health,4521
+2011,Gedling,E07000173,East Midlands (England),Total,Bad health,4657
+2011,Mansfield,E07000174,East Midlands (England),Total,Bad health,6476
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Bad health,5246
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Bad health,3468
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Bad health,7441
+2011,Shropshire,E06000051,West Midlands (England),Total,Bad health,11979
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Bad health,15356
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Bad health,8023
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Bad health,5121
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Bad health,4377
+2011,Lichfield,E07000194,West Midlands (England),Total,Bad health,3959
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Bad health,6312
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Bad health,4435
+2011,Stafford,E07000197,West Midlands (England),Total,Bad health,5118
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Bad health,4420
+2011,Tamworth,E07000199,West Midlands (England),Total,Bad health,3399
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Bad health,2850
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Bad health,6019
+2011,Rugby,E07000220,West Midlands (England),Total,Bad health,3508
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Bad health,4049
+2011,Warwick,E07000222,West Midlands (England),Total,Bad health,4275
+2011,Birmingham,E08000025,West Midlands (England),Total,Bad health,54105
+2011,Coventry,E08000026,West Midlands (England),Total,Bad health,14765
+2011,Dudley,E08000027,West Midlands (England),Total,Bad health,15918
+2011,Sandwell,E08000028,West Midlands (England),Total,Bad health,18171
+2011,Solihull,E08000029,West Midlands (England),Total,Bad health,8241
+2011,Walsall,E08000030,West Midlands (England),Total,Bad health,14968
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Bad health,13796
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Bad health,3484
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Bad health,2939
+2011,Redditch,E07000236,West Midlands (England),Total,Bad health,3522
+2011,Worcester,E07000237,West Midlands (England),Total,Bad health,3780
+2011,Wychavon,E07000238,West Midlands (England),Total,Bad health,4339
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Bad health,4548
+2011,Bedford,E06000055,East of England,Total,Bad health,5596
+2011,Central Bedfordshire,E06000056,East of England,Total,Bad health,7672
+2011,Luton,E06000032,East of England,Total,Bad health,7571
+2011,Peterborough,E06000031,East of England,Total,Bad health,7425
+2011,Southend-on-Sea,E06000033,East of England,Total,Bad health,7778
+2011,Thurrock,E06000034,East of England,Total,Bad health,5888
+2011,Cambridge,E07000008,East of England,Total,Bad health,3533
+2011,East Cambridgeshire,E07000009,East of England,Total,Bad health,2614
+2011,Fenland,E07000010,East of England,Total,Bad health,4590
+2011,Huntingdonshire,E07000011,East of England,Total,Bad health,5239
+2011,South Cambridgeshire,E07000012,East of England,Total,Bad health,3739
+2011,Basildon,E07000066,East of England,Total,Bad health,7355
+2011,Braintree,E07000067,East of England,Total,Bad health,5046
+2011,Brentwood,E07000068,East of England,Total,Bad health,2306
+2011,Castle Point,E07000069,East of England,Total,Bad health,3873
+2011,Chelmsford,E07000070,East of England,Total,Bad health,4778
+2011,Colchester,E07000071,East of England,Total,Bad health,5692
+2011,Epping Forest,E07000072,East of England,Total,Bad health,4441
+2011,Harlow,E07000073,East of England,Total,Bad health,3398
+2011,Maldon,E07000074,East of England,Total,Bad health,2260
+2011,Rochford,E07000075,East of England,Total,Bad health,2816
+2011,Tendring,E07000076,East of England,Total,Bad health,8048
+2011,Uttlesford,E07000077,East of England,Total,Bad health,2067
+2011,Broxbourne,E07000095,East of England,Total,Bad health,3357
+2011,Dacorum,E07000096,East of England,Total,Bad health,4576
+2011,East Hertfordshire,E07000242,East of England,Total,Bad health,3678
+2011,Hertsmere,E07000098,East of England,Total,Bad health,3208
+2011,North Hertfordshire,E07000099,East of England,Total,Bad health,3958
+2011,St Albans,E07000240,East of England,Total,Bad health,3521
+2011,Stevenage,E07000243,East of England,Total,Bad health,2984
+2011,Three Rivers,E07000102,East of England,Total,Bad health,2672
+2011,Watford,E07000103,East of England,Total,Bad health,2931
+2011,Welwyn Hatfield,E07000241,East of England,Total,Bad health,3431
+2011,Breckland,E07000143,East of England,Total,Bad health,5623
+2011,Broadland,E07000144,East of England,Total,Bad health,4499
+2011,Great Yarmouth,E07000145,East of England,Total,Bad health,5330
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Bad health,7077
+2011,North Norfolk,E07000147,East of England,Total,Bad health,4839
+2011,Norwich,E07000148,East of England,Total,Bad health,5862
+2011,South Norfolk,E07000149,East of England,Total,Bad health,4297
+2011,Babergh,E07000200,East of England,Total,Bad health,3023
+2011,Forest Heath,E07000201,East of England,Total,Bad health,2035
+2011,Ipswich,E07000202,East of England,Total,Bad health,5233
+2011,Mid Suffolk,E07000203,East of England,Total,Bad health,3020
+2011,St Edmundsbury,E07000204,East of England,Total,Bad health,3695
+2011,Suffolk Coastal,E07000205,East of England,Total,Bad health,4427
+2011,Waveney,E07000206,East of England,Total,Bad health,5829
+2011,Camden,E09000007,London,Total,Bad health,9174
+2011,City of London,E09000001,London,Total,Bad health,190
+2011,Hackney,E09000012,London,Total,Bad health,11183
+2011,Hammersmith and Fulham,E09000013,London,Total,Bad health,6531
+2011,Haringey,E09000014,London,Total,Bad health,10650
+2011,Islington,E09000019,London,Total,Bad health,9771
+2011,Kensington and Chelsea,E09000020,London,Total,Bad health,5357
+2011,Lambeth,E09000022,London,Total,Bad health,10729
+2011,Lewisham,E09000023,London,Total,Bad health,10755
+2011,Newham,E09000025,London,Total,Bad health,12763
+2011,Southwark,E09000028,London,Total,Bad health,10544
+2011,Tower Hamlets,E09000030,London,Total,Bad health,11228
+2011,Wandsworth,E09000032,London,Total,Bad health,8749
+2011,Westminster,E09000033,London,Total,Bad health,9263
+2011,Barking and Dagenham,E09000002,London,Total,Bad health,8686
+2011,Barnet,E09000003,London,Total,Bad health,12197
+2011,Bexley,E09000004,London,Total,Bad health,8688
+2011,Brent,E09000005,London,Total,Bad health,12339
+2011,Bromley,E09000006,London,Total,Bad health,9904
+2011,Croydon,E09000008,London,Total,Bad health,12734
+2011,Ealing,E09000009,London,Total,Bad health,12817
+2011,Enfield,E09000010,London,Total,Bad health,12840
+2011,Greenwich,E09000011,London,Total,Bad health,10420
+2011,Harrow,E09000015,London,Total,Bad health,8289
+2011,Havering,E09000016,London,Total,Bad health,9464
+2011,Hillingdon,E09000017,London,Total,Bad health,9404
+2011,Hounslow,E09000018,London,Total,Bad health,9085
+2011,Kingston upon Thames,E09000021,London,Total,Bad health,4438
+2011,Merton,E09000024,London,Total,Bad health,5930
+2011,Redbridge,E09000026,London,Total,Bad health,10479
+2011,Richmond upon Thames,E09000027,London,Total,Bad health,4617
+2011,Sutton,E09000029,London,Total,Bad health,6072
+2011,Waltham Forest,E09000031,London,Total,Bad health,10053
+2011,Bracknell Forest,E06000036,South East (England),Total,Bad health,2859
+2011,Brighton and Hove,E06000043,South East (England),Total,Bad health,11151
+2011,Isle of Wight,E06000046,South East (England),Total,Bad health,6921
+2011,Medway,E06000035,South East (England),Total,Bad health,10388
+2011,Milton Keynes,E06000042,South East (England),Total,Bad health,7955
+2011,Portsmouth,E06000044,South East (England),Total,Bad health,7995
+2011,Reading,E06000038,South East (England),Total,Bad health,4590
+2011,Slough,E06000039,South East (England),Total,Bad health,4906
+2011,Southampton,E06000045,South East (England),Total,Bad health,9223
+2011,West Berkshire,E06000037,South East (England),Total,Bad health,3818
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Bad health,3872
+2011,Wokingham,E06000041,South East (England),Total,Bad health,3310
+2011,Aylesbury Vale,E07000004,South East (England),Total,Bad health,4661
+2011,Chiltern,E07000005,South East (England),Total,Bad health,2334
+2011,South Bucks,E07000006,South East (England),Total,Bad health,1959
+2011,Wycombe,E07000007,South East (England),Total,Bad health,4653
+2011,Eastbourne,E07000061,South East (England),Total,Bad health,4712
+2011,Hastings,E07000062,South East (England),Total,Bad health,5159
+2011,Lewes,E07000063,South East (England),Total,Bad health,4066
+2011,Rother,E07000064,South East (England),Total,Bad health,4463
+2011,Wealden,E07000065,South East (England),Total,Bad health,5198
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Bad health,4559
+2011,East Hampshire,E07000085,South East (England),Total,Bad health,3336
+2011,Eastleigh,E07000086,South East (England),Total,Bad health,3817
+2011,Fareham,E07000087,South East (England),Total,Bad health,3489
+2011,Gosport,E07000088,South East (England),Total,Bad health,3215
+2011,Hart,E07000089,South East (England),Total,Bad health,1891
+2011,Havant,E07000090,South East (England),Total,Bad health,5172
+2011,New Forest,E07000091,South East (England),Total,Bad health,6715
+2011,Rushmoor,E07000092,South East (England),Total,Bad health,2625
+2011,Test Valley,E07000093,South East (England),Total,Bad health,3457
+2011,Winchester,E07000094,South East (England),Total,Bad health,3135
+2011,Ashford,E07000105,South East (England),Total,Bad health,4163
+2011,Canterbury,E07000106,South East (England),Total,Bad health,6133
+2011,Dartford,E07000107,South East (England),Total,Bad health,3314
+2011,Dover,E07000108,South East (England),Total,Bad health,5538
+2011,Gravesham,E07000109,South East (England),Total,Bad health,4104
+2011,Maidstone,E07000110,South East (England),Total,Bad health,5323
+2011,Sevenoaks,E07000111,South East (England),Total,Bad health,3569
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Bad health,5321
+2011,Swale,E07000113,South East (England),Total,Bad health,6008
+2011,Thanet,E07000114,South East (England),Total,Bad health,7785
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Bad health,3728
+2011,Tunbridge Wells,E07000116,South East (England),Total,Bad health,3550
+2011,Cherwell,E07000177,South East (England),Total,Bad health,4261
+2011,Oxford,E07000178,South East (England),Total,Bad health,4189
+2011,South Oxfordshire,E07000179,South East (England),Total,Bad health,3517
+2011,Vale of White Horse,E07000180,South East (England),Total,Bad health,3163
+2011,West Oxfordshire,E07000181,South East (England),Total,Bad health,2942
+2011,Elmbridge,E07000207,South East (England),Total,Bad health,3213
+2011,Epsom and Ewell,E07000208,South East (England),Total,Bad health,2016
+2011,Guildford,E07000209,South East (England),Total,Bad health,3402
+2011,Mole Valley,E07000210,South East (England),Total,Bad health,2437
+2011,Reigate and Banstead,E07000211,South East (England),Total,Bad health,3844
+2011,Runnymede,E07000212,South East (England),Total,Bad health,2371
+2011,Spelthorne,E07000213,South East (England),Total,Bad health,3085
+2011,Surrey Heath,E07000214,South East (England),Total,Bad health,2148
+2011,Tandridge,E07000215,South East (England),Total,Bad health,2403
+2011,Waverley,E07000216,South East (England),Total,Bad health,3078
+2011,Woking,E07000217,South East (England),Total,Bad health,2602
+2011,Adur,E07000223,South East (England),Total,Bad health,2757
+2011,Arun,E07000224,South East (England),Total,Bad health,6608
+2011,Chichester,E07000225,South East (England),Total,Bad health,3822
+2011,Crawley,E07000226,South East (England),Total,Bad health,3679
+2011,Horsham,E07000227,South East (England),Total,Bad health,3560
+2011,Mid Sussex,E07000228,South East (England),Total,Bad health,3864
+2011,Worthing,E07000229,South East (England),Total,Bad health,4355
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Bad health,5831
+2011,Bournemouth,E06000028,South West (England),Total,Bad health,8009
+2011,"Bristol, City of",E06000023,South West (England),Total,Bad health,18056
+2011,Cornwall,E06000052,South West (England),Total,Bad health,25907
+2011,Isles of Scilly,E06000053,South West (England),Total,Bad health,53
+2011,North Somerset,E06000024,South West (England),Total,Bad health,8276
+2011,Plymouth,E06000026,South West (England),Total,Bad health,13012
+2011,Poole,E06000029,South West (England),Total,Bad health,5841
+2011,South Gloucestershire,E06000025,South West (England),Total,Bad health,8556
+2011,Swindon,E06000030,South West (England),Total,Bad health,7556
+2011,Torbay,E06000027,South West (England),Total,Bad health,7625
+2011,Wiltshire,E06000054,South West (England),Total,Bad health,14974
+2011,East Devon,E07000040,South West (England),Total,Bad health,5285
+2011,Exeter,E07000041,South West (England),Total,Bad health,4331
+2011,Mid Devon,E07000042,South West (England),Total,Bad health,2785
+2011,North Devon,E07000043,South West (England),Total,Bad health,4064
+2011,South Hams,E07000044,South West (England),Total,Bad health,3156
+2011,Teignbridge,E07000045,South West (England),Total,Bad health,5268
+2011,Torridge,E07000046,South West (England),Total,Bad health,3128
+2011,West Devon,E07000047,South West (England),Total,Bad health,2120
+2011,Christchurch,E07000048,South West (England),Total,Bad health,2208
+2011,East Dorset,E07000049,South West (England),Total,Bad health,3162
+2011,North Dorset,E07000050,South West (England),Total,Bad health,2266
+2011,Purbeck,E07000051,South West (England),Total,Bad health,1782
+2011,West Dorset,E07000052,South West (England),Total,Bad health,3878
+2011,Weymouth and Portland,E07000053,South West (England),Total,Bad health,2952
+2011,Cheltenham,E07000078,South West (England),Total,Bad health,3637
+2011,Cotswold,E07000079,South West (England),Total,Bad health,2498
+2011,Forest of Dean,E07000080,South West (England),Total,Bad health,3535
+2011,Gloucester,E07000081,South West (England),Total,Bad health,4616
+2011,Stroud,E07000082,South West (England),Total,Bad health,3783
+2011,Tewkesbury,E07000083,South West (England),Total,Bad health,2703
+2011,Mendip,E07000187,South West (England),Total,Bad health,4137
+2011,Sedgemoor,E07000188,South West (England),Total,Bad health,4994
+2011,South Somerset,E07000189,South West (England),Total,Bad health,6115
+2011,Taunton Deane,E07000190,South West (England),Total,Bad health,4225
+2011,West Somerset,E07000191,South West (England),Total,Bad health,1756
+2011,Isle of Anglesey,W06000001,Wales,Total,Bad health,3413
+2011,Gwynedd,W06000002,Wales,Total,Bad health,4998
+2011,Conwy,W06000003,Wales,Total,Bad health,6237
+2011,Denbighshire,W06000004,Wales,Total,Bad health,5341
+2011,Flintshire,W06000005,Wales,Total,Bad health,6774
+2011,Wrexham,W06000006,Wales,Total,Bad health,6531
+2011,Powys,W06000023,Wales,Total,Bad health,6375
+2011,Ceredigion,W06000008,Wales,Total,Bad health,3660
+2011,Pembrokeshire,W06000009,Wales,Total,Bad health,6383
+2011,Carmarthenshire,W06000010,Wales,Total,Bad health,11475
+2011,Swansea,W06000011,Wales,Total,Bad health,14473
+2011,Neath Port Talbot,W06000012,Wales,Total,Bad health,11028
+2011,Bridgend,W06000013,Wales,Total,Bad health,9459
+2011,Vale of Glamorgan,W06000014,Wales,Total,Bad health,6191
+2011,Cardiff,W06000015,Wales,Total,Bad health,16745
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Bad health,17396
+2011,Merthyr Tydfil,W06000024,Wales,Total,Bad health,4908
+2011,Caerphilly,W06000018,Wales,Total,Bad health,12844
+2011,Blaenau Gwent,W06000019,Wales,Total,Bad health,5692
+2011,Torfaen,W06000020,Wales,Total,Bad health,5965
+2011,Monmouthshire,W06000021,Wales,Total,Bad health,4173
+2011,Newport,W06000022,Wales,Total,Bad health,8161
+2011,Darlington,E06000005,North East (England),Total,Very bad health,1440
+2011,County Durham,E06000047,North East (England),Total,Very bad health,9333
+2011,Hartlepool,E06000001,North East (England),Total,Very bad health,1699
+2011,Middlesbrough,E06000002,North East (England),Total,Very bad health,2542
+2011,Northumberland,E06000057,North East (England),Total,Very bad health,4359
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Very bad health,2415
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Very bad health,2836
+2011,Gateshead,E08000037,North East (England),Total,Very bad health,3777
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Very bad health,4337
+2011,North Tyneside,E08000022,North East (England),Total,Very bad health,3021
+2011,South Tyneside,E08000023,North East (England),Total,Very bad health,2827
+2011,Sunderland,E08000024,North East (England),Total,Very bad health,5478
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Very bad health,2335
+2011,Blackpool,E06000009,North West (England),Total,Very bad health,3120
+2011,Cheshire East,E06000049,North West (England),Total,Very bad health,3914
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Very bad health,4001
+2011,Halton,E06000006,North West (England),Total,Very bad health,2133
+2011,Warrington,E06000007,North West (England),Total,Very bad health,2359
+2011,Allerdale,E07000026,North West (England),Total,Very bad health,1266
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Very bad health,1244
+2011,Carlisle,E07000028,North West (England),Total,Very bad health,1443
+2011,Copeland,E07000029,North West (England),Total,Very bad health,1060
+2011,Eden,E07000030,North West (England),Total,Very bad health,474
+2011,South Lakeland,E07000031,North West (England),Total,Very bad health,994
+2011,Bolton,E08000001,North West (England),Total,Very bad health,3869
+2011,Bury,E08000002,North West (England),Total,Very bad health,2329
+2011,Manchester,E08000003,North West (England),Total,Very bad health,8676
+2011,Oldham,E08000004,North West (England),Total,Very bad health,3427
+2011,Rochdale,E08000005,North West (England),Total,Very bad health,3552
+2011,Salford,E08000006,North West (England),Total,Very bad health,3969
+2011,Stockport,E08000007,North West (England),Total,Very bad health,3418
+2011,Tameside,E08000008,North West (England),Total,Very bad health,3501
+2011,Trafford,E08000009,North West (England),Total,Very bad health,2566
+2011,Wigan,E08000010,North West (England),Total,Very bad health,4723
+2011,Burnley,E07000117,North West (England),Total,Very bad health,1506
+2011,Chorley,E07000118,North West (England),Total,Very bad health,1302
+2011,Fylde,E07000119,North West (England),Total,Very bad health,1040
+2011,Hyndburn,E07000120,North West (England),Total,Very bad health,1340
+2011,Lancaster,E07000121,North West (England),Total,Very bad health,1792
+2011,Pendle,E07000122,North West (England),Total,Very bad health,1309
+2011,Preston,E07000123,North West (England),Total,Very bad health,1857
+2011,Ribble Valley,E07000124,North West (England),Total,Very bad health,487
+2011,Rossendale,E07000125,North West (England),Total,Very bad health,958
+2011,South Ribble,E07000126,North West (England),Total,Very bad health,1124
+2011,West Lancashire,E07000127,North West (England),Total,Very bad health,1604
+2011,Wyre,E07000128,North West (England),Total,Very bad health,1791
+2011,Knowsley,E08000011,North West (England),Total,Very bad health,3184
+2011,Liverpool,E08000012,North West (England),Total,Very bad health,9722
+2011,Sefton,E08000014,North West (England),Total,Very bad health,4437
+2011,St. Helens,E08000013,North West (England),Total,Very bad health,3143
+2011,Wirral,E08000015,North West (England),Total,Very bad health,5535
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Very bad health,4133
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Very bad health,4130
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Very bad health,2153
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Very bad health,2069
+2011,York,E06000014,Yorkshire and The Humber,Total,Very bad health,1819
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Very bad health,514
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Very bad health,867
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Very bad health,1291
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Very bad health,393
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Very bad health,545
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Very bad health,1531
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Very bad health,812
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Very bad health,4144
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Very bad health,4951
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Very bad health,4419
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Very bad health,7669
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Very bad health,6940
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Very bad health,2350
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Very bad health,5289
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Very bad health,9148
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Very bad health,5527
+2011,Derby,E06000015,East Midlands (England),Total,Very bad health,3249
+2011,Leicester,E06000016,East Midlands (England),Total,Very bad health,4930
+2011,Nottingham,E06000018,East Midlands (England),Total,Very bad health,4666
+2011,Rutland,E06000017,East Midlands (England),Total,Very bad health,283
+2011,Amber Valley,E07000032,East Midlands (England),Total,Very bad health,1542
+2011,Bolsover,E07000033,East Midlands (England),Total,Very bad health,1392
+2011,Chesterfield,E07000034,East Midlands (England),Total,Very bad health,1704
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Very bad health,753
+2011,Erewash,E07000036,East Midlands (England),Total,Very bad health,1430
+2011,High Peak,E07000037,East Midlands (England),Total,Very bad health,1020
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Very bad health,1509
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Very bad health,991
+2011,Blaby,E07000129,East Midlands (England),Total,Very bad health,824
+2011,Charnwood,E07000130,East Midlands (England),Total,Very bad health,1472
+2011,Harborough,E07000131,East Midlands (England),Total,Very bad health,648
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Very bad health,1027
+2011,Melton,E07000133,East Midlands (England),Total,Very bad health,391
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Very bad health,1078
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Very bad health,613
+2011,Boston,E07000136,East Midlands (England),Total,Very bad health,804
+2011,East Lindsey,E07000137,East Midlands (England),Total,Very bad health,2537
+2011,Lincoln,E07000138,East Midlands (England),Total,Very bad health,1084
+2011,North Kesteven,E07000139,East Midlands (England),Total,Very bad health,1230
+2011,South Holland,E07000140,East Midlands (England),Total,Very bad health,1215
+2011,South Kesteven,E07000141,East Midlands (England),Total,Very bad health,1392
+2011,West Lindsey,E07000142,East Midlands (England),Total,Very bad health,992
+2011,Corby,E07000150,East Midlands (England),Total,Very bad health,836
+2011,Daventry,E07000151,East Midlands (England),Total,Very bad health,705
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Very bad health,844
+2011,Kettering,E07000153,East Midlands (England),Total,Very bad health,948
+2011,Northampton,E07000154,East Midlands (England),Total,Very bad health,2187
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Very bad health,657
+2011,Wellingborough,E07000156,East Midlands (England),Total,Very bad health,876
+2011,Ashfield,E07000170,East Midlands (England),Total,Very bad health,1796
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Very bad health,1693
+2011,Broxtowe,E07000172,East Midlands (England),Total,Very bad health,1245
+2011,Gedling,E07000173,East Midlands (England),Total,Very bad health,1325
+2011,Mansfield,E07000174,East Midlands (England),Total,Very bad health,1878
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Very bad health,1521
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Very bad health,971
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Very bad health,2151
+2011,Shropshire,E06000051,West Midlands (England),Total,Very bad health,3457
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Very bad health,4652
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Very bad health,2372
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Very bad health,1483
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Very bad health,1234
+2011,Lichfield,E07000194,West Midlands (England),Total,Very bad health,1197
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Very bad health,1730
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Very bad health,1373
+2011,Stafford,E07000197,West Midlands (England),Total,Very bad health,1495
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Very bad health,1330
+2011,Tamworth,E07000199,West Midlands (England),Total,Very bad health,1007
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Very bad health,856
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Very bad health,1759
+2011,Rugby,E07000220,West Midlands (England),Total,Very bad health,970
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Very bad health,1061
+2011,Warwick,E07000222,West Midlands (England),Total,Very bad health,1274
+2011,Birmingham,E08000025,West Midlands (England),Total,Very bad health,17686
+2011,Coventry,E08000026,West Midlands (England),Total,Very bad health,4426
+2011,Dudley,E08000027,West Midlands (England),Total,Very bad health,4449
+2011,Sandwell,E08000028,West Midlands (England),Total,Very bad health,5542
+2011,Solihull,E08000029,West Midlands (England),Total,Very bad health,2497
+2011,Walsall,E08000030,West Midlands (England),Total,Very bad health,4527
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Very bad health,4147
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Very bad health,1030
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Very bad health,1016
+2011,Redditch,E07000236,West Midlands (England),Total,Very bad health,1034
+2011,Worcester,E07000237,West Midlands (England),Total,Very bad health,1015
+2011,Wychavon,E07000238,West Midlands (England),Total,Very bad health,1144
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Very bad health,1335
+2011,Bedford,E06000055,East of England,Total,Very bad health,1548
+2011,Central Bedfordshire,E06000056,East of England,Total,Very bad health,2128
+2011,Luton,E06000032,East of England,Total,Very bad health,2446
+2011,Peterborough,E06000031,East of England,Total,Very bad health,2076
+2011,Southend-on-Sea,E06000033,East of England,Total,Very bad health,2190
+2011,Thurrock,E06000034,East of England,Total,Very bad health,1628
+2011,Cambridge,E07000008,East of England,Total,Very bad health,970
+2011,East Cambridgeshire,E07000009,East of England,Total,Very bad health,712
+2011,Fenland,E07000010,East of England,Total,Very bad health,1293
+2011,Huntingdonshire,E07000011,East of England,Total,Very bad health,1442
+2011,South Cambridgeshire,E07000012,East of England,Total,Very bad health,1036
+2011,Basildon,E07000066,East of England,Total,Very bad health,2302
+2011,Braintree,E07000067,East of England,Total,Very bad health,1371
+2011,Brentwood,E07000068,East of England,Total,Very bad health,645
+2011,Castle Point,E07000069,East of England,Total,Very bad health,1109
+2011,Chelmsford,E07000070,East of England,Total,Very bad health,1365
+2011,Colchester,E07000071,East of England,Total,Very bad health,1658
+2011,Epping Forest,E07000072,East of England,Total,Very bad health,1293
+2011,Harlow,E07000073,East of England,Total,Very bad health,994
+2011,Maldon,E07000074,East of England,Total,Very bad health,668
+2011,Rochford,E07000075,East of England,Total,Very bad health,780
+2011,Tendring,E07000076,East of England,Total,Very bad health,2462
+2011,Uttlesford,E07000077,East of England,Total,Very bad health,527
+2011,Broxbourne,E07000095,East of England,Total,Very bad health,975
+2011,Dacorum,E07000096,East of England,Total,Very bad health,1257
+2011,East Hertfordshire,E07000242,East of England,Total,Very bad health,953
+2011,Hertsmere,E07000098,East of England,Total,Very bad health,945
+2011,North Hertfordshire,E07000099,East of England,Total,Very bad health,1030
+2011,St Albans,E07000240,East of England,Total,Very bad health,997
+2011,Stevenage,E07000243,East of England,Total,Very bad health,854
+2011,Three Rivers,E07000102,East of England,Total,Very bad health,733
+2011,Watford,E07000103,East of England,Total,Very bad health,806
+2011,Welwyn Hatfield,E07000241,East of England,Total,Very bad health,937
+2011,Breckland,E07000143,East of England,Total,Very bad health,1543
+2011,Broadland,E07000144,East of England,Total,Very bad health,1347
+2011,Great Yarmouth,E07000145,East of England,Total,Very bad health,1581
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Very bad health,1930
+2011,North Norfolk,E07000147,East of England,Total,Very bad health,1408
+2011,Norwich,E07000148,East of England,Total,Very bad health,1637
+2011,South Norfolk,E07000149,East of England,Total,Very bad health,1260
+2011,Babergh,E07000200,East of England,Total,Very bad health,785
+2011,Forest Heath,E07000201,East of England,Total,Very bad health,545
+2011,Ipswich,E07000202,East of England,Total,Very bad health,1527
+2011,Mid Suffolk,E07000203,East of England,Total,Very bad health,805
+2011,St Edmundsbury,E07000204,East of England,Total,Very bad health,1033
+2011,Suffolk Coastal,E07000205,East of England,Total,Very bad health,1136
+2011,Waveney,E07000206,East of England,Total,Very bad health,1716
+2011,Camden,E09000007,London,Total,Very bad health,3175
+2011,City of London,E09000001,London,Total,Very bad health,56
+2011,Hackney,E09000012,London,Total,Very bad health,4109
+2011,Hammersmith and Fulham,E09000013,London,Total,Very bad health,2364
+2011,Haringey,E09000014,London,Total,Very bad health,3780
+2011,Islington,E09000019,London,Total,Very bad health,3473
+2011,Kensington and Chelsea,E09000020,London,Total,Very bad health,1875
+2011,Lambeth,E09000022,London,Total,Very bad health,3557
+2011,Lewisham,E09000023,London,Total,Very bad health,3563
+2011,Newham,E09000025,London,Total,Very bad health,4564
+2011,Southwark,E09000028,London,Total,Very bad health,3596
+2011,Tower Hamlets,E09000030,London,Total,Very bad health,4129
+2011,Wandsworth,E09000032,London,Total,Very bad health,2814
+2011,Westminster,E09000033,London,Total,Very bad health,3491
+2011,Barking and Dagenham,E09000002,London,Total,Very bad health,2644
+2011,Barnet,E09000003,London,Total,Very bad health,4056
+2011,Bexley,E09000004,London,Total,Very bad health,2525
+2011,Brent,E09000005,London,Total,Very bad health,4281
+2011,Bromley,E09000006,London,Total,Very bad health,2818
+2011,Croydon,E09000008,London,Total,Very bad health,3953
+2011,Ealing,E09000009,London,Total,Very bad health,4114
+2011,Enfield,E09000010,London,Total,Very bad health,4182
+2011,Greenwich,E09000011,London,Total,Very bad health,3235
+2011,Harrow,E09000015,London,Total,Very bad health,2638
+2011,Havering,E09000016,London,Total,Very bad health,2767
+2011,Hillingdon,E09000017,London,Total,Very bad health,2766
+2011,Hounslow,E09000018,London,Total,Very bad health,2814
+2011,Kingston upon Thames,E09000021,London,Total,Very bad health,1267
+2011,Merton,E09000024,London,Total,Very bad health,1749
+2011,Redbridge,E09000026,London,Total,Very bad health,3196
+2011,Richmond upon Thames,E09000027,London,Total,Very bad health,1406
+2011,Sutton,E09000029,London,Total,Very bad health,1716
+2011,Waltham Forest,E09000031,London,Total,Very bad health,3457
+2011,Bracknell Forest,E06000036,South East (England),Total,Very bad health,818
+2011,Brighton and Hove,E06000043,South East (England),Total,Very bad health,3277
+2011,Isle of Wight,E06000046,South East (England),Total,Very bad health,2032
+2011,Medway,E06000035,South East (England),Total,Very bad health,2889
+2011,Milton Keynes,E06000042,South East (England),Total,Very bad health,2333
+2011,Portsmouth,E06000044,South East (England),Total,Very bad health,2359
+2011,Reading,E06000038,South East (England),Total,Very bad health,1256
+2011,Slough,E06000039,South East (England),Total,Very bad health,1391
+2011,Southampton,E06000045,South East (England),Total,Very bad health,2848
+2011,West Berkshire,E06000037,South East (England),Total,Very bad health,1047
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Very bad health,1081
+2011,Wokingham,E06000041,South East (England),Total,Very bad health,937
+2011,Aylesbury Vale,E07000004,South East (England),Total,Very bad health,1358
+2011,Chiltern,E07000005,South East (England),Total,Very bad health,652
+2011,South Bucks,E07000006,South East (England),Total,Very bad health,561
+2011,Wycombe,E07000007,South East (England),Total,Very bad health,1331
+2011,Eastbourne,E07000061,South East (England),Total,Very bad health,1438
+2011,Hastings,E07000062,South East (England),Total,Very bad health,1556
+2011,Lewes,E07000063,South East (England),Total,Very bad health,1183
+2011,Rother,E07000064,South East (England),Total,Very bad health,1276
+2011,Wealden,E07000065,South East (England),Total,Very bad health,1433
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Very bad health,1242
+2011,East Hampshire,E07000085,South East (England),Total,Very bad health,944
+2011,Eastleigh,E07000086,South East (England),Total,Very bad health,1093
+2011,Fareham,E07000087,South East (England),Total,Very bad health,1000
+2011,Gosport,E07000088,South East (England),Total,Very bad health,821
+2011,Hart,E07000089,South East (England),Total,Very bad health,511
+2011,Havant,E07000090,South East (England),Total,Very bad health,1575
+2011,New Forest,E07000091,South East (England),Total,Very bad health,1903
+2011,Rushmoor,E07000092,South East (England),Total,Very bad health,773
+2011,Test Valley,E07000093,South East (England),Total,Very bad health,927
+2011,Winchester,E07000094,South East (England),Total,Very bad health,862
+2011,Ashford,E07000105,South East (England),Total,Very bad health,1253
+2011,Canterbury,E07000106,South East (England),Total,Very bad health,1699
+2011,Dartford,E07000107,South East (England),Total,Very bad health,1000
+2011,Dover,E07000108,South East (England),Total,Very bad health,1481
+2011,Gravesham,E07000109,South East (England),Total,Very bad health,1117
+2011,Maidstone,E07000110,South East (England),Total,Very bad health,1509
+2011,Sevenoaks,E07000111,South East (England),Total,Very bad health,1004
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Very bad health,1607
+2011,Swale,E07000113,South East (England),Total,Very bad health,1792
+2011,Thanet,E07000114,South East (England),Total,Very bad health,2275
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Very bad health,1033
+2011,Tunbridge Wells,E07000116,South East (England),Total,Very bad health,899
+2011,Cherwell,E07000177,South East (England),Total,Very bad health,1197
+2011,Oxford,E07000178,South East (England),Total,Very bad health,1292
+2011,South Oxfordshire,E07000179,South East (England),Total,Very bad health,981
+2011,Vale of White Horse,E07000180,South East (England),Total,Very bad health,907
+2011,West Oxfordshire,E07000181,South East (England),Total,Very bad health,730
+2011,Elmbridge,E07000207,South East (England),Total,Very bad health,867
+2011,Epsom and Ewell,E07000208,South East (England),Total,Very bad health,535
+2011,Guildford,E07000209,South East (England),Total,Very bad health,925
+2011,Mole Valley,E07000210,South East (England),Total,Very bad health,604
+2011,Reigate and Banstead,E07000211,South East (England),Total,Very bad health,1165
+2011,Runnymede,E07000212,South East (England),Total,Very bad health,602
+2011,Spelthorne,E07000213,South East (England),Total,Very bad health,836
+2011,Surrey Heath,E07000214,South East (England),Total,Very bad health,638
+2011,Tandridge,E07000215,South East (England),Total,Very bad health,715
+2011,Waverley,E07000216,South East (England),Total,Very bad health,881
+2011,Woking,E07000217,South East (England),Total,Very bad health,761
+2011,Adur,E07000223,South East (England),Total,Very bad health,764
+2011,Arun,E07000224,South East (England),Total,Very bad health,1862
+2011,Chichester,E07000225,South East (England),Total,Very bad health,1091
+2011,Crawley,E07000226,South East (England),Total,Very bad health,1032
+2011,Horsham,E07000227,South East (England),Total,Very bad health,1074
+2011,Mid Sussex,E07000228,South East (England),Total,Very bad health,1086
+2011,Worthing,E07000229,South East (England),Total,Very bad health,1154
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Very bad health,1598
+2011,Bournemouth,E06000028,South West (England),Total,Very bad health,2401
+2011,"Bristol, City of",E06000023,South West (England),Total,Very bad health,5425
+2011,Cornwall,E06000052,South West (England),Total,Very bad health,7621
+2011,Isles of Scilly,E06000053,South West (England),Total,Very bad health,13
+2011,North Somerset,E06000024,South West (England),Total,Very bad health,2382
+2011,Plymouth,E06000026,South West (England),Total,Very bad health,3684
+2011,Poole,E06000029,South West (England),Total,Very bad health,1780
+2011,South Gloucestershire,E06000025,South West (England),Total,Very bad health,2455
+2011,Swindon,E06000030,South West (England),Total,Very bad health,2022
+2011,Torbay,E06000027,South West (England),Total,Very bad health,2267
+2011,Wiltshire,E06000054,South West (England),Total,Very bad health,4106
+2011,East Devon,E07000040,South West (England),Total,Very bad health,1492
+2011,Exeter,E07000041,South West (England),Total,Very bad health,1291
+2011,Mid Devon,E07000042,South West (England),Total,Very bad health,750
+2011,North Devon,E07000043,South West (England),Total,Very bad health,1194
+2011,South Hams,E07000044,South West (England),Total,Very bad health,921
+2011,Teignbridge,E07000045,South West (England),Total,Very bad health,1554
+2011,Torridge,E07000046,South West (England),Total,Very bad health,839
+2011,West Devon,E07000047,South West (England),Total,Very bad health,632
+2011,Christchurch,E07000048,South West (England),Total,Very bad health,544
+2011,East Dorset,E07000049,South West (England),Total,Very bad health,880
+2011,North Dorset,E07000050,South West (England),Total,Very bad health,581
+2011,Purbeck,E07000051,South West (England),Total,Very bad health,472
+2011,West Dorset,E07000052,South West (England),Total,Very bad health,1072
+2011,Weymouth and Portland,E07000053,South West (England),Total,Very bad health,918
+2011,Cheltenham,E07000078,South West (England),Total,Very bad health,984
+2011,Cotswold,E07000079,South West (England),Total,Very bad health,663
+2011,Forest of Dean,E07000080,South West (England),Total,Very bad health,926
+2011,Gloucester,E07000081,South West (England),Total,Very bad health,1334
+2011,Stroud,E07000082,South West (England),Total,Very bad health,1065
+2011,Tewkesbury,E07000083,South West (England),Total,Very bad health,808
+2011,Mendip,E07000187,South West (England),Total,Very bad health,1100
+2011,Sedgemoor,E07000188,South West (England),Total,Very bad health,1329
+2011,South Somerset,E07000189,South West (England),Total,Very bad health,1663
+2011,Taunton Deane,E07000190,South West (England),Total,Very bad health,1148
+2011,West Somerset,E07000191,South West (England),Total,Very bad health,478
+2011,Isle of Anglesey,W06000001,Wales,Total,Very bad health,996
+2011,Gwynedd,W06000002,Wales,Total,Very bad health,1504
+2011,Conwy,W06000003,Wales,Total,Very bad health,1805
+2011,Denbighshire,W06000004,Wales,Total,Very bad health,1513
+2011,Flintshire,W06000005,Wales,Total,Very bad health,1904
+2011,Wrexham,W06000006,Wales,Total,Very bad health,1849
+2011,Powys,W06000023,Wales,Total,Very bad health,1774
+2011,Ceredigion,W06000008,Wales,Total,Very bad health,1151
+2011,Pembrokeshire,W06000009,Wales,Total,Very bad health,1948
+2011,Carmarthenshire,W06000010,Wales,Total,Very bad health,4035
+2011,Swansea,W06000011,Wales,Total,Very bad health,4875
+2011,Neath Port Talbot,W06000012,Wales,Total,Very bad health,3601
+2011,Bridgend,W06000013,Wales,Total,Very bad health,2924
+2011,Vale of Glamorgan,W06000014,Wales,Total,Very bad health,1880
+2011,Cardiff,W06000015,Wales,Total,Very bad health,5525
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Very bad health,5108
+2011,Merthyr Tydfil,W06000024,Wales,Total,Very bad health,1661
+2011,Caerphilly,W06000018,Wales,Total,Very bad health,3820
+2011,Blaenau Gwent,W06000019,Wales,Total,Very bad health,1772
+2011,Torfaen,W06000020,Wales,Total,Very bad health,1938
+2011,Monmouthshire,W06000021,Wales,Total,Very bad health,1243
+2011,Newport,W06000022,Wales,Total,Very bad health,2559

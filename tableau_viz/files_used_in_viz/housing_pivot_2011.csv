@@ -1,0 +1,1741 @@
+﻿date,geography,area_code,Regions,Rural Urban,housing_category,population
+2011,Darlington,E06000005,North East (England),Total,Outright,13810
+2011,County Durham,E06000047,North East (England),Total,Outright,69435
+2011,Hartlepool,E06000001,North East (England),Total,Outright,11090
+2011,Middlesbrough,E06000002,North East (England),Total,Outright,15200
+2011,Northumberland,E06000057,North East (England),Total,Outright,46086
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Outright,19806
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Outright,23285
+2011,Gateshead,E08000037,North East (England),Total,Outright,23081
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Outright,26258
+2011,North Tyneside,E08000022,North East (England),Total,Outright,25611
+2011,South Tyneside,E08000023,North East (England),Total,Outright,17003
+2011,Sunderland,E08000024,North East (England),Total,Outright,32419
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Outright,18039
+2011,Blackpool,E06000009,North West (England),Total,Outright,19318
+2011,Cheshire East,E06000049,North West (England),Total,Outright,59846
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Outright,49129
+2011,Halton,E06000006,North West (England),Total,Outright,14436
+2011,Warrington,E06000007,North West (England),Total,Outright,27206
+2011,Allerdale,E07000026,North West (England),Total,Outright,16686
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Outright,11423
+2011,Carlisle,E07000028,North West (England),Total,Outright,16754
+2011,Copeland,E07000029,North West (England),Total,Outright,11315
+2011,Eden,E07000030,North West (England),Total,Outright,10048
+2011,South Lakeland,E07000031,North West (England),Total,Outright,20793
+2011,Bolton,E08000001,North West (England),Total,Outright,35378
+2011,Bury,E08000002,North West (England),Total,Outright,24839
+2011,Manchester,E08000003,North West (England),Total,Outright,31145
+2011,Oldham,E08000004,North West (England),Total,Outright,27193
+2011,Rochdale,E08000005,North West (England),Total,Outright,24334
+2011,Salford,E08000006,North West (England),Total,Outright,22603
+2011,Stockport,E08000007,North West (England),Total,Outright,42761
+2011,Tameside,E08000008,North West (England),Total,Outright,26688
+2011,Trafford,E08000009,North West (England),Total,Outright,30322
+2011,Wigan,E08000010,North West (England),Total,Outright,42446
+2011,Burnley,E07000117,North West (England),Total,Outright,11815
+2011,Chorley,E07000118,North West (England),Total,Outright,15906
+2011,Fylde,E07000119,North West (England),Total,Outright,14214
+2011,Hyndburn,E07000120,North West (England),Total,Outright,11464
+2011,Lancaster,E07000121,North West (England),Total,Outright,20890
+2011,Pendle,E07000122,North West (England),Total,Outright,13435
+2011,Preston,E07000123,North West (England),Total,Outright,16355
+2011,Ribble Valley,E07000124,North West (England),Total,Outright,10086
+2011,Rossendale,E07000125,North West (England),Total,Outright,9160
+2011,South Ribble,E07000126,North West (England),Total,Outright,17189
+2011,West Lancashire,E07000127,North West (England),Total,Outright,16272
+2011,Wyre,E07000128,North West (England),Total,Outright,20423
+2011,Knowsley,E08000011,North West (England),Total,Outright,16032
+2011,Liverpool,E08000012,North West (England),Total,Outright,43803
+2011,Sefton,E08000014,North West (England),Total,Outright,42334
+2011,St. Helens,E08000013,North West (England),Total,Outright,25215
+2011,Wirral,E08000015,North West (England),Total,Outright,46806
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Outright,56140
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Outright,22355
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Outright,21497
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Outright,23355
+2011,York,E06000014,Yorkshire and The Humber,Total,Outright,28351
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Outright,10396
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Outright,15135
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Outright,25118
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Outright,7295
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Outright,9329
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Outright,19323
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Outright,11929
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Outright,30778
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Outright,39253
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Outright,33031
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Outright,62329
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Outright,58487
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Outright,27671
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Outright,55569
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Outright,83385
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Outright,40766
+2011,Derby,E06000015,East Midlands (England),Total,Outright,30239
+2011,Leicester,E06000016,East Midlands (England),Total,Outright,28018
+2011,Nottingham,E06000018,East Midlands (England),Total,Outright,25152
+2011,Rutland,E06000017,East Midlands (England),Total,Outright,5889
+2011,Amber Valley,E07000032,East Midlands (England),Total,Outright,20106
+2011,Bolsover,E07000033,East Midlands (England),Total,Outright,10691
+2011,Chesterfield,E07000034,East Midlands (England),Total,Outright,15065
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Outright,13513
+2011,Erewash,E07000036,East Midlands (England),Total,Outright,16506
+2011,High Peak,E07000037,East Midlands (England),Total,Outright,13693
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Outright,16471
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Outright,13237
+2011,Blaby,E07000129,East Midlands (England),Total,Outright,14745
+2011,Charnwood,E07000130,East Midlands (England),Total,Outright,23729
+2011,Harborough,E07000131,East Midlands (England),Total,Outright,13389
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Outright,16859
+2011,Melton,E07000133,East Midlands (England),Total,Outright,7728
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Outright,13581
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Outright,9069
+2011,Boston,E07000136,East Midlands (England),Total,Outright,9243
+2011,East Lindsey,E07000137,East Midlands (England),Total,Outright,25826
+2011,Lincoln,E07000138,East Midlands (England),Total,Outright,9717
+2011,North Kesteven,E07000139,East Midlands (England),Total,Outright,17115
+2011,South Holland,E07000140,East Midlands (England),Total,Outright,14623
+2011,South Kesteven,E07000141,East Midlands (England),Total,Outright,19258
+2011,West Lindsey,E07000142,East Midlands (England),Total,Outright,14672
+2011,Corby,E07000150,East Midlands (England),Total,Outright,5917
+2011,Daventry,E07000151,East Midlands (England),Total,Outright,10533
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Outright,11419
+2011,Kettering,E07000153,East Midlands (England),Total,Outright,12070
+2011,Northampton,E07000154,East Midlands (England),Total,Outright,22307
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Outright,12029
+2011,Wellingborough,E07000156,East Midlands (England),Total,Outright,9584
+2011,Ashfield,E07000170,East Midlands (England),Total,Outright,16952
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Outright,16295
+2011,Broxtowe,E07000172,East Midlands (England),Total,Outright,17351
+2011,Gedling,E07000173,East Midlands (England),Total,Outright,18603
+2011,Mansfield,E07000174,East Midlands (England),Total,Outright,14658
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Outright,17399
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Outright,17973
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Outright,30867
+2011,Shropshire,E06000051,West Midlands (England),Total,Outright,49998
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Outright,30628
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Outright,18106
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Outright,12388
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Outright,16574
+2011,Lichfield,E07000194,West Midlands (England),Total,Outright,15948
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Outright,18495
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Outright,17809
+2011,Stafford,E07000197,West Midlands (England),Total,Outright,20259
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Outright,18413
+2011,Tamworth,E07000199,West Midlands (England),Total,Outright,8790
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Outright,9007
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Outright,17545
+2011,Rugby,E07000220,West Midlands (England),Total,Outright,13772
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Outright,20315
+2011,Warwick,E07000222,West Midlands (England),Total,Outright,19157
+2011,Birmingham,E08000025,West Midlands (England),Total,Outright,106416
+2011,Coventry,E08000026,West Midlands (England),Total,Outright,37644
+2011,Dudley,E08000027,West Midlands (England),Total,Outright,45383
+2011,Sandwell,E08000028,West Midlands (England),Total,Outright,32253
+2011,Solihull,E08000029,West Midlands (England),Total,Outright,32227
+2011,Walsall,E08000030,West Midlands (England),Total,Outright,33516
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Outright,29416
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Outright,15554
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Outright,13680
+2011,Redditch,E07000236,West Midlands (England),Total,Outright,9204
+2011,Worcester,E07000237,West Midlands (England),Total,Outright,12181
+2011,Wychavon,E07000238,West Midlands (England),Total,Outright,19158
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Outright,16196
+2011,Bedford,E06000055,East of England,Total,Outright,20018
+2011,Central Bedfordshire,E06000056,East of England,Total,Outright,33039
+2011,Luton,E06000032,East of England,Total,Outright,18619
+2011,Peterborough,E06000031,East of England,Total,Outright,19134
+2011,Southend-on-Sea,E06000033,East of England,Total,Outright,22960
+2011,Thurrock,E06000034,East of England,Total,Outright,15899
+2011,Cambridge,E07000008,East of England,Total,Outright,11639
+2011,East Cambridgeshire,E07000009,East of England,Total,Outright,11145
+2011,Fenland,E07000010,East of England,Total,Outright,14490
+2011,Huntingdonshire,E07000011,East of England,Total,Outright,22171
+2011,South Cambridgeshire,E07000012,East of England,Total,Outright,20759
+2011,Basildon,E07000066,East of England,Total,Outright,21037
+2011,Braintree,E07000067,East of England,Total,Outright,18609
+2011,Brentwood,E07000068,East of England,Total,Outright,11634
+2011,Castle Point,E07000069,East of England,Total,Outright,15691
+2011,Chelmsford,E07000070,East of England,Total,Outright,23696
+2011,Colchester,E07000071,East of England,Total,Outright,22840
+2011,Epping Forest,E07000072,East of England,Total,Outright,18070
+2011,Harlow,E07000073,East of England,Total,Outright,7351
+2011,Maldon,E07000074,East of England,Total,Outright,10314
+2011,Rochford,E07000075,East of England,Total,Outright,13927
+2011,Tendring,E07000076,East of England,Total,Outright,27696
+2011,Uttlesford,E07000077,East of England,Total,Outright,10668
+2011,Broxbourne,E07000095,East of England,Total,Outright,12262
+2011,Dacorum,E07000096,East of England,Total,Outright,17458
+2011,East Hertfordshire,E07000242,East of England,Total,Outright,18186
+2011,Hertsmere,E07000098,East of England,Total,Outright,12489
+2011,North Hertfordshire,E07000099,East of England,Total,Outright,16201
+2011,St Albans,E07000240,East of England,Total,Outright,19409
+2011,Stevenage,E07000243,East of England,Total,Outright,7736
+2011,Three Rivers,E07000102,East of England,Total,Outright,11988
+2011,Watford,E07000103,East of England,Total,Outright,8954
+2011,Welwyn Hatfield,E07000241,East of England,Total,Outright,11561
+2011,Breckland,E07000143,East of England,Total,Outright,20167
+2011,Broadland,E07000144,East of England,Total,Outright,23080
+2011,Great Yarmouth,E07000145,East of England,Total,Outright,15024
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Outright,24908
+2011,North Norfolk,E07000147,East of England,Total,Outright,21083
+2011,Norwich,E07000148,East of England,Total,Outright,12463
+2011,South Norfolk,E07000149,East of England,Total,Outright,21563
+2011,Babergh,E07000200,East of England,Total,Outright,14861
+2011,Forest Heath,E07000201,East of England,Total,Outright,6907
+2011,Ipswich,E07000202,East of England,Total,Outright,14723
+2011,Mid Suffolk,E07000203,East of England,Total,Outright,15876
+2011,St Edmundsbury,E07000204,East of England,Total,Outright,15437
+2011,Suffolk Coastal,E07000205,East of England,Total,Outright,22774
+2011,Waveney,E07000206,East of England,Total,Outright,20503
+2011,Camden,E09000007,London,Total,Outright,16644
+2011,City of London,E09000001,London,Total,Outright,1093
+2011,Hackney,E09000012,London,Total,Outright,8597
+2011,Hammersmith and Fulham,E09000013,London,Total,Outright,12777
+2011,Haringey,E09000014,London,Total,Outright,16326
+2011,Islington,E09000019,London,Total,Outright,10587
+2011,Kensington and Chelsea,E09000020,London,Total,Outright,17933
+2011,Lambeth,E09000022,London,Total,Outright,14778
+2011,Lewisham,E09000023,London,Total,Outright,17273
+2011,Newham,E09000025,London,Total,Outright,12993
+2011,Southwark,E09000028,London,Total,Outright,11805
+2011,Tower Hamlets,E09000030,London,Total,Outright,8648
+2011,Wandsworth,E09000032,London,Total,Outright,24067
+2011,Westminster,E09000033,London,Total,Outright,18692
+2011,Barking and Dagenham,E09000002,London,Total,Outright,11908
+2011,Barnet,E09000003,London,Total,Outright,38105
+2011,Bexley,E09000004,London,Total,Outright,30127
+2011,Brent,E09000005,London,Total,Outright,22416
+2011,Bromley,E09000006,London,Total,Outright,43649
+2011,Croydon,E09000008,London,Total,Outright,34882
+2011,Ealing,E09000009,London,Total,Outright,28414
+2011,Enfield,E09000010,London,Total,Outright,31452
+2011,Greenwich,E09000011,London,Total,Outright,16585
+2011,Harrow,E09000015,London,Total,Outright,26246
+2011,Havering,E09000016,London,Total,Outright,34625
+2011,Hillingdon,E09000017,London,Total,Outright,27921
+2011,Hounslow,E09000018,London,Total,Outright,20048
+2011,Kingston upon Thames,E09000021,London,Total,Outright,17727
+2011,Merton,E09000024,London,Total,Outright,20160
+2011,Redbridge,E09000026,London,Total,Outright,27911
+2011,Richmond upon Thames,E09000027,London,Total,Outright,23756
+2011,Sutton,E09000029,London,Total,Outright,22357
+2011,Waltham Forest,E09000031,London,Total,Outright,19396
+2011,Bracknell Forest,E06000036,South East (England),Total,Outright,11420
+2011,Brighton and Hove,E06000043,South East (England),Total,Outright,28397
+2011,Isle of Wight,E06000046,South East (England),Total,Outright,25091
+2011,Medway,E06000035,South East (England),Total,Outright,30697
+2011,Milton Keynes,E06000042,South East (England),Total,Outright,21157
+2011,Portsmouth,E06000044,South East (England),Total,Outright,20616
+2011,Reading,E06000038,South East (England),Total,Outright,14222
+2011,Slough,E06000039,South East (England),Total,Outright,9502
+2011,Southampton,E06000045,South East (England),Total,Outright,21286
+2011,West Berkshire,E06000037,South East (England),Total,Outright,19455
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Outright,19013
+2011,Wokingham,E06000041,South East (England),Total,Outright,21461
+2011,Aylesbury Vale,E07000004,South East (England),Total,Outright,21607
+2011,Chiltern,E07000005,South East (England),Total,Outright,15191
+2011,South Bucks,E07000006,South East (England),Total,Outright,10099
+2011,Wycombe,E07000007,South East (England),Total,Outright,21887
+2011,Eastbourne,E07000061,South East (England),Total,Outright,15071
+2011,Hastings,E07000062,South East (England),Total,Outright,11071
+2011,Lewes,E07000063,South East (England),Total,Outright,16797
+2011,Rother,E07000064,South East (England),Total,Outright,18554
+2011,Wealden,E07000065,South East (England),Total,Outright,26483
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Outright,19517
+2011,East Hampshire,E07000085,South East (England),Total,Outright,17520
+2011,Eastleigh,E07000086,South East (England),Total,Outright,17228
+2011,Fareham,E07000087,South East (England),Total,Outright,18279
+2011,Gosport,E07000088,South East (England),Total,Outright,10413
+2011,Hart,E07000089,South East (England),Total,Outright,12610
+2011,Havant,E07000090,South East (England),Total,Outright,18169
+2011,New Forest,E07000091,South East (England),Total,Outright,33430
+2011,Rushmoor,E07000092,South East (England),Total,Outright,8434
+2011,Test Valley,E07000093,South East (England),Total,Outright,16412
+2011,Winchester,E07000094,South East (England),Total,Outright,16385
+2011,Ashford,E07000105,South East (England),Total,Outright,15200
+2011,Canterbury,E07000106,South East (England),Total,Outright,21578
+2011,Dartford,E07000107,South East (England),Total,Outright,11012
+2011,Dover,E07000108,South East (England),Total,Outright,17034
+2011,Gravesham,E07000109,South East (England),Total,Outright,12408
+2011,Maidstone,E07000110,South East (England),Total,Outright,20885
+2011,Sevenoaks,E07000111,South East (England),Total,Outright,17642
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Outright,16744
+2011,Swale,E07000113,South East (England),Total,Outright,17444
+2011,Thanet,E07000114,South East (England),Total,Outright,19903
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Outright,15677
+2011,Tunbridge Wells,E07000116,South East (England),Total,Outright,15111
+2011,Cherwell,E07000177,South East (England),Total,Outright,17512
+2011,Oxford,E07000178,South East (England),Total,Outright,13277
+2011,South Oxfordshire,E07000179,South East (England),Total,Outright,20113
+2011,Vale of White Horse,E07000180,South East (England),Total,Outright,17704
+2011,West Oxfordshire,E07000181,South East (England),Total,Outright,14915
+2011,Elmbridge,E07000207,South East (England),Total,Outright,18119
+2011,Epsom and Ewell,E07000208,South East (England),Total,Outright,10969
+2011,Guildford,E07000209,South East (England),Total,Outright,18204
+2011,Mole Valley,E07000210,South East (England),Total,Outright,14011
+2011,Reigate and Banstead,E07000211,South East (England),Total,Outright,18393
+2011,Runnymede,E07000212,South East (England),Total,Outright,10827
+2011,Spelthorne,E07000213,South East (England),Total,Outright,13403
+2011,Surrey Heath,E07000214,South East (England),Total,Outright,11668
+2011,Tandridge,E07000215,South East (England),Total,Outright,12074
+2011,Waverley,E07000216,South East (England),Total,Outright,18572
+2011,Woking,E07000217,South East (England),Total,Outright,12479
+2011,Adur,E07000223,South East (England),Total,Outright,10191
+2011,Arun,E07000224,South East (England),Total,Outright,28581
+2011,Chichester,E07000225,South East (England),Total,Outright,20210
+2011,Crawley,E07000226,South East (England),Total,Outright,9480
+2011,Horsham,E07000227,South East (England),Total,Outright,20486
+2011,Mid Sussex,E07000228,South East (England),Total,Outright,20408
+2011,Worthing,E07000229,South East (England),Total,Outright,16373
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Outright,25827
+2011,Bournemouth,E06000028,South West (England),Total,Outright,22820
+2011,"Bristol, City of",E06000023,South West (England),Total,Outright,44928
+2011,Cornwall,E06000052,South West (England),Total,Outright,92113
+2011,Isles of Scilly,E06000053,South West (England),Total,Outright,313
+2011,North Somerset,E06000024,South West (England),Total,Outright,32474
+2011,Plymouth,E06000026,South West (England),Total,Outright,29763
+2011,Poole,E06000029,South West (England),Total,Outright,22719
+2011,South Gloucestershire,E06000025,South West (England),Total,Outright,37050
+2011,Swindon,E06000030,South West (England),Total,Outright,22749
+2011,Torbay,E06000027,South West (England),Total,Outright,21503
+2011,Wiltshire,E06000054,South West (England),Total,Outright,65734
+2011,East Devon,E07000040,South West (England),Total,Outright,27837
+2011,Exeter,E07000041,South West (England),Total,Outright,14809
+2011,Mid Devon,E07000042,South West (England),Total,Outright,12206
+2011,North Devon,E07000043,South West (England),Total,Outright,15638
+2011,South Hams,E07000044,South West (England),Total,Outright,15775
+2011,Teignbridge,E07000045,South West (England),Total,Outright,22015
+2011,Torridge,E07000046,South West (England),Total,Outright,11998
+2011,West Devon,E07000047,South West (England),Total,Outright,10003
+2011,Christchurch,E07000048,South West (England),Total,Outright,9814
+2011,East Dorset,E07000049,South West (England),Total,Outright,18017
+2011,North Dorset,E07000050,South West (England),Total,Outright,11286
+2011,Purbeck,E07000051,South West (England),Total,Outright,8306
+2011,West Dorset,E07000052,South West (England),Total,Outright,19563
+2011,Weymouth and Portland,E07000053,South West (England),Total,Outright,10421
+2011,Cheltenham,E07000078,South West (England),Total,Outright,16363
+2011,Cotswold,E07000079,South West (England),Total,Outright,13691
+2011,Forest of Dean,E07000080,South West (England),Total,Outright,13966
+2011,Gloucester,E07000081,South West (England),Total,Outright,14729
+2011,Stroud,E07000082,South West (England),Total,Outright,18187
+2011,Tewkesbury,E07000083,South West (England),Total,Outright,13391
+2011,Mendip,E07000187,South West (England),Total,Outright,17387
+2011,Sedgemoor,E07000188,South West (England),Total,Outright,18320
+2011,South Somerset,E07000189,South West (England),Total,Outright,26718
+2011,Taunton Deane,E07000190,South West (England),Total,Outright,16329
+2011,West Somerset,E07000191,South West (England),Total,Outright,7024
+2011,Isle of Anglesey,W06000001,Wales,Total,Outright,12444
+2011,Gwynedd,W06000002,Wales,Total,Outright,21168
+2011,Conwy,W06000003,Wales,Total,Outright,20409
+2011,Denbighshire,W06000004,Wales,Total,Outright,14937
+2011,Flintshire,W06000005,Wales,Total,Outright,22397
+2011,Wrexham,W06000006,Wales,Total,Outright,17364
+2011,Powys,W06000023,Wales,Total,Outright,25626
+2011,Ceredigion,W06000008,Wales,Total,Outright,13821
+2011,Pembrokeshire,W06000009,Wales,Total,Outright,22307
+2011,Carmarthenshire,W06000010,Wales,Total,Outright,32648
+2011,Swansea,W06000011,Wales,Total,Outright,34576
+2011,Neath Port Talbot,W06000012,Wales,Total,Outright,21976
+2011,Bridgend,W06000013,Wales,Total,Outright,20459
+2011,Vale of Glamorgan,W06000014,Wales,Total,Outright,18954
+2011,Cardiff,W06000015,Wales,Total,Outright,37788
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Outright,36338
+2011,Merthyr Tydfil,W06000024,Wales,Total,Outright,8277
+2011,Caerphilly,W06000018,Wales,Total,Outright,24188
+2011,Blaenau Gwent,W06000019,Wales,Total,Outright,10019
+2011,Torfaen,W06000020,Wales,Total,Outright,12176
+2011,Monmouthshire,W06000021,Wales,Total,Outright,15269
+2011,Newport,W06000022,Wales,Total,Outright,18229
+2011,Darlington,E06000005,North East (England),Total,Mortgage/ Loan,16479
+2011,County Durham,E06000047,North East (England),Total,Mortgage/ Loan,77912
+2011,Hartlepool,E06000001,North East (England),Total,Mortgage/ Loan,13104
+2011,Middlesbrough,E06000002,North East (England),Total,Mortgage/ Loan,17523
+2011,Northumberland,E06000057,North East (England),Total,Mortgage/ Loan,45121
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Mortgage/ Loan,19899
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Mortgage/ Loan,30940
+2011,Gateshead,E08000037,North East (England),Total,Mortgage/ Loan,28834
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Mortgage/ Loan,31697
+2011,North Tyneside,E08000022,North East (England),Total,Mortgage/ Loan,33525
+2011,South Tyneside,E08000023,North East (England),Total,Mortgage/ Loan,21330
+2011,Sunderland,E08000024,North East (England),Total,Mortgage/ Loan,39147
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Mortgage/ Loan,18754
+2011,Blackpool,E06000009,North West (England),Total,Mortgage/ Loan,20332
+2011,Cheshire East,E06000049,North West (England),Total,Mortgage/ Loan,58920
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Mortgage/ Loan,50976
+2011,Halton,E06000006,North West (England),Total,Mortgage/ Loan,19360
+2011,Warrington,E06000007,North West (England),Total,Mortgage/ Loan,33709
+2011,Allerdale,E07000026,North West (England),Total,Mortgage/ Loan,12531
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Mortgage/ Loan,11515
+2011,Carlisle,E07000028,North West (England),Total,Mortgage/ Loan,16245
+2011,Copeland,E07000029,North West (England),Total,Mortgage/ Loan,10356
+2011,Eden,E07000030,North West (England),Total,Mortgage/ Loan,6210
+2011,South Lakeland,E07000031,North West (England),Total,Mortgage/ Loan,13174
+2011,Bolton,E08000001,North West (England),Total,Mortgage/ Loan,38792
+2011,Bury,E08000002,North West (England),Total,Mortgage/ Loan,29556
+2011,Manchester,E08000003,North West (England),Total,Mortgage/ Loan,46250
+2011,Oldham,E08000004,North West (England),Total,Mortgage/ Loan,31066
+2011,Rochdale,E08000005,North West (England),Total,Mortgage/ Loan,29815
+2011,Salford,E08000006,North West (England),Total,Mortgage/ Loan,29523
+2011,Stockport,E08000007,North West (England),Total,Mortgage/ Loan,46555
+2011,Tameside,E08000008,North West (England),Total,Mortgage/ Loan,33870
+2011,Trafford,E08000009,North West (England),Total,Mortgage/ Loan,35118
+2011,Wigan,E08000010,North West (England),Total,Mortgage/ Loan,50113
+2011,Burnley,E07000117,North West (England),Total,Mortgage/ Loan,12593
+2011,Chorley,E07000118,North West (England),Total,Mortgage/ Loan,17877
+2011,Fylde,E07000119,North West (England),Total,Mortgage/ Loan,11408
+2011,Hyndburn,E07000120,North West (England),Total,Mortgage/ Loan,11774
+2011,Lancaster,E07000121,North West (England),Total,Mortgage/ Loan,19109
+2011,Pendle,E07000122,North West (England),Total,Mortgage/ Loan,12145
+2011,Preston,E07000123,North West (England),Total,Mortgage/ Loan,18554
+2011,Ribble Valley,E07000124,North West (England),Total,Mortgage/ Loan,8337
+2011,Rossendale,E07000125,North West (England),Total,Mortgage/ Loan,11090
+2011,South Ribble,E07000126,North West (England),Total,Mortgage/ Loan,19148
+2011,West Lancashire,E07000127,North West (England),Total,Mortgage/ Loan,16850
+2011,Wyre,E07000128,North West (England),Total,Mortgage/ Loan,16253
+2011,Knowsley,E08000011,North West (England),Total,Mortgage/ Loan,21864
+2011,Liverpool,E08000012,North West (England),Total,Mortgage/ Loan,53144
+2011,Sefton,E08000014,North West (England),Total,Mortgage/ Loan,40803
+2011,St. Helens,E08000013,North West (England),Total,Mortgage/ Loan,25737
+2011,Wirral,E08000015,North West (England),Total,Mortgage/ Loan,48037
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Mortgage/ Loan,51566
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Mortgage/ Loan,33430
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Mortgage/ Loan,24573
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Mortgage/ Loan,25782
+2011,York,E06000014,Yorkshire and The Humber,Total,Mortgage/ Loan,26876
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Mortgage/ Loan,7577
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Mortgage/ Loan,11373
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Mortgage/ Loan,22620
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Mortgage/ Loan,5615
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Mortgage/ Loan,5795
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Mortgage/ Loan,13197
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Mortgage/ Loan,13982
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Mortgage/ Loan,34029
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Mortgage/ Loan,43507
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Mortgage/ Loan,37579
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Mortgage/ Loan,71798
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Mortgage/ Loan,71063
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Mortgage/ Loan,31310
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Mortgage/ Loan,60792
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Mortgage/ Loan,103082
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Mortgage/ Loan,48525
+2011,Derby,E06000015,East Midlands (England),Total,Mortgage/ Loan,32526
+2011,Leicester,E06000016,East Midlands (England),Total,Mortgage/ Loan,33152
+2011,Nottingham,E06000018,East Midlands (England),Total,Mortgage/ Loan,31715
+2011,Rutland,E06000017,East Midlands (England),Total,Mortgage/ Loan,4667
+2011,Amber Valley,E07000032,East Midlands (England),Total,Mortgage/ Loan,18868
+2011,Bolsover,E07000033,East Midlands (England),Total,Mortgage/ Loan,11272
+2011,Chesterfield,E07000034,East Midlands (England),Total,Mortgage/ Loan,14482
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Mortgage/ Loan,8756
+2011,Erewash,E07000036,East Midlands (England),Total,Mortgage/ Loan,18784
+2011,High Peak,E07000037,East Midlands (England),Total,Mortgage/ Loan,14366
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Mortgage/ Loan,14060
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Mortgage/ Loan,16179
+2011,Blaby,E07000129,East Midlands (England),Total,Mortgage/ Loan,16564
+2011,Charnwood,E07000130,East Midlands (England),Total,Mortgage/ Loan,24232
+2011,Harborough,E07000131,East Midlands (England),Total,Mortgage/ Loan,13849
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Mortgage/ Loan,17967
+2011,Melton,E07000133,East Midlands (England),Total,Mortgage/ Loan,7770
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Mortgage/ Loan,14779
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Mortgage/ Loan,8170
+2011,Boston,E07000136,East Midlands (England),Total,Mortgage/ Loan,8187
+2011,East Lindsey,E07000137,East Midlands (England),Total,Mortgage/ Loan,16311
+2011,Lincoln,E07000138,East Midlands (England),Total,Mortgage/ Loan,12215
+2011,North Kesteven,E07000139,East Midlands (England),Total,Mortgage/ Loan,17072
+2011,South Holland,E07000140,East Midlands (England),Total,Mortgage/ Loan,12412
+2011,South Kesteven,E07000141,East Midlands (England),Total,Mortgage/ Loan,20551
+2011,West Lindsey,E07000142,East Midlands (England),Total,Mortgage/ Loan,13187
+2011,Corby,E07000150,East Midlands (England),Total,Mortgage/ Loan,9752
+2011,Daventry,E07000151,East Midlands (England),Total,Mortgage/ Loan,12155
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Mortgage/ Loan,14418
+2011,Kettering,E07000153,East Midlands (England),Total,Mortgage/ Loan,15492
+2011,Northampton,E07000154,East Midlands (England),Total,Mortgage/ Loan,33315
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Mortgage/ Loan,14456
+2011,Wellingborough,E07000156,East Midlands (England),Total,Mortgage/ Loan,11702
+2011,Ashfield,E07000170,East Midlands (England),Total,Mortgage/ Loan,18309
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Mortgage/ Loan,16820
+2011,Broxtowe,E07000172,East Midlands (England),Total,Mortgage/ Loan,16919
+2011,Gedling,E07000173,East Midlands (England),Total,Mortgage/ Loan,18535
+2011,Mansfield,E07000174,East Midlands (England),Total,Mortgage/ Loan,15250
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Mortgage/ Loan,17056
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Mortgage/ Loan,17169
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Mortgage/ Loan,22147
+2011,Shropshire,E06000051,West Midlands (England),Total,Mortgage/ Loan,39690
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Mortgage/ Loan,33300
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Mortgage/ Loan,24311
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Mortgage/ Loan,15718
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Mortgage/ Loan,16305
+2011,Lichfield,E07000194,West Midlands (England),Total,Mortgage/ Loan,15207
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Mortgage/ Loan,17837
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Mortgage/ Loan,15860
+2011,Stafford,E07000197,West Midlands (England),Total,Mortgage/ Loan,19621
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Mortgage/ Loan,14875
+2011,Tamworth,E07000199,West Midlands (England),Total,Mortgage/ Loan,12785
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Mortgage/ Loan,9679
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Mortgage/ Loan,20072
+2011,Rugby,E07000220,West Midlands (England),Total,Mortgage/ Loan,15314
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Mortgage/ Loan,16989
+2011,Warwick,E07000222,West Midlands (England),Total,Mortgage/ Loan,19954
+2011,Birmingham,E08000025,West Midlands (England),Total,Mortgage/ Loan,120200
+2011,Coventry,E08000026,West Midlands (England),Total,Mortgage/ Loan,40236
+2011,Dudley,E08000027,West Midlands (England),Total,Mortgage/ Loan,43921
+2011,Sandwell,E08000028,West Midlands (England),Total,Mortgage/ Loan,36882
+2011,Solihull,E08000029,West Midlands (England),Total,Mortgage/ Loan,31332
+2011,Walsall,E08000030,West Midlands (England),Total,Mortgage/ Loan,33749
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Mortgage/ Loan,28396
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Mortgage/ Loan,14882
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Mortgage/ Loan,9466
+2011,Redditch,E07000236,West Midlands (England),Total,Mortgage/ Loan,13592
+2011,Worcester,E07000237,West Midlands (England),Total,Mortgage/ Loan,14896
+2011,Wychavon,E07000238,West Midlands (England),Total,Mortgage/ Loan,16815
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Mortgage/ Loan,14164
+2011,Bedford,E06000055,East of England,Total,Mortgage/ Loan,21919
+2011,Central Bedfordshire,E06000056,East of England,Total,Mortgage/ Loan,42704
+2011,Luton,E06000032,East of England,Total,Mortgage/ Loan,26077
+2011,Peterborough,E06000031,East of England,Total,Mortgage/ Loan,24743
+2011,Southend-on-Sea,E06000033,East of England,Total,Mortgage/ Loan,25706
+2011,Thurrock,E06000034,East of England,Total,Mortgage/ Loan,25379
+2011,Cambridge,E07000008,East of England,Total,Mortgage/ Loan,10532
+2011,East Cambridgeshire,E07000009,East of England,Total,Mortgage/ Loan,12574
+2011,Fenland,E07000010,East of England,Total,Mortgage/ Loan,13946
+2011,Huntingdonshire,E07000011,East of England,Total,Mortgage/ Loan,27227
+2011,South Cambridgeshire,E07000012,East of England,Total,Mortgage/ Loan,21370
+2011,Basildon,E07000066,East of England,Total,Mortgage/ Loan,26935
+2011,Braintree,E07000067,East of England,Total,Mortgage/ Loan,23263
+2011,Brentwood,E07000068,East of England,Total,Mortgage/ Loan,11394
+2011,Castle Point,E07000069,East of England,Total,Mortgage/ Loan,14410
+2011,Chelmsford,E07000070,East of England,Total,Mortgage/ Loan,27282
+2011,Colchester,E07000071,East of England,Total,Mortgage/ Loan,24667
+2011,Epping Forest,E07000072,East of England,Total,Mortgage/ Loan,19495
+2011,Harlow,E07000073,East of England,Total,Mortgage/ Loan,12078
+2011,Maldon,E07000074,East of England,Total,Mortgage/ Loan,9937
+2011,Rochford,E07000075,East of England,Total,Mortgage/ Loan,13895
+2011,Tendring,E07000076,East of England,Total,Mortgage/ Loan,18056
+2011,Uttlesford,E07000077,East of England,Total,Mortgage/ Loan,11757
+2011,Broxbourne,E07000095,East of England,Total,Mortgage/ Loan,15198
+2011,Dacorum,E07000096,East of England,Total,Mortgage/ Loan,21419
+2011,East Hertfordshire,E07000242,East of England,Total,Mortgage/ Loan,22479
+2011,Hertsmere,E07000098,East of England,Total,Mortgage/ Loan,14408
+2011,North Hertfordshire,E07000099,East of England,Total,Mortgage/ Loan,18871
+2011,St Albans,E07000240,East of England,Total,Mortgage/ Loan,21422
+2011,Stevenage,E07000243,East of England,Total,Mortgage/ Loan,12603
+2011,Three Rivers,E07000102,East of England,Total,Mortgage/ Loan,13544
+2011,Watford,E07000103,East of England,Total,Mortgage/ Loan,13654
+2011,Welwyn Hatfield,E07000241,East of England,Total,Mortgage/ Loan,13434
+2011,Breckland,E07000143,East of England,Total,Mortgage/ Loan,17260
+2011,Broadland,E07000144,East of England,Total,Mortgage/ Loan,19263
+2011,Great Yarmouth,E07000145,East of England,Total,Mortgage/ Loan,12049
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Mortgage/ Loan,18799
+2011,North Norfolk,E07000147,East of England,Total,Mortgage/ Loan,11210
+2011,Norwich,E07000148,East of England,Total,Mortgage/ Loan,13979
+2011,South Norfolk,E07000149,East of England,Total,Mortgage/ Loan,17992
+2011,Babergh,E07000200,East of England,Total,Mortgage/ Loan,12120
+2011,Forest Heath,E07000201,East of England,Total,Mortgage/ Loan,7267
+2011,Ipswich,E07000202,East of England,Total,Mortgage/ Loan,17744
+2011,Mid Suffolk,E07000203,East of England,Total,Mortgage/ Loan,14386
+2011,St Edmundsbury,E07000204,East of England,Total,Mortgage/ Loan,15189
+2011,Suffolk Coastal,E07000205,East of England,Total,Mortgage/ Loan,16419
+2011,Waveney,E07000206,East of England,Total,Mortgage/ Loan,14787
+2011,Camden,E09000007,London,Total,Mortgage/ Loan,14724
+2011,City of London,E09000001,London,Total,Mortgage/ Loan,762
+2011,Hackney,E09000012,London,Total,Mortgage/ Loan,15582
+2011,Hammersmith and Fulham,E09000013,London,Total,Mortgage/ Loan,14620
+2011,Haringey,E09000014,London,Total,Mortgage/ Loan,23277
+2011,Islington,E09000019,London,Total,Mortgage/ Loan,15977
+2011,Kensington and Chelsea,E09000020,London,Total,Mortgage/ Loan,10074
+2011,Lambeth,E09000022,London,Total,Mortgage/ Loan,28107
+2011,Lewisham,E09000023,London,Total,Mortgage/ Loan,31955
+2011,Newham,E09000025,London,Total,Mortgage/ Loan,20829
+2011,Southwark,E09000028,London,Total,Mortgage/ Loan,23525
+2011,Tower Hamlets,E09000030,London,Total,Mortgage/ Loan,15904
+2011,Wandsworth,E09000032,London,Total,Mortgage/ Loan,35326
+2011,Westminster,E09000033,London,Total,Mortgage/ Loan,13595
+2011,Barking and Dagenham,E09000002,London,Total,Mortgage/ Loan,20416
+2011,Barnet,E09000003,London,Total,Mortgage/ Loan,40245
+2011,Bexley,E09000004,London,Total,Mortgage/ Loan,37027
+2011,Brent,E09000005,London,Total,Mortgage/ Loan,24908
+2011,Bromley,E09000006,London,Total,Mortgage/ Loan,49136
+2011,Croydon,E09000008,London,Total,Mortgage/ Loan,50348
+2011,Ealing,E09000009,London,Total,Mortgage/ Loan,35006
+2011,Enfield,E09000010,London,Total,Mortgage/ Loan,38010
+2011,Greenwich,E09000011,London,Total,Mortgage/ Loan,27134
+2011,Harrow,E09000015,London,Total,Mortgage/ Loan,28755
+2011,Havering,E09000016,London,Total,Mortgage/ Loan,37073
+2011,Hillingdon,E09000017,London,Total,Mortgage/ Loan,35090
+2011,Hounslow,E09000018,London,Total,Mortgage/ Loan,27514
+2011,Kingston upon Thames,E09000021,London,Total,Mortgage/ Loan,23035
+2011,Merton,E09000024,London,Total,Mortgage/ Loan,26529
+2011,Redbridge,E09000026,London,Total,Mortgage/ Loan,35072
+2011,Richmond upon Thames,E09000027,London,Total,Mortgage/ Loan,26994
+2011,Sutton,E09000029,London,Total,Mortgage/ Loan,30795
+2011,Waltham Forest,E09000031,London,Total,Mortgage/ Loan,28965
+2011,Bracknell Forest,E06000036,South East (England),Total,Mortgage/ Loan,19999
+2011,Brighton and Hove,E06000043,South East (England),Total,Mortgage/ Loan,36393
+2011,Isle of Wight,E06000046,South East (England),Total,Mortgage/ Loan,17726
+2011,Medway,E06000035,South East (England),Total,Mortgage/ Loan,41156
+2011,Milton Keynes,E06000042,South East (England),Total,Mortgage/ Loan,35756
+2011,Portsmouth,E06000044,South East (England),Total,Mortgage/ Loan,26281
+2011,Reading,E06000038,South East (England),Total,Mortgage/ Loan,20257
+2011,Slough,E06000039,South East (England),Total,Mortgage/ Loan,17253
+2011,Southampton,E06000045,South East (England),Total,Mortgage/ Loan,27587
+2011,West Berkshire,E06000037,South East (England),Total,Mortgage/ Loan,23980
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Mortgage/ Loan,20663
+2011,Wokingham,E06000041,South East (England),Total,Mortgage/ Loan,26642
+2011,Aylesbury Vale,E07000004,South East (England),Total,Mortgage/ Loan,28095
+2011,Chiltern,E07000005,South East (England),Total,Mortgage/ Loan,13227
+2011,South Bucks,E07000006,South East (England),Total,Mortgage/ Loan,9354
+2011,Wycombe,E07000007,South East (England),Total,Mortgage/ Loan,25392
+2011,Eastbourne,E07000061,South East (England),Total,Mortgage/ Loan,12717
+2011,Hastings,E07000062,South East (England),Total,Mortgage/ Loan,11635
+2011,Lewes,E07000063,South East (England),Total,Mortgage/ Loan,13851
+2011,Rother,E07000064,South East (England),Total,Mortgage/ Loan,11506
+2011,Wealden,E07000065,South East (England),Total,Mortgage/ Loan,22872
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Mortgage/ Loan,27419
+2011,East Hampshire,E07000085,South East (England),Total,Mortgage/ Loan,17399
+2011,Eastleigh,E07000086,South East (England),Total,Mortgage/ Loan,21134
+2011,Fareham,E07000087,South East (England),Total,Mortgage/ Loan,19181
+2011,Gosport,E07000088,South East (England),Total,Mortgage/ Loan,12702
+2011,Hart,E07000089,South East (England),Total,Mortgage/ Loan,15137
+2011,Havant,E07000090,South East (England),Total,Mortgage/ Loan,17218
+2011,New Forest,E07000091,South East (England),Total,Mortgage/ Loan,24173
+2011,Rushmoor,E07000092,South East (England),Total,Mortgage/ Loan,14655
+2011,Test Valley,E07000093,South East (England),Total,Mortgage/ Loan,17089
+2011,Winchester,E07000094,South East (England),Total,Mortgage/ Loan,15261
+2011,Ashford,E07000105,South East (England),Total,Mortgage/ Loan,17485
+2011,Canterbury,E07000106,South East (England),Total,Mortgage/ Loan,18529
+2011,Dartford,E07000107,South East (England),Total,Mortgage/ Loan,15807
+2011,Dover,E07000108,South East (England),Total,Mortgage/ Loan,15108
+2011,Gravesham,E07000109,South East (England),Total,Mortgage/ Loan,13691
+2011,Maidstone,E07000110,South East (England),Total,Mortgage/ Loan,23815
+2011,Sevenoaks,E07000111,South East (England),Total,Mortgage/ Loan,16558
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Mortgage/ Loan,13971
+2011,Swale,E07000113,South East (England),Total,Mortgage/ Loan,20507
+2011,Thanet,E07000114,South East (England),Total,Mortgage/ Loan,17004
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Mortgage/ Loan,18569
+2011,Tunbridge Wells,E07000116,South East (England),Total,Mortgage/ Loan,15888
+2011,Cherwell,E07000177,South East (England),Total,Mortgage/ Loan,21791
+2011,Oxford,E07000178,South East (England),Total,Mortgage/ Loan,12596
+2011,South Oxfordshire,E07000179,South East (England),Total,Mortgage/ Loan,19348
+2011,Vale of White Horse,E07000180,South East (England),Total,Mortgage/ Loan,17046
+2011,West Oxfordshire,E07000181,South East (England),Total,Mortgage/ Loan,15226
+2011,Elmbridge,E07000207,South East (England),Total,Mortgage/ Loan,20541
+2011,Epsom and Ewell,E07000208,South East (England),Total,Mortgage/ Loan,11962
+2011,Guildford,E07000209,South East (England),Total,Mortgage/ Loan,18944
+2011,Mole Valley,E07000210,South East (England),Total,Mortgage/ Loan,12351
+2011,Reigate and Banstead,E07000211,South East (England),Total,Mortgage/ Loan,22093
+2011,Runnymede,E07000212,South East (England),Total,Mortgage/ Loan,11904
+2011,Spelthorne,E07000213,South East (England),Total,Mortgage/ Loan,15268
+2011,Surrey Heath,E07000214,South East (England),Total,Mortgage/ Loan,14101
+2011,Tandridge,E07000215,South East (England),Total,Mortgage/ Loan,13228
+2011,Waverley,E07000216,South East (England),Total,Mortgage/ Loan,17723
+2011,Woking,E07000217,South East (England),Total,Mortgage/ Loan,15350
+2011,Adur,E07000223,South East (England),Total,Mortgage/ Loan,9692
+2011,Arun,E07000224,South East (England),Total,Mortgage/ Loan,20673
+2011,Chichester,E07000225,South East (England),Total,Mortgage/ Loan,13271
+2011,Crawley,E07000226,South East (England),Total,Mortgage/ Loan,15748
+2011,Horsham,E07000227,South East (England),Total,Mortgage/ Loan,20440
+2011,Mid Sussex,E07000228,South East (England),Total,Mortgage/ Loan,22250
+2011,Worthing,E07000229,South East (England),Total,Mortgage/ Loan,16248
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Mortgage/ Loan,23241
+2011,Bournemouth,E06000028,South West (England),Total,Mortgage/ Loan,24237
+2011,"Bristol, City of",E06000023,South West (England),Total,Mortgage/ Loan,53780
+2011,Cornwall,E06000052,South West (England),Total,Mortgage/ Loan,66411
+2011,Isles of Scilly,E06000053,South West (England),Total,Mortgage/ Loan,99
+2011,North Somerset,E06000024,South West (England),Total,Mortgage/ Loan,31891
+2011,Plymouth,E06000026,South West (England),Total,Mortgage/ Loan,34394
+2011,Poole,E06000029,South West (England),Total,Mortgage/ Loan,21983
+2011,South Gloucestershire,E06000025,South West (England),Total,Mortgage/ Loan,43536
+2011,Swindon,E06000030,South West (England),Total,Mortgage/ Loan,35153
+2011,Torbay,E06000027,South West (England),Total,Mortgage/ Loan,17921
+2011,Wiltshire,E06000054,South West (England),Total,Mortgage/ Loan,65349
+2011,East Devon,E07000040,South West (England),Total,Mortgage/ Loan,16446
+2011,Exeter,E07000041,South West (England),Total,Mortgage/ Loan,14634
+2011,Mid Devon,E07000042,South West (England),Total,Mortgage/ Loan,10420
+2011,North Devon,E07000043,South West (England),Total,Mortgage/ Loan,11745
+2011,South Hams,E07000044,South West (England),Total,Mortgage/ Loan,10665
+2011,Teignbridge,E07000045,South West (England),Total,Mortgage/ Loan,17663
+2011,Torridge,E07000046,South West (England),Total,Mortgage/ Loan,8000
+2011,West Devon,E07000047,South West (England),Total,Mortgage/ Loan,6627
+2011,Christchurch,E07000048,South West (England),Total,Mortgage/ Loan,6153
+2011,East Dorset,E07000049,South West (England),Total,Mortgage/ Loan,12354
+2011,North Dorset,E07000050,South West (England),Total,Mortgage/ Loan,8716
+2011,Purbeck,E07000051,South West (England),Total,Mortgage/ Loan,5307
+2011,West Dorset,E07000052,South West (England),Total,Mortgage/ Loan,11260
+2011,Weymouth and Portland,E07000053,South West (England),Total,Mortgage/ Loan,8640
+2011,Cheltenham,E07000078,South West (England),Total,Mortgage/ Loan,16516
+2011,Cotswold,E07000079,South West (England),Total,Mortgage/ Loan,10112
+2011,Forest of Dean,E07000080,South West (England),Total,Mortgage/ Loan,11405
+2011,Gloucester,E07000081,South West (England),Total,Mortgage/ Loan,19129
+2011,Stroud,E07000082,South West (England),Total,Mortgage/ Loan,16801
+2011,Tewkesbury,E07000083,South West (England),Total,Mortgage/ Loan,12453
+2011,Mendip,E07000187,South West (England),Total,Mortgage/ Loan,15051
+2011,Sedgemoor,E07000188,South West (England),Total,Mortgage/ Loan,16482
+2011,South Somerset,E07000189,South West (England),Total,Mortgage/ Loan,22137
+2011,Taunton Deane,E07000190,South West (England),Total,Mortgage/ Loan,15064
+2011,West Somerset,E07000191,South West (England),Total,Mortgage/ Loan,3397
+2011,Isle of Anglesey,W06000001,Wales,Total,Mortgage/ Loan,8527
+2011,Gwynedd,W06000002,Wales,Total,Mortgage/ Loan,13156
+2011,Conwy,W06000003,Wales,Total,Mortgage/ Loan,15092
+2011,Denbighshire,W06000004,Wales,Total,Mortgage/ Loan,12855
+2011,Flintshire,W06000005,Wales,Total,Mortgage/ Loan,24054
+2011,Wrexham,W06000006,Wales,Total,Mortgage/ Loan,18908
+2011,Powys,W06000023,Wales,Total,Mortgage/ Loan,14464
+2011,Ceredigion,W06000008,Wales,Total,Mortgage/ Loan,7502
+2011,Pembrokeshire,W06000009,Wales,Total,Mortgage/ Loan,14251
+2011,Carmarthenshire,W06000010,Wales,Total,Mortgage/ Loan,23678
+2011,Swansea,W06000011,Wales,Total,Mortgage/ Loan,31683
+2011,Neath Port Talbot,W06000012,Wales,Total,Mortgage/ Loan,19503
+2011,Bridgend,W06000013,Wales,Total,Mortgage/ Loan,21889
+2011,Vale of Glamorgan,W06000014,Wales,Total,Mortgage/ Loan,19693
+2011,Cardiff,W06000015,Wales,Total,Mortgage/ Loan,46474
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Mortgage/ Loan,34422
+2011,Merthyr Tydfil,W06000024,Wales,Total,Mortgage/ Loan,7566
+2011,Caerphilly,W06000018,Wales,Total,Mortgage/ Loan,27444
+2011,Blaenau Gwent,W06000019,Wales,Total,Mortgage/ Loan,8865
+2011,Torfaen,W06000020,Wales,Total,Mortgage/ Loan,13342
+2011,Monmouthshire,W06000021,Wales,Total,Mortgage/ Loan,12873
+2011,Newport,W06000022,Wales,Total,Mortgage/ Loan,21043
+2011,Darlington,E06000005,North East (England),Total,Social Rented,7228
+2011,County Durham,E06000047,North East (England),Total,Social Rented,45004
+2011,Hartlepool,E06000001,North East (England),Total,Social Rented,9515
+2011,Middlesbrough,E06000002,North East (England),Total,Social Rented,13654
+2011,Northumberland,E06000057,North East (England),Total,Social Rented,25841
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Social Rented,11568
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Social Rented,13625
+2011,Gateshead,E08000037,North East (England),Total,Social Rented,24941
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Social Rented,34850
+2011,North Tyneside,E08000022,North East (England),Total,Social Rented,19677
+2011,South Tyneside,E08000023,North East (England),Total,Social Rented,21204
+2011,Sunderland,E08000024,North East (England),Total,Social Rented,32399
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Social Rented,10391
+2011,Blackpool,E06000009,North West (England),Total,Social Rented,6999
+2011,Cheshire East,E06000049,North West (England),Total,Social Rented,18141
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Social Rented,20808
+2011,Halton,E06000006,North West (England),Total,Social Rented,13441
+2011,Warrington,E06000007,North West (England),Total,Social Rented,13318
+2011,Allerdale,E07000026,North West (England),Total,Social Rented,8088
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Social Rented,3454
+2011,Carlisle,E07000028,North West (England),Total,Social Rented,7394
+2011,Copeland,E07000029,North West (England),Total,Social Rented,5668
+2011,Eden,E07000030,North West (England),Total,Social Rented,2321
+2011,South Lakeland,E07000031,North West (England),Total,Social Rented,4853
+2011,Bolton,E08000001,North West (England),Total,Social Rented,23825
+2011,Bury,E08000002,North West (England),Total,Social Rented,11703
+2011,Manchester,E08000003,North West (England),Total,Social Rented,64682
+2011,Oldham,E08000004,North West (England),Total,Social Rented,18918
+2011,Rochdale,E08000005,North West (England),Total,Social Rented,20247
+2011,Salford,E08000006,North West (England),Total,Social Rented,29819
+2011,Stockport,E08000007,North West (England),Total,Social Rented,16620
+2011,Tameside,E08000008,North West (England),Total,Social Rented,20438
+2011,Trafford,E08000009,North West (England),Total,Social Rented,15485
+2011,Wigan,E08000010,North West (England),Total,Social Rented,25803
+2011,Burnley,E07000117,North West (England),Total,Social Rented,5281
+2011,Chorley,E07000118,North West (England),Total,Social Rented,5843
+2011,Fylde,E07000119,North West (England),Total,Social Rented,2607
+2011,Hyndburn,E07000120,North West (England),Total,Social Rented,4389
+2011,Lancaster,E07000121,North West (England),Total,Social Rented,5762
+2011,Pendle,E07000122,North West (England),Total,Social Rented,4333
+2011,Preston,E07000123,North West (England),Total,Social Rented,11061
+2011,Ribble Valley,E07000124,North West (England),Total,Social Rented,1836
+2011,Rossendale,E07000125,North West (England),Total,Social Rented,4244
+2011,South Ribble,E07000126,North West (England),Total,Social Rented,4845
+2011,West Lancashire,E07000127,North West (England),Total,Social Rented,6656
+2011,Wyre,E07000128,North West (England),Total,Social Rented,3401
+2011,Knowsley,E08000011,North West (England),Total,Social Rented,16333
+2011,Liverpool,E08000012,North West (England),Total,Social Rented,57485
+2011,Sefton,E08000014,North West (England),Total,Social Rented,17063
+2011,St. Helens,E08000013,North West (England),Total,Social Rented,15597
+2011,Wirral,E08000015,North West (England),Total,Social Rented,21329
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Social Rented,13028
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Social Rented,31634
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Social Rented,10091
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Social Rented,10895
+2011,York,E06000014,Yorkshire and The Humber,Total,Social Rented,11679
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Social Rented,2212
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Social Rented,4923
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Social Rented,6138
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Social Rented,2183
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Social Rented,2896
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Social Rented,6134
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Social Rented,4161
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Social Rented,21032
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Social Rented,22403
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Social Rented,23289
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Social Rented,56917
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Social Rented,29513
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Social Rented,13494
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Social Rented,26525
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Social Rented,70377
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Social Rented,33129
+2011,Derby,E06000015,East Midlands (England),Total,Social Rented,20250
+2011,Leicester,E06000016,East Midlands (England),Total,Social Rented,31270
+2011,Nottingham,E06000018,East Midlands (England),Total,Social Rented,37486
+2011,Rutland,E06000017,East Midlands (England),Total,Social Rented,1685
+2011,Amber Valley,E07000032,East Midlands (England),Total,Social Rented,6484
+2011,Bolsover,E07000033,East Midlands (England),Total,Social Rented,5965
+2011,Chesterfield,E07000034,East Midlands (England),Total,Social Rented,10832
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Social Rented,3736
+2011,Erewash,E07000036,East Midlands (England),Total,Social Rented,6335
+2011,High Peak,E07000037,East Midlands (England),Total,Social Rented,4945
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Social Rented,8781
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Social Rented,3877
+2011,Blaby,E07000129,East Midlands (England),Total,Social Rented,2948
+2011,Charnwood,E07000130,East Midlands (England),Total,Social Rented,7851
+2011,Harborough,E07000131,East Midlands (England),Total,Social Rented,2923
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Social Rented,4685
+2011,Melton,E07000133,East Midlands (England),Total,Social Rented,2402
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Social Rented,5598
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Social Rented,1610
+2011,Boston,E07000136,East Midlands (England),Total,Social Rented,4965
+2011,East Lindsey,E07000137,East Midlands (England),Total,Social Rented,6705
+2011,Lincoln,E07000138,East Midlands (England),Total,Social Rented,8729
+2011,North Kesteven,E07000139,East Midlands (England),Total,Social Rented,4694
+2011,South Holland,E07000140,East Midlands (England),Total,Social Rented,4728
+2011,South Kesteven,E07000141,East Midlands (England),Total,Social Rented,7701
+2011,West Lindsey,E07000142,East Midlands (England),Total,Social Rented,4246
+2011,Corby,E07000150,East Midlands (England),Total,Social Rented,5278
+2011,Daventry,E07000151,East Midlands (England),Total,Social Rented,4412
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Social Rented,4737
+2011,Kettering,E07000153,East Midlands (England),Total,Social Rented,5187
+2011,Northampton,E07000154,East Midlands (England),Total,Social Rented,15113
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Social Rented,3505
+2011,Wellingborough,E07000156,East Midlands (England),Total,Social Rented,5676
+2011,Ashfield,E07000170,East Midlands (England),Total,Social Rented,8258
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Social Rented,7579
+2011,Broxtowe,E07000172,East Midlands (England),Total,Social Rented,5218
+2011,Gedling,E07000173,East Midlands (England),Total,Social Rented,4926
+2011,Mansfield,E07000174,East Midlands (England),Total,Social Rented,8199
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Social Rented,7050
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Social Rented,3854
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Social Rented,10903
+2011,Shropshire,E06000051,West Midlands (England),Total,Social Rented,17448
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Social Rented,25999
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Social Rented,13106
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Social Rented,6880
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Social Rented,6367
+2011,Lichfield,E07000194,West Midlands (England),Total,Social Rented,5446
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Social Rented,9840
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Social Rented,6193
+2011,Stafford,E07000197,West Midlands (England),Total,Social Rented,7618
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Social Rented,3699
+2011,Tamworth,E07000199,West Midlands (England),Total,Social Rented,6108
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Social Rented,3719
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Social Rented,7633
+2011,Rugby,E07000220,West Midlands (England),Total,Social Rented,5993
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Social Rented,6713
+2011,Warwick,E07000222,West Midlands (England),Total,Social Rented,7866
+2011,Birmingham,E08000025,West Midlands (England),Total,Social Rented,99592
+2011,Coventry,E08000026,West Midlands (England),Total,Social Rented,21914
+2011,Dudley,E08000027,West Midlands (England),Total,Social Rented,25719
+2011,Sandwell,E08000028,West Midlands (England),Total,Social Rented,33439
+2011,Solihull,E08000029,West Midlands (England),Total,Social Rented,12834
+2011,Walsall,E08000030,West Midlands (England),Total,Social Rented,25967
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Social Rented,28648
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Social Rented,3819
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Social Rented,4547
+2011,Redditch,E07000236,West Midlands (England),Total,Social Rented,7351
+2011,Worcester,E07000237,West Midlands (England),Total,Social Rented,6438
+2011,Wychavon,E07000238,West Midlands (England),Total,Social Rented,7166
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Social Rented,6205
+2011,Bedford,E06000055,East of England,Total,Social Rented,10252
+2011,Central Bedfordshire,E06000056,East of England,Total,Social Rented,13981
+2011,Luton,E06000032,East of England,Total,Social Rented,11715
+2011,Peterborough,E06000031,East of England,Total,Social Rented,14434
+2011,Southend-on-Sea,E06000033,East of England,Total,Social Rented,8597
+2011,Thurrock,E06000034,East of England,Total,Social Rented,11503
+2011,Cambridge,E07000008,East of England,Total,Social Rented,11023
+2011,East Cambridgeshire,E07000009,East of England,Total,Social Rented,4944
+2011,Fenland,E07000010,East of England,Total,Social Rented,5054
+2011,Huntingdonshire,E07000011,East of England,Total,Social Rented,8939
+2011,South Cambridgeshire,E07000012,East of England,Total,Social Rented,8546
+2011,Basildon,E07000066,East of England,Total,Social Rented,15976
+2011,Braintree,E07000067,East of England,Total,Social Rented,10055
+2011,Brentwood,E07000068,East of England,Total,Social Rented,3586
+2011,Castle Point,E07000069,East of England,Total,Social Rented,1949
+2011,Chelmsford,E07000070,East of England,Total,Social Rented,9120
+2011,Colchester,E07000071,East of England,Total,Social Rented,9669
+2011,Epping Forest,E07000072,East of England,Total,Social Rented,7803
+2011,Harlow,E07000073,East of England,Total,Social Rented,10808
+2011,Maldon,E07000074,East of England,Total,Social Rented,2685
+2011,Rochford,E07000075,East of England,Total,Social Rented,2547
+2011,Tendring,E07000076,East of England,Total,Social Rented,5243
+2011,Uttlesford,E07000077,East of England,Total,Social Rented,3961
+2011,Broxbourne,E07000095,East of England,Total,Social Rented,5297
+2011,Dacorum,E07000096,East of England,Total,Social Rented,13045
+2011,East Hertfordshire,E07000242,East of England,Total,Social Rented,7185
+2011,Hertsmere,E07000098,East of England,Total,Social Rented,6932
+2011,North Hertfordshire,E07000099,East of England,Total,Social Rented,10304
+2011,St Albans,E07000240,East of England,Total,Social Rented,6832
+2011,Stevenage,E07000243,East of England,Total,Social Rented,9902
+2011,Three Rivers,E07000102,East of England,Total,Social Rented,5318
+2011,Watford,E07000103,East of England,Total,Social Rented,5987
+2011,Welwyn Hatfield,E07000241,East of England,Total,Social Rented,11741
+2011,Breckland,E07000143,East of England,Total,Social Rented,7511
+2011,Broadland,E07000144,East of England,Total,Social Rented,4567
+2011,Great Yarmouth,E07000145,East of England,Total,Social Rented,7255
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Social Rented,8393
+2011,North Norfolk,E07000147,East of England,Total,Social Rented,5904
+2011,Norwich,E07000148,East of England,Total,Social Rented,19702
+2011,South Norfolk,E07000149,East of England,Total,Social Rented,5965
+2011,Babergh,E07000200,East of England,Total,Social Rented,4912
+2011,Forest Heath,E07000201,East of England,Total,Social Rented,3739
+2011,Ipswich,E07000202,East of England,Total,Social Rented,12371
+2011,Mid Suffolk,E07000203,East of England,Total,Social Rented,4544
+2011,St Edmundsbury,E07000204,East of England,Total,Social Rented,7321
+2011,Suffolk Coastal,E07000205,East of England,Total,Social Rented,6066
+2011,Waveney,E07000206,East of England,Total,Social Rented,7148
+2011,Camden,E09000007,London,Total,Social Rented,32295
+2011,City of London,E09000001,London,Total,Social Rented,725
+2011,Hackney,E09000012,London,Total,Social Rented,44430
+2011,Hammersmith and Fulham,E09000013,London,Total,Social Rented,25133
+2011,Haringey,E09000014,London,Total,Social Rented,27242
+2011,Islington,E09000019,London,Total,Social Rented,39342
+2011,Kensington and Chelsea,E09000020,London,Total,Social Rented,19271
+2011,Lambeth,E09000022,London,Total,Social Rented,45619
+2011,Lewisham,E09000023,London,Total,Social Rented,36052
+2011,Newham,E09000025,London,Total,Social Rented,30092
+2011,Southwark,E09000028,London,Total,Social Rented,52644
+2011,Tower Hamlets,E09000030,London,Total,Social Rented,40106
+2011,Wandsworth,E09000032,London,Total,Social Rented,26516
+2011,Westminster,E09000033,London,Total,Social Rented,27348
+2011,Barking and Dagenham,E09000002,London,Total,Social Rented,23459
+2011,Barnet,E09000003,London,Total,Social Rented,19334
+2011,Bexley,E09000004,London,Total,Social Rented,13377
+2011,Brent,E09000005,London,Total,Social Rented,26591
+2011,Bromley,E09000006,London,Total,Social Rented,18425
+2011,Croydon,E09000008,London,Total,Social Rented,25887
+2011,Ealing,E09000009,London,Total,Social Rented,22472
+2011,Enfield,E09000010,London,Total,Social Rented,21073
+2011,Greenwich,E09000011,London,Total,Social Rented,34662
+2011,Harrow,E09000015,London,Total,Social Rented,8923
+2011,Havering,E09000016,London,Total,Social Rented,13799
+2011,Hillingdon,E09000017,London,Total,Social Rented,16752
+2011,Hounslow,E09000018,London,Total,Social Rented,21682
+2011,Kingston upon Thames,E09000021,London,Total,Social Rented,7502
+2011,Merton,E09000024,London,Total,Social Rented,11102
+2011,Redbridge,E09000026,London,Total,Social Rented,11289
+2011,Richmond upon Thames,E09000027,London,Total,Social Rented,10051
+2011,Sutton,E09000029,London,Total,Social Rented,11422
+2011,Waltham Forest,E09000031,London,Total,Social Rented,21376
+2011,Bracknell Forest,E06000036,South East (England),Total,Social Rented,7678
+2011,Brighton and Hove,E06000043,South East (England),Total,Social Rented,18187
+2011,Isle of Wight,E06000046,South East (England),Total,Social Rented,6523
+2011,Medway,E06000035,South East (England),Total,Social Rented,13996
+2011,Milton Keynes,E06000042,South East (England),Total,Social Rented,17763
+2011,Portsmouth,E06000044,South East (England),Total,Social Rented,15611
+2011,Reading,E06000038,South East (England),Total,Social Rented,10242
+2011,Slough,E06000039,South East (England),Total,Social Rented,10476
+2011,Southampton,E06000045,South East (England),Total,Social Rented,22867
+2011,West Berkshire,E06000037,South East (England),Total,Social Rented,8628
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Social Rented,7748
+2011,Wokingham,E06000041,South East (England),Total,Social Rented,4236
+2011,Aylesbury Vale,E07000004,South East (England),Total,Social Rented,8982
+2011,Chiltern,E07000005,South East (England),Total,Social Rented,4573
+2011,South Bucks,E07000006,South East (England),Total,Social Rented,3266
+2011,Wycombe,E07000007,South East (England),Total,Social Rented,8650
+2011,Eastbourne,E07000061,South East (England),Total,Social Rented,5953
+2011,Hastings,E07000062,South East (England),Total,Social Rented,5988
+2011,Lewes,E07000063,South East (England),Total,Social Rented,4609
+2011,Rother,E07000064,South East (England),Total,Social Rented,4242
+2011,Wealden,E07000065,South East (England),Total,Social Rented,4808
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Social Rented,12346
+2011,East Hampshire,E07000085,South East (England),Total,Social Rented,5681
+2011,Eastleigh,E07000086,South East (England),Total,Social Rented,6411
+2011,Fareham,E07000087,South East (England),Total,Social Rented,3785
+2011,Gosport,E07000088,South East (England),Total,Social Rented,5815
+2011,Hart,E07000089,South East (England),Total,Social Rented,2718
+2011,Havant,E07000090,South East (England),Total,Social Rented,10037
+2011,New Forest,E07000091,South East (England),Total,Social Rented,8440
+2011,Rushmoor,E07000092,South East (England),Total,Social Rented,5927
+2011,Test Valley,E07000093,South East (England),Total,Social Rented,6854
+2011,Winchester,E07000094,South East (England),Total,Social Rented,7243
+2011,Ashford,E07000105,South East (England),Total,Social Rented,6915
+2011,Canterbury,E07000106,South East (England),Total,Social Rented,7409
+2011,Dartford,E07000107,South East (England),Total,Social Rented,5947
+2011,Dover,E07000108,South East (England),Total,Social Rented,6864
+2011,Gravesham,E07000109,South East (England),Total,Social Rented,7008
+2011,Maidstone,E07000110,South East (England),Total,Social Rented,8066
+2011,Sevenoaks,E07000111,South East (England),Total,Social Rented,6218
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Social Rented,5311
+2011,Swale,E07000113,South East (England),Total,Social Rented,7942
+2011,Thanet,E07000114,South East (England),Total,Social Rented,7537
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Social Rented,7762
+2011,Tunbridge Wells,E07000116,South East (England),Total,Social Rented,7148
+2011,Cherwell,E07000177,South East (England),Total,Social Rented,6872
+2011,Oxford,E07000178,South East (England),Total,Social Rented,11828
+2011,South Oxfordshire,E07000179,South East (England),Total,Social Rented,6163
+2011,Vale of White Horse,E07000180,South East (England),Total,Social Rented,6583
+2011,West Oxfordshire,E07000181,South East (England),Total,Social Rented,5387
+2011,Elmbridge,E07000207,South East (England),Total,Social Rented,5218
+2011,Epsom and Ewell,E07000208,South East (England),Total,Social Rented,2390
+2011,Guildford,E07000209,South East (England),Total,Social Rented,6908
+2011,Mole Valley,E07000210,South East (England),Total,Social Rented,4373
+2011,Reigate and Banstead,E07000211,South East (England),Total,Social Rented,6605
+2011,Runnymede,E07000212,South East (England),Total,Social Rented,4210
+2011,Spelthorne,E07000213,South East (England),Total,Social Rented,4911
+2011,Surrey Heath,E07000214,South East (England),Total,Social Rented,3089
+2011,Tandridge,E07000215,South East (England),Total,Social Rented,3610
+2011,Waverley,E07000216,South East (England),Total,Social Rented,6068
+2011,Woking,E07000217,South East (England),Total,Social Rented,4704
+2011,Adur,E07000223,South East (England),Total,Social Rented,3523
+2011,Arun,E07000224,South East (England),Total,Social Rented,5886
+2011,Chichester,E07000225,South East (England),Total,Social Rented,7407
+2011,Crawley,E07000226,South East (England),Total,Social Rented,10194
+2011,Horsham,E07000227,South East (England),Total,Social Rented,6347
+2011,Mid Sussex,E07000228,South East (England),Total,Social Rented,6092
+2011,Worthing,E07000229,South East (England),Total,Social Rented,4695
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Social Rented,10614
+2011,Bournemouth,E06000028,South West (England),Total,Social Rented,9206
+2011,"Bristol, City of",E06000023,South West (England),Total,Social Rented,37083
+2011,Cornwall,E06000052,South West (England),Total,Social Rented,27655
+2011,Isles of Scilly,E06000053,South West (England),Total,Social Rented,179
+2011,North Somerset,E06000024,South West (England),Total,Social Rented,8103
+2011,Plymouth,E06000026,South West (England),Total,Social Rented,21095
+2011,Poole,E06000029,South West (England),Total,Social Rented,7324
+2011,South Gloucestershire,E06000025,South West (England),Total,Social Rented,10633
+2011,Swindon,E06000030,South West (England),Total,Social Rented,14382
+2011,Torbay,E06000027,South West (England),Total,Social Rented,4762
+2011,Wiltshire,E06000054,South West (England),Total,Social Rented,28591
+2011,East Devon,E07000040,South West (England),Total,Social Rented,5515
+2011,Exeter,E07000041,South West (England),Total,Social Rented,8386
+2011,Mid Devon,E07000042,South West (England),Total,Social Rented,4135
+2011,North Devon,E07000043,South West (England),Total,Social Rented,4316
+2011,South Hams,E07000044,South West (England),Total,Social Rented,4195
+2011,Teignbridge,E07000045,South West (England),Total,Social Rented,4813
+2011,Torridge,E07000046,South West (England),Total,Social Rented,2524
+2011,West Devon,E07000047,South West (England),Total,Social Rented,2158
+2011,Christchurch,E07000048,South West (England),Total,Social Rented,2784
+2011,East Dorset,E07000049,South West (England),Total,Social Rented,3120
+2011,North Dorset,E07000050,South West (England),Total,Social Rented,3865
+2011,Purbeck,E07000051,South West (England),Total,Social Rented,2446
+2011,West Dorset,E07000052,South West (England),Total,Social Rented,6159
+2011,Weymouth and Portland,E07000053,South West (England),Total,Social Rented,3894
+2011,Cheltenham,E07000078,South West (England),Total,Social Rented,6227
+2011,Cotswold,E07000079,South West (England),Total,Social Rented,5388
+2011,Forest of Dean,E07000080,South West (England),Total,Social Rented,4237
+2011,Gloucester,E07000081,South West (England),Total,Social Rented,6714
+2011,Stroud,E07000082,South West (England),Total,Social Rented,6097
+2011,Tewkesbury,E07000083,South West (England),Total,Social Rented,4190
+2011,Mendip,E07000187,South West (England),Total,Social Rented,5473
+2011,Sedgemoor,E07000188,South West (England),Total,Social Rented,5951
+2011,South Somerset,E07000189,South West (England),Total,Social Rented,9697
+2011,Taunton Deane,E07000190,South West (England),Total,Social Rented,7321
+2011,West Somerset,E07000191,South West (England),Total,Social Rented,2288
+2011,Isle of Anglesey,W06000001,Wales,Total,Social Rented,4487
+2011,Gwynedd,W06000002,Wales,Total,Social Rented,8561
+2011,Conwy,W06000003,Wales,Total,Social Rented,5946
+2011,Denbighshire,W06000004,Wales,Total,Social Rented,5325
+2011,Flintshire,W06000005,Wales,Total,Social Rented,9651
+2011,Wrexham,W06000006,Wales,Total,Social Rented,12803
+2011,Powys,W06000023,Wales,Total,Social Rented,8161
+2011,Ceredigion,W06000008,Wales,Total,Social Rented,3196
+2011,Pembrokeshire,W06000009,Wales,Total,Social Rented,8312
+2011,Carmarthenshire,W06000010,Wales,Total,Social Rented,11672
+2011,Swansea,W06000011,Wales,Total,Social Rented,19878
+2011,Neath Port Talbot,W06000012,Wales,Total,Social Rented,11545
+2011,Bridgend,W06000013,Wales,Total,Social Rented,8099
+2011,Vale of Glamorgan,W06000014,Wales,Total,Social Rented,6354
+2011,Cardiff,W06000015,Wales,Total,Social Rented,24374
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Social Rented,13673
+2011,Merthyr Tydfil,W06000024,Wales,Total,Social Rented,5118
+2011,Caerphilly,W06000018,Wales,Total,Social Rented,13962
+2011,Blaenau Gwent,W06000019,Wales,Total,Social Rented,7284
+2011,Torfaen,W06000020,Wales,Total,Social Rented,9100
+2011,Monmouthshire,W06000021,Wales,Total,Social Rented,5288
+2011,Newport,W06000022,Wales,Total,Social Rented,12122
+2011,Darlington,E06000005,North East (England),Total,Private Rented,8513
+2011,County Durham,E06000047,North East (England),Total,Private Rented,28142
+2011,Hartlepool,E06000001,North East (England),Total,Private Rented,5971
+2011,Middlesbrough,E06000002,North East (England),Total,Private Rented,9509
+2011,Northumberland,E06000057,North East (England),Total,Private Rented,18417
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Private Rented,7434
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Private Rented,10387
+2011,Gateshead,E08000037,North East (England),Total,Private Rented,11125
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Private Rented,22318
+2011,North Tyneside,E08000022,North East (England),Total,Private Rented,11300
+2011,South Tyneside,E08000023,North East (England),Total,Private Rented,6758
+2011,Sunderland,E08000024,North East (England),Total,Private Rented,14552
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Private Rented,8993
+2011,Blackpool,E06000009,North West (England),Total,Private Rented,16770
+2011,Cheshire East,E06000049,North West (England),Total,Private Rented,19938
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Private Rented,17734
+2011,Halton,E06000006,North West (England),Total,Private Rented,5212
+2011,Warrington,E06000007,North West (England),Total,Private Rented,9549
+2011,Allerdale,E07000026,North West (England),Total,Private Rented,4142
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Private Rented,4442
+2011,Carlisle,E07000028,North West (England),Total,Private Rented,6914
+2011,Copeland,E07000029,North West (England),Total,Private Rented,2665
+2011,Eden,E07000030,North West (England),Total,Private Rented,3685
+2011,South Lakeland,E07000031,North West (England),Total,Private Rented,6633
+2011,Bolton,E08000001,North West (England),Total,Private Rented,15930
+2011,Bury,E08000002,North West (England),Total,Private Rented,10774
+2011,Manchester,E08000003,North West (England),Total,Private Rented,58170
+2011,Oldham,E08000004,North West (England),Total,Private Rented,10944
+2011,Rochdale,E08000005,North West (England),Total,Private Rented,11556
+2011,Salford,E08000006,North West (England),Total,Private Rented,19420
+2011,Stockport,E08000007,North West (England),Total,Private Rented,13852
+2011,Tameside,E08000008,North West (England),Total,Private Rented,12573
+2011,Trafford,E08000009,North West (England),Total,Private Rented,12001
+2011,Wigan,E08000010,North West (England),Total,Private Rented,15875
+2011,Burnley,E07000117,North West (England),Total,Private Rented,7267
+2011,Chorley,E07000118,North West (England),Total,Private Rented,4587
+2011,Fylde,E07000119,North West (England),Total,Private Rented,6066
+2011,Hyndburn,E07000120,North West (England),Total,Private Rented,6235
+2011,Lancaster,E07000121,North West (England),Total,Private Rented,10929
+2011,Pendle,E07000122,North West (England),Total,Private Rented,6760
+2011,Preston,E07000123,North West (England),Total,Private Rented,10365
+2011,Ribble Valley,E07000124,North West (England),Total,Private Rented,3278
+2011,Rossendale,E07000125,North West (England),Total,Private Rented,4106
+2011,South Ribble,E07000126,North West (England),Total,Private Rented,4308
+2011,West Lancashire,E07000127,North West (England),Total,Private Rented,4744
+2011,Wyre,E07000128,North West (England),Total,Private Rented,6397
+2011,Knowsley,E08000011,North West (England),Total,Private Rented,5980
+2011,Liverpool,E08000012,North West (England),Total,Private Rented,48290
+2011,Sefton,E08000014,North West (England),Total,Private Rented,15804
+2011,St. Helens,E08000013,North West (England),Total,Private Rented,7736
+2011,Wirral,E08000015,North West (England),Total,Private Rented,22275
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Private Rented,19648
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Private Rented,22984
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Private Rented,12627
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Private Rented,9477
+2011,York,E06000014,Yorkshire and The Humber,Total,Private Rented,14980
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Private Rented,3782
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Private Rented,5770
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Private Rented,11771
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Private Rented,4519
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Private Rented,3773
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Private Rented,9640
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Private Rented,3796
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Private Rented,12856
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Private Rented,18774
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Private Rented,12262
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Private Rented,35760
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Private Rented,36070
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Private Rented,14545
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Private Rented,26941
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Private Rented,57456
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Private Rented,16017
+2011,Derby,E06000015,East Midlands (England),Total,Private Rented,17193
+2011,Leicester,E06000016,East Midlands (England),Total,Private Rented,27999
+2011,Nottingham,E06000018,East Midlands (England),Total,Private Rented,29098
+2011,Rutland,E06000017,East Midlands (England),Total,Private Rented,2333
+2011,Amber Valley,E07000032,East Midlands (England),Total,Private Rented,6200
+2011,Bolsover,E07000033,East Midlands (England),Total,Private Rented,4276
+2011,Chesterfield,E07000034,East Midlands (England),Total,Private Rented,5813
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Private Rented,3860
+2011,Erewash,E07000036,East Midlands (England),Total,Private Rented,6265
+2011,High Peak,E07000037,East Midlands (England),Total,Private Rented,5231
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Private Rented,3183
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Private Rented,5087
+2011,Blaby,E07000129,East Midlands (England),Total,Private Rented,3876
+2011,Charnwood,E07000130,East Midlands (England),Total,Private Rented,9396
+2011,Harborough,E07000131,East Midlands (England),Total,Private Rented,3922
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Private Rented,5156
+2011,Melton,E07000133,East Midlands (England),Total,Private Rented,3054
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Private Rented,4411
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Private Rented,2117
+2011,Boston,E07000136,East Midlands (England),Total,Private Rented,4291
+2011,East Lindsey,E07000137,East Midlands (England),Total,Private Rented,10554
+2011,Lincoln,E07000138,East Midlands (England),Total,Private Rented,8345
+2011,North Kesteven,E07000139,East Midlands (England),Total,Private Rented,6184
+2011,South Holland,E07000140,East Midlands (England),Total,Private Rented,4714
+2011,South Kesteven,E07000141,East Midlands (England),Total,Private Rented,8389
+2011,West Lindsey,E07000142,East Midlands (England),Total,Private Rented,5253
+2011,Corby,E07000150,East Midlands (England),Total,Private Rented,3839
+2011,Daventry,E07000151,East Midlands (England),Total,Private Rented,3832
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Private Rented,4471
+2011,Kettering,E07000153,East Midlands (England),Total,Private Rented,6048
+2011,Northampton,E07000154,East Midlands (England),Total,Private Rented,15817
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Private Rented,3840
+2011,Wellingborough,E07000156,East Midlands (England),Total,Private Rented,4360
+2011,Ashfield,E07000170,East Midlands (England),Total,Private Rented,6504
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Private Rented,5975
+2011,Broxtowe,E07000172,East Midlands (England),Total,Private Rented,6594
+2011,Gedling,E07000173,East Midlands (England),Total,Private Rented,6488
+2011,Mansfield,E07000174,East Midlands (England),Total,Private Rented,6115
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Private Rented,6278
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Private Rented,6082
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Private Rented,12147
+2011,Shropshire,E06000051,West Midlands (England),Total,Private Rented,19421
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Private Rented,15440
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Private Rented,9979
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Private Rented,4938
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Private Rented,7152
+2011,Lichfield,E07000194,West Midlands (England),Total,Private Rented,3932
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Private Rented,5511
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Private Rented,3772
+2011,Stafford,E07000197,West Midlands (England),Total,Private Rented,7206
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Private Rented,4103
+2011,Tamworth,E07000199,West Midlands (England),Total,Private Rented,3476
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Private Rented,2913
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Private Rented,6683
+2011,Rugby,E07000220,West Midlands (England),Total,Private Rented,5903
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Private Rented,6596
+2011,Warwick,E07000222,West Midlands (England),Total,Private Rented,10513
+2011,Birmingham,E08000025,West Midlands (England),Total,Private Rented,73405
+2011,Coventry,E08000026,West Midlands (England),Total,Private Rented,26503
+2011,Dudley,E08000027,West Midlands (England),Total,Private Rented,12004
+2011,Sandwell,E08000028,West Midlands (England),Total,Private Rented,15674
+2011,Solihull,E08000029,West Midlands (England),Total,Private Rented,8502
+2011,Walsall,E08000030,West Midlands (England),Total,Private Rented,12569
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Private Rented,13455
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Private Rented,3370
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Private Rented,3720
+2011,Redditch,E07000236,West Midlands (England),Total,Private Rented,4059
+2011,Worcester,E07000237,West Midlands (England),Total,Private Rented,7645
+2011,Wychavon,E07000238,West Midlands (England),Total,Private Rented,5419
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Private Rented,5660
+2011,Bedford,E06000055,East of England,Total,Private Rented,10110
+2011,Central Bedfordshire,E06000056,East of England,Total,Private Rented,12612
+2011,Luton,E06000032,East of England,Total,Private Rented,16816
+2011,Peterborough,E06000031,East of England,Total,Private Rented,14168
+2011,Southend-on-Sea,E06000033,East of England,Total,Private Rented,16439
+2011,Thurrock,E06000034,East of England,Total,Private Rented,8772
+2011,Cambridge,E07000008,East of England,Total,Private Rented,12258
+2011,East Cambridgeshire,E07000009,East of England,Total,Private Rented,4576
+2011,Fenland,E07000010,East of England,Total,Private Rented,6341
+2011,Huntingdonshire,E07000011,East of England,Total,Private Rented,9770
+2011,South Cambridgeshire,E07000012,East of England,Total,Private Rented,7174
+2011,Basildon,E07000066,East of England,Total,Private Rented,7448
+2011,Braintree,E07000067,East of England,Total,Private Rented,8083
+2011,Brentwood,E07000068,East of England,Total,Private Rented,3452
+2011,Castle Point,E07000069,East of England,Total,Private Rented,3968
+2011,Chelmsford,E07000070,East of England,Total,Private Rented,8349
+2011,Colchester,E07000071,East of England,Total,Private Rented,13390
+2011,Epping Forest,E07000072,East of England,Total,Private Rented,5742
+2011,Harlow,E07000073,East of England,Total,Private Rented,3756
+2011,Maldon,E07000074,East of England,Total,Private Rented,2493
+2011,Rochford,E07000075,East of England,Total,Private Rented,2844
+2011,Tendring,E07000076,East of England,Total,Private Rented,10064
+2011,Uttlesford,E07000077,East of England,Total,Private Rented,4108
+2011,Broxbourne,E07000095,East of England,Total,Private Rented,4199
+2011,Dacorum,E07000096,East of England,Total,Private Rented,7107
+2011,East Hertfordshire,E07000242,East of England,Total,Private Rented,7446
+2011,Hertsmere,E07000098,East of England,Total,Private Rented,4981
+2011,North Hertfordshire,E07000099,East of England,Total,Private Rented,6993
+2011,St Albans,E07000240,East of England,Total,Private Rented,7624
+2011,Stevenage,E07000243,East of England,Total,Private Rented,3980
+2011,Three Rivers,E07000102,East of England,Total,Private Rented,3708
+2011,Watford,E07000103,East of England,Total,Private Rented,7371
+2011,Welwyn Hatfield,E07000241,East of England,Total,Private Rented,5911
+2011,Breckland,E07000143,East of England,Total,Private Rented,8294
+2011,Broadland,E07000144,East of England,Total,Private Rented,5519
+2011,Great Yarmouth,E07000145,East of England,Total,Private Rented,6926
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Private Rented,9278
+2011,North Norfolk,E07000147,East of England,Total,Private Rented,6664
+2011,Norwich,E07000148,East of England,Total,Private Rented,13089
+2011,South Norfolk,E07000149,East of England,Total,Private Rented,5916
+2011,Babergh,E07000200,East of England,Total,Private Rented,4714
+2011,Forest Heath,E07000201,East of England,Total,Private Rented,6195
+2011,Ipswich,E07000202,East of England,Total,Private Rented,11421
+2011,Mid Suffolk,E07000203,East of England,Total,Private Rented,4515
+2011,St Edmundsbury,E07000204,East of England,Total,Private Rented,6798
+2011,Suffolk Coastal,E07000205,East of England,Total,Private Rented,7267
+2011,Waveney,E07000206,East of England,Total,Private Rented,7578
+2011,Camden,E09000007,London,Total,Private Rented,31434
+2011,City of London,E09000001,London,Total,Private Rented,1573
+2011,Hackney,E09000012,London,Total,Private Rented,29449
+2011,Hammersmith and Fulham,E09000013,London,Total,Private Rented,25555
+2011,Haringey,E09000014,London,Total,Private Rented,32095
+2011,Islington,E09000019,London,Total,Private Rented,25217
+2011,Kensington and Chelsea,E09000020,London,Total,Private Rented,28108
+2011,Lambeth,E09000022,London,Total,Private Rented,38133
+2011,Lewisham,E09000023,London,Total,Private Rented,28216
+2011,Newham,E09000025,London,Total,Private Rented,34570
+2011,Southwark,E09000028,London,Total,Private Rented,28493
+2011,Tower Hamlets,E09000030,London,Total,Private Rented,32964
+2011,Wandsworth,E09000032,London,Total,Private Rented,41317
+2011,Westminster,E09000033,London,Total,Private Rented,41949
+2011,Barking and Dagenham,E09000002,London,Total,Private Rented,12328
+2011,Barnet,E09000003,London,Total,Private Rented,34854
+2011,Bexley,E09000004,London,Total,Private Rented,10556
+2011,Brent,E09000005,London,Total,Private Rented,33181
+2011,Bromley,E09000006,London,Total,Private Rented,17393
+2011,Croydon,E09000008,London,Total,Private Rented,30472
+2011,Ealing,E09000009,London,Total,Private Rented,34182
+2011,Enfield,E09000010,London,Total,Private Rented,26591
+2011,Greenwich,E09000011,London,Total,Private Rented,20004
+2011,Harrow,E09000015,London,Total,Private Rented,18324
+2011,Havering,E09000016,London,Total,Private Rented,10337
+2011,Hillingdon,E09000017,London,Total,Private Rented,18141
+2011,Hounslow,E09000018,London,Total,Private Rented,22206
+2011,Kingston upon Thames,E09000021,London,Total,Private Rented,14312
+2011,Merton,E09000024,London,Total,Private Rented,19503
+2011,Redbridge,E09000026,London,Total,Private Rented,22657
+2011,Richmond upon Thames,E09000027,London,Total,Private Rented,17440
+2011,Sutton,E09000029,London,Total,Private Rented,12429
+2011,Waltham Forest,E09000031,London,Total,Private Rented,25102
+2011,Bracknell Forest,E06000036,South East (England),Total,Private Rented,5734
+2011,Brighton and Hove,E06000043,South East (England),Total,Private Rented,35959
+2011,Isle of Wight,E06000046,South East (England),Total,Private Rented,10639
+2011,Medway,E06000035,South East (England),Total,Private Rented,18153
+2011,Milton Keynes,E06000042,South East (England),Total,Private Rented,17066
+2011,Portsmouth,E06000044,South East (England),Total,Private Rented,21098
+2011,Reading,E06000038,South East (England),Total,Private Rented,16394
+2011,Slough,E06000039,South East (England),Total,Private Rented,12348
+2011,Southampton,E06000045,South East (England),Total,Private Rented,24449
+2011,West Berkshire,E06000037,South East (England),Total,Private Rented,8555
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Private Rented,9432
+2011,Wokingham,E06000041,South East (England),Total,Private Rented,6755
+2011,Aylesbury Vale,E07000004,South East (England),Total,Private Rented,9234
+2011,Chiltern,E07000005,South East (England),Total,Private Rented,3314
+2011,South Bucks,E07000006,South East (England),Total,Private Rented,3011
+2011,Wycombe,E07000007,South East (England),Total,Private Rented,10316
+2011,Eastbourne,E07000061,South East (England),Total,Private Rented,10494
+2011,Hastings,E07000062,South East (England),Total,Private Rented,11863
+2011,Lewes,E07000063,South East (England),Total,Private Rented,6108
+2011,Rother,E07000064,South East (England),Total,Private Rented,5742
+2011,Wealden,E07000065,South East (England),Total,Private Rented,6973
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Private Rented,8172
+2011,East Hampshire,E07000085,South East (England),Total,Private Rented,5517
+2011,Eastleigh,E07000086,South East (England),Total,Private Rented,6438
+2011,Fareham,E07000087,South East (England),Total,Private Rented,4645
+2011,Gosport,E07000088,South East (England),Total,Private Rented,5777
+2011,Hart,E07000089,South East (England),Total,Private Rented,4286
+2011,Havant,E07000090,South East (England),Total,Private Rented,5087
+2011,New Forest,E07000091,South East (England),Total,Private Rented,9293
+2011,Rushmoor,E07000092,South East (England),Total,Private Rented,6379
+2011,Test Valley,E07000093,South East (England),Total,Private Rented,6128
+2011,Winchester,E07000094,South East (England),Total,Private Rented,6604
+2011,Ashford,E07000105,South East (England),Total,Private Rented,6849
+2011,Canterbury,E07000106,South East (England),Total,Private Rented,11876
+2011,Dartford,E07000107,South East (England),Total,Private Rented,6385
+2011,Dover,E07000108,South East (England),Total,Private Rented,8254
+2011,Gravesham,E07000109,South East (England),Total,Private Rented,6524
+2011,Maidstone,E07000110,South East (England),Total,Private Rented,9256
+2011,Sevenoaks,E07000111,South East (England),Total,Private Rented,5057
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Private Rented,10520
+2011,Swale,E07000113,South East (England),Total,Private Rented,8446
+2011,Thanet,E07000114,South East (England),Total,Private Rented,14151
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Private Rented,4869
+2011,Tunbridge Wells,E07000116,South East (England),Total,Private Rented,7995
+2011,Cherwell,E07000177,South East (England),Total,Private Rented,9206
+2011,Oxford,E07000178,South East (England),Total,Private Rented,15634
+2011,South Oxfordshire,E07000179,South East (England),Total,Private Rented,7211
+2011,Vale of White Horse,E07000180,South East (England),Total,Private Rented,6733
+2011,West Oxfordshire,E07000181,South East (England),Total,Private Rented,6423
+2011,Elmbridge,E07000207,South East (England),Total,Private Rented,8006
+2011,Epsom and Ewell,E07000208,South East (England),Total,Private Rented,3962
+2011,Guildford,E07000209,South East (England),Total,Private Rented,8522
+2011,Mole Valley,E07000210,South East (England),Total,Private Rented,4270
+2011,Reigate and Banstead,E07000211,South East (England),Total,Private Rented,7169
+2011,Runnymede,E07000212,South East (England),Total,Private Rented,4974
+2011,Spelthorne,E07000213,South East (England),Total,Private Rented,5004
+2011,Surrey Heath,E07000214,South East (England),Total,Private Rented,4073
+2011,Tandridge,E07000215,South East (England),Total,Private Rented,3666
+2011,Waverley,E07000216,South East (England),Total,Private Rented,5577
+2011,Woking,E07000217,South East (England),Total,Private Rented,6186
+2011,Adur,E07000223,South East (England),Total,Private Rented,3079
+2011,Arun,E07000224,South East (England),Total,Private Rented,10211
+2011,Chichester,E07000225,South East (England),Total,Private Rented,7423
+2011,Crawley,E07000226,South East (England),Total,Private Rented,6214
+2011,Horsham,E07000227,South East (England),Total,Private Rented,6480
+2011,Mid Sussex,E07000228,South East (England),Total,Private Rented,7322
+2011,Worthing,E07000229,South East (England),Total,Private Rented,9102
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Private Rented,12447
+2011,Bournemouth,E06000028,South West (England),Total,Private Rented,24685
+2011,"Bristol, City of",E06000023,South West (England),Total,Private Rented,43028
+2011,Cornwall,E06000052,South West (England),Total,Private Rented,38605
+2011,Isles of Scilly,E06000053,South West (England),Total,Private Rented,294
+2011,North Somerset,E06000024,South West (England),Total,Private Rented,14270
+2011,Plymouth,E06000026,South West (England),Total,Private Rented,22026
+2011,Poole,E06000029,South West (England),Total,Private Rented,10275
+2011,South Gloucestershire,E06000025,South West (England),Total,Private Rented,14600
+2011,Swindon,E06000030,South West (England),Total,Private Rented,14169
+2011,Torbay,E06000027,South West (England),Total,Private Rented,13696
+2011,Wiltshire,E06000054,South West (England),Total,Private Rented,29968
+2011,East Devon,E07000040,South West (England),Total,Private Rented,8041
+2011,Exeter,E07000041,South West (England),Total,Private Rented,10336
+2011,Mid Devon,E07000042,South West (England),Total,Private Rented,5091
+2011,North Devon,E07000043,South West (England),Total,Private Rented,7341
+2011,South Hams,E07000044,South West (England),Total,Private Rented,5259
+2011,Teignbridge,E07000045,South West (England),Total,Private Rented,8358
+2011,Torridge,E07000046,South West (England),Total,Private Rented,4746
+2011,West Devon,E07000047,South West (England),Total,Private Rented,3409
+2011,Christchurch,E07000048,South West (England),Total,Private Rented,2321
+2011,East Dorset,E07000049,South West (England),Total,Private Rented,3471
+2011,North Dorset,E07000050,South West (England),Total,Private Rented,4094
+2011,Purbeck,E07000051,South West (England),Total,Private Rented,3005
+2011,West Dorset,E07000052,South West (England),Total,Private Rented,6093
+2011,Weymouth and Portland,E07000053,South West (England),Total,Private Rented,5073
+2011,Cheltenham,E07000078,South West (England),Total,Private Rented,10925
+2011,Cotswold,E07000079,South West (England),Total,Private Rented,5518
+2011,Forest of Dean,E07000080,South West (England),Total,Private Rented,3835
+2011,Gloucester,E07000081,South West (England),Total,Private Rented,8755
+2011,Stroud,E07000082,South West (England),Total,Private Rented,5791
+2011,Tewkesbury,E07000083,South West (England),Total,Private Rented,4351
+2011,Mendip,E07000187,South West (England),Total,Private Rented,7136
+2011,Sedgemoor,E07000188,South West (England),Total,Private Rented,7113
+2011,South Somerset,E07000189,South West (England),Total,Private Rented,9272
+2011,Taunton Deane,E07000190,South West (England),Total,Private Rented,7227
+2011,West Somerset,E07000191,South West (England),Total,Private Rented,2510
+2011,Isle of Anglesey,W06000001,Wales,Total,Private Rented,4324
+2011,Gwynedd,W06000002,Wales,Total,Private Rented,8060
+2011,Conwy,W06000003,Wales,Total,Private Rented,8534
+2011,Denbighshire,W06000004,Wales,Total,Private Rented,6446
+2011,Flintshire,W06000005,Wales,Total,Private Rented,6729
+2011,Wrexham,W06000006,Wales,Total,Private Rented,6775
+2011,Powys,W06000023,Wales,Total,Private Rented,8638
+2011,Ceredigion,W06000008,Wales,Total,Private Rented,6275
+2011,Pembrokeshire,W06000009,Wales,Total,Private Rented,7188
+2011,Carmarthenshire,W06000010,Wales,Total,Private Rented,9301
+2011,Swansea,W06000011,Wales,Total,Private Rented,15260
+2011,Neath Port Talbot,W06000012,Wales,Total,Private Rented,6186
+2011,Bridgend,W06000013,Wales,Total,Private Rented,7188
+2011,Vale of Glamorgan,W06000014,Wales,Total,Private Rented,7813
+2011,Cardiff,W06000015,Wales,Total,Private Rented,31220
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Private Rented,13604
+2011,Merthyr Tydfil,W06000024,Wales,Total,Private Rented,2809
+2011,Caerphilly,W06000018,Wales,Total,Private Rented,7995
+2011,Blaenau Gwent,W06000019,Wales,Total,Private Rented,3892
+2011,Torfaen,W06000020,Wales,Total,Private Rented,3315
+2011,Monmouthshire,W06000021,Wales,Total,Private Rented,4130
+2011,Newport,W06000022,Wales,Total,Private Rented,8572
+2011,Darlington,E06000005,North East (England),Total,Rent Free,462
+2011,County Durham,E06000047,North East (England),Total,Rent Free,2822
+2011,Hartlepool,E06000001,North East (England),Total,Rent Free,554
+2011,Middlesbrough,E06000002,North East (England),Total,Rent Free,981
+2011,Northumberland,E06000057,North East (England),Total,Rent Free,2559
+2011,Redcar and Cleveland,E06000003,North East (England),Total,Rent Free,642
+2011,Stockton-on-Tees,E06000004,North East (England),Total,Rent Free,667
+2011,Gateshead,E08000037,North East (England),Total,Rent Free,810
+2011,Newcastle upon Tyne,E08000021,North East (England),Total,Rent Free,1541
+2011,North Tyneside,E08000022,North East (England),Total,Rent Free,808
+2011,South Tyneside,E08000023,North East (England),Total,Rent Free,575
+2011,Sunderland,E08000024,North East (England),Total,Rent Free,889
+2011,Blackburn with Darwen,E06000008,North West (England),Total,Rent Free,886
+2011,Blackpool,E06000009,North West (England),Total,Rent Free,709
+2011,Cheshire East,E06000049,North West (England),Total,Rent Free,1817
+2011,Cheshire West and Chester,E06000050,North West (England),Total,Rent Free,1707
+2011,Halton,E06000006,North West (England),Total,Rent Free,541
+2011,Warrington,E06000007,North West (England),Total,Rent Free,721
+2011,Allerdale,E07000026,North West (England),Total,Rent Free,698
+2011,Barrow-in-Furness,E07000027,North West (England),Total,Rent Free,354
+2011,Carlisle,E07000028,North West (England),Total,Rent Free,703
+2011,Copeland,E07000029,North West (England),Total,Rent Free,436
+2011,Eden,E07000030,North West (England),Total,Rent Free,568
+2011,South Lakeland,E07000031,North West (England),Total,Rent Free,868
+2011,Bolton,E08000001,North West (England),Total,Rent Free,1841
+2011,Bury,E08000002,North West (England),Total,Rent Free,994
+2011,Manchester,E08000003,North West (England),Total,Rent Free,3241
+2011,Oldham,E08000004,North West (England),Total,Rent Free,1230
+2011,Rochdale,E08000005,North West (England),Total,Rent Free,1260
+2011,Salford,E08000006,North West (England),Total,Rent Free,1683
+2011,Stockport,E08000007,North West (England),Total,Rent Free,1204
+2011,Tameside,E08000008,North West (England),Total,Rent Free,1075
+2011,Trafford,E08000009,North West (England),Total,Rent Free,988
+2011,Wigan,E08000010,North West (England),Total,Rent Free,1818
+2011,Burnley,E07000117,North West (England),Total,Rent Free,515
+2011,Chorley,E07000118,North West (England),Total,Rent Free,423
+2011,Fylde,E07000119,North West (England),Total,Rent Free,455
+2011,Hyndburn,E07000120,North West (England),Total,Rent Free,395
+2011,Lancaster,E07000121,North West (England),Total,Rent Free,765
+2011,Pendle,E07000122,North West (England),Total,Rent Free,602
+2011,Preston,E07000123,North West (England),Total,Rent Free,835
+2011,Ribble Valley,E07000124,North West (England),Total,Rent Free,363
+2011,Rossendale,E07000125,North West (England),Total,Rent Free,371
+2011,South Ribble,E07000126,North West (England),Total,Rent Free,397
+2011,West Lancashire,E07000127,North West (England),Total,Rent Free,588
+2011,Wyre,E07000128,North West (England),Total,Rent Free,561
+2011,Knowsley,E08000011,North West (England),Total,Rent Free,800
+2011,Liverpool,E08000012,North West (England),Total,Rent Free,2697
+2011,Sefton,E08000014,North West (England),Total,Rent Free,1262
+2011,St. Helens,E08000013,North West (England),Total,Rent Free,1024
+2011,Wirral,E08000015,North West (England),Total,Rent Free,1423
+2011,East Riding of Yorkshire,E06000011,Yorkshire and The Humber,Total,Rent Free,2217
+2011,"Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,Total,Rent Free,1688
+2011,North East Lincolnshire,E06000012,Yorkshire and The Humber,Total,Rent Free,706
+2011,North Lincolnshire,E06000013,Yorkshire and The Humber,Total,Rent Free,996
+2011,York,E06000014,Yorkshire and The Humber,Total,Rent Free,1035
+2011,Craven,E07000163,Yorkshire and The Humber,Total,Rent Free,500
+2011,Hambleton,E07000164,Yorkshire and The Humber,Total,Rent Free,760
+2011,Harrogate,E07000165,Yorkshire and The Humber,Total,Rent Free,1127
+2011,Richmondshire,E07000166,Yorkshire and The Humber,Total,Rent Free,491
+2011,Ryedale,E07000167,Yorkshire and The Humber,Total,Rent Free,648
+2011,Scarborough,E07000168,Yorkshire and The Humber,Total,Rent Free,839
+2011,Selby,E07000169,Yorkshire and The Humber,Total,Rent Free,490
+2011,Barnsley,E08000016,Yorkshire and The Humber,Total,Rent Free,1594
+2011,Doncaster,E08000017,Yorkshire and The Humber,Total,Rent Free,2132
+2011,Rotherham,E08000018,Yorkshire and The Humber,Total,Rent Free,1823
+2011,Sheffield,E08000019,Yorkshire and The Humber,Total,Rent Free,2243
+2011,Bradford,E08000032,Yorkshire and The Humber,Total,Rent Free,2998
+2011,Calderdale,E08000033,Yorkshire and The Humber,Total,Rent Free,1204
+2011,Kirklees,E08000034,Yorkshire and The Humber,Total,Rent Free,3086
+2011,Leeds,E08000035,Yorkshire and The Humber,Total,Rent Free,4854
+2011,Wakefield,E08000036,Yorkshire and The Humber,Total,Rent Free,1327
+2011,Derby,E06000015,East Midlands (England),Total,Rent Free,1199
+2011,Leicester,E06000016,East Midlands (England),Total,Rent Free,1912
+2011,Nottingham,E06000018,East Midlands (England),Total,Rent Free,1894
+2011,Rutland,E06000017,East Midlands (England),Total,Rent Free,268
+2011,Amber Valley,E07000032,East Midlands (England),Total,Rent Free,722
+2011,Bolsover,E07000033,East Midlands (England),Total,Rent Free,505
+2011,Chesterfield,E07000034,East Midlands (England),Total,Rent Free,448
+2011,Derbyshire Dales,E07000035,East Midlands (England),Total,Rent Free,650
+2011,Erewash,E07000036,East Midlands (England),Total,Rent Free,560
+2011,High Peak,E07000037,East Midlands (England),Total,Rent Free,482
+2011,North East Derbyshire,E07000038,East Midlands (England),Total,Rent Free,407
+2011,South Derbyshire,E07000039,East Midlands (England),Total,Rent Free,481
+2011,Blaby,E07000129,East Midlands (England),Total,Rent Free,306
+2011,Charnwood,E07000130,East Midlands (England),Total,Rent Free,769
+2011,Harborough,E07000131,East Midlands (England),Total,Rent Free,401
+2011,Hinckley and Bosworth,E07000132,East Midlands (England),Total,Rent Free,443
+2011,Melton,E07000133,East Midlands (England),Total,Rent Free,338
+2011,North West Leicestershire,E07000134,East Midlands (England),Total,Rent Free,457
+2011,Oadby and Wigston,E07000135,East Midlands (England),Total,Rent Free,212
+2011,Boston,E07000136,East Midlands (England),Total,Rent Free,375
+2011,East Lindsey,E07000137,East Midlands (England),Total,Rent Free,1012
+2011,Lincoln,E07000138,East Midlands (England),Total,Rent Free,599
+2011,North Kesteven,E07000139,East Midlands (England),Total,Rent Free,686
+2011,South Holland,E07000140,East Midlands (England),Total,Rent Free,527
+2011,South Kesteven,E07000141,East Midlands (England),Total,Rent Free,943
+2011,West Lindsey,E07000142,East Midlands (England),Total,Rent Free,662
+2011,Corby,E07000150,East Midlands (England),Total,Rent Free,335
+2011,Daventry,E07000151,East Midlands (England),Total,Rent Free,444
+2011,East Northamptonshire,E07000152,East Midlands (England),Total,Rent Free,442
+2011,Kettering,E07000153,East Midlands (England),Total,Rent Free,562
+2011,Northampton,E07000154,East Midlands (England),Total,Rent Free,1045
+2011,South Northamptonshire,E07000155,East Midlands (England),Total,Rent Free,530
+2011,Wellingborough,E07000156,East Midlands (England),Total,Rent Free,420
+2011,Ashfield,E07000170,East Midlands (England),Total,Rent Free,673
+2011,Bassetlaw,E07000171,East Midlands (England),Total,Rent Free,826
+2011,Broxtowe,E07000172,East Midlands (England),Total,Rent Free,570
+2011,Gedling,E07000173,East Midlands (England),Total,Rent Free,526
+2011,Mansfield,E07000174,East Midlands (England),Total,Rent Free,537
+2011,Newark and Sherwood,E07000175,East Midlands (England),Total,Rent Free,737
+2011,Rushcliffe,E07000176,East Midlands (England),Total,Rent Free,424
+2011,"Herefordshire, County of",E06000019,West Midlands (England),Total,Rent Free,1485
+2011,Shropshire,E06000051,West Midlands (England),Total,Rent Free,2287
+2011,Stoke-on-Trent,E06000021,West Midlands (England),Total,Rent Free,1789
+2011,Telford and Wrekin,E06000020,West Midlands (England),Total,Rent Free,814
+2011,Cannock Chase,E07000192,West Midlands (England),Total,Rent Free,492
+2011,East Staffordshire,E07000193,West Midlands (England),Total,Rent Free,593
+2011,Lichfield,E07000194,West Midlands (England),Total,Rent Free,449
+2011,Newcastle-under-Lyme,E07000195,West Midlands (England),Total,Rent Free,665
+2011,South Staffordshire,E07000196,West Midlands (England),Total,Rent Free,575
+2011,Stafford,E07000197,West Midlands (England),Total,Rent Free,720
+2011,Staffordshire Moorlands,E07000198,West Midlands (England),Total,Rent Free,555
+2011,Tamworth,E07000199,West Midlands (England),Total,Rent Free,300
+2011,North Warwickshire,E07000218,West Midlands (England),Total,Rent Free,318
+2011,Nuneaton and Bedworth,E07000219,West Midlands (England),Total,Rent Free,508
+2011,Rugby,E07000220,West Midlands (England),Total,Rent Free,490
+2011,Stratford-on-Avon,E07000221,West Midlands (England),Total,Rent Free,754
+2011,Warwick,E07000222,West Midlands (England),Total,Rent Free,679
+2011,Birmingham,E08000025,West Midlands (England),Total,Rent Free,7183
+2011,Coventry,E08000026,West Midlands (England),Total,Rent Free,1545
+2011,Dudley,E08000027,West Midlands (England),Total,Rent Free,2133
+2011,Sandwell,E08000028,West Midlands (England),Total,Rent Free,2549
+2011,Solihull,E08000029,West Midlands (England),Total,Rent Free,634
+2011,Walsall,E08000030,West Midlands (England),Total,Rent Free,1420
+2011,Wolverhampton,E08000031,West Midlands (England),Total,Rent Free,1843
+2011,Bromsgrove,E07000234,West Midlands (England),Total,Rent Free,417
+2011,Malvern Hills,E07000235,West Midlands (England),Total,Rent Free,536
+2011,Redditch,E07000236,West Midlands (England),Total,Rent Free,382
+2011,Worcester,E07000237,West Midlands (England),Total,Rent Free,446
+2011,Wychavon,E07000238,West Midlands (England),Total,Rent Free,683
+2011,Wyre Forest,E07000239,West Midlands (England),Total,Rent Free,501
+2011,Bedford,E06000055,East of England,Total,Rent Free,848
+2011,Central Bedfordshire,E06000056,East of England,Total,Rent Free,1189
+2011,Luton,E06000032,East of England,Total,Rent Free,778
+2011,Peterborough,E06000031,East of England,Total,Rent Free,855
+2011,Southend-on-Sea,E06000033,East of England,Total,Rent Free,670
+2011,Thurrock,E06000034,East of England,Total,Rent Free,498
+2011,Cambridge,E07000008,East of England,Total,Rent Free,736
+2011,East Cambridgeshire,E07000009,East of England,Total,Rent Free,869
+2011,Fenland,E07000010,East of England,Total,Rent Free,584
+2011,Huntingdonshire,E07000011,East of England,Total,Rent Free,718
+2011,South Cambridgeshire,E07000012,East of England,Total,Rent Free,853
+2011,Basildon,E07000066,East of England,Total,Rent Free,630
+2011,Braintree,E07000067,East of England,Total,Rent Free,671
+2011,Brentwood,E07000068,East of England,Total,Rent Free,386
+2011,Castle Point,E07000069,East of England,Total,Rent Free,319
+2011,Chelmsford,E07000070,East of England,Total,Rent Free,770
+2011,Colchester,E07000071,East of England,Total,Rent Free,743
+2011,Epping Forest,E07000072,East of England,Total,Rent Free,675
+2011,Harlow,E07000073,East of England,Total,Rent Free,301
+2011,Maldon,E07000074,East of England,Total,Rent Free,291
+2011,Rochford,E07000075,East of England,Total,Rent Free,272
+2011,Tendring,E07000076,East of England,Total,Rent Free,808
+2011,Uttlesford,E07000077,East of England,Total,Rent Free,501
+2011,Broxbourne,E07000095,East of England,Total,Rent Free,284
+2011,Dacorum,E07000096,East of England,Total,Rent Free,536
+2011,East Hertfordshire,E07000242,East of England,Total,Rent Free,773
+2011,Hertsmere,E07000098,East of England,Total,Rent Free,497
+2011,North Hertfordshire,E07000099,East of England,Total,Rent Free,585
+2011,St Albans,E07000240,East of England,Total,Rent Free,592
+2011,Stevenage,E07000243,East of England,Total,Rent Free,255
+2011,Three Rivers,E07000102,East of England,Total,Rent Free,356
+2011,Watford,E07000103,East of England,Total,Rent Free,289
+2011,Welwyn Hatfield,E07000241,East of England,Total,Rent Free,571
+2011,Breckland,E07000143,East of England,Total,Rent Free,977
+2011,Broadland,E07000144,East of England,Total,Rent Free,603
+2011,Great Yarmouth,E07000145,East of England,Total,Rent Free,679
+2011,King's Lynn and West Norfolk,E07000146,East of England,Total,Rent Free,1324
+2011,North Norfolk,E07000147,East of England,Total,Rent Free,986
+2011,Norwich,E07000148,East of England,Total,Rent Free,653
+2011,South Norfolk,E07000149,East of England,Total,Rent Free,836
+2011,Babergh,E07000200,East of England,Total,Rent Free,737
+2011,Forest Heath,E07000201,East of England,Total,Rent Free,914
+2011,Ipswich,E07000202,East of England,Total,Rent Free,671
+2011,Mid Suffolk,E07000203,East of England,Total,Rent Free,642
+2011,St Edmundsbury,E07000204,East of England,Total,Rent Free,681
+2011,Suffolk Coastal,E07000205,East of England,Total,Rent Free,798
+2011,Waveney,E07000206,East of England,Total,Rent Free,652
+2011,Camden,E09000007,London,Total,Rent Free,1763
+2011,City of London,E09000001,London,Total,Rent Free,219
+2011,Hackney,E09000012,London,Total,Rent Free,1258
+2011,Hammersmith and Fulham,E09000013,London,Total,Rent Free,1248
+2011,Haringey,E09000014,London,Total,Rent Free,1482
+2011,Islington,E09000019,London,Total,Rent Free,1226
+2011,Kensington and Chelsea,E09000020,London,Total,Rent Free,2450
+2011,Lambeth,E09000022,London,Total,Rent Free,1393
+2011,Lewisham,E09000023,London,Total,Rent Free,1159
+2011,Newham,E09000025,London,Total,Rent Free,1229
+2011,Southwark,E09000028,London,Total,Rent Free,1502
+2011,Tower Hamlets,E09000030,London,Total,Rent Free,1252
+2011,Wandsworth,E09000032,London,Total,Rent Free,1356
+2011,Westminster,E09000033,London,Total,Rent Free,3303
+2011,Barking and Dagenham,E09000002,London,Total,Rent Free,664
+2011,Barnet,E09000003,London,Total,Rent Free,2187
+2011,Bexley,E09000004,London,Total,Rent Free,763
+2011,Brent,E09000005,London,Total,Rent Free,1554
+2011,Bromley,E09000006,London,Total,Rent Free,1223
+2011,Croydon,E09000008,London,Total,Rent Free,1566
+2011,Ealing,E09000009,London,Total,Rent Free,1834
+2011,Enfield,E09000010,London,Total,Rent Free,1703
+2011,Greenwich,E09000011,London,Total,Rent Free,1080
+2011,Harrow,E09000015,London,Total,Rent Free,1199
+2011,Havering,E09000016,London,Total,Rent Free,779
+2011,Hillingdon,E09000017,London,Total,Rent Free,1030
+2011,Hounslow,E09000018,London,Total,Rent Free,1207
+2011,Kingston upon Thames,E09000021,London,Total,Rent Free,629
+2011,Merton,E09000024,London,Total,Rent Free,792
+2011,Redbridge,E09000026,London,Total,Rent Free,1173
+2011,Richmond upon Thames,E09000027,London,Total,Rent Free,993
+2011,Sutton,E09000029,London,Total,Rent Free,560
+2011,Waltham Forest,E09000031,London,Total,Rent Free,1004
+2011,Bracknell Forest,E06000036,South East (England),Total,Rent Free,520
+2011,Brighton and Hove,E06000043,South East (England),Total,Rent Free,1559
+2011,Isle of Wight,E06000046,South East (England),Total,Rent Free,744
+2011,Medway,E06000035,South East (England),Total,Rent Free,1093
+2011,Milton Keynes,E06000042,South East (England),Total,Rent Free,857
+2011,Portsmouth,E06000044,South East (England),Total,Rent Free,1042
+2011,Reading,E06000038,South East (England),Total,Rent Free,624
+2011,Slough,E06000039,South East (England),Total,Rent Free,501
+2011,Southampton,E06000045,South East (England),Total,Rent Free,1052
+2011,West Berkshire,E06000037,South East (England),Total,Rent Free,1027
+2011,Windsor and Maidenhead,E06000040,South East (England),Total,Rent Free,1135
+2011,Wokingham,E06000041,South East (England),Total,Rent Free,559
+2011,Aylesbury Vale,E07000004,South East (England),Total,Rent Free,888
+2011,Chiltern,E07000005,South East (England),Total,Rent Free,384
+2011,South Bucks,E07000006,South East (England),Total,Rent Free,382
+2011,Wycombe,E07000007,South East (England),Total,Rent Free,929
+2011,Eastbourne,E07000061,South East (England),Total,Rent Free,482
+2011,Hastings,E07000062,South East (England),Total,Rent Free,409
+2011,Lewes,E07000063,South East (England),Total,Rent Free,531
+2011,Rother,E07000064,South East (England),Total,Rent Free,614
+2011,Wealden,E07000065,South East (England),Total,Rent Free,1037
+2011,Basingstoke and Deane,E07000084,South East (England),Total,Rent Free,903
+2011,East Hampshire,E07000085,South East (England),Total,Rent Free,710
+2011,Eastleigh,E07000086,South East (England),Total,Rent Free,414
+2011,Fareham,E07000087,South East (England),Total,Rent Free,412
+2011,Gosport,E07000088,South East (England),Total,Rent Free,342
+2011,Hart,E07000089,South East (England),Total,Rent Free,353
+2011,Havant,E07000090,South East (England),Total,Rent Free,519
+2011,New Forest,E07000091,South East (England),Total,Rent Free,1019
+2011,Rushmoor,E07000092,South East (England),Total,Rent Free,302
+2011,Test Valley,E07000093,South East (England),Total,Rent Free,832
+2011,Winchester,E07000094,South East (England),Total,Rent Free,946
+2011,Ashford,E07000105,South East (England),Total,Rent Free,700
+2011,Canterbury,E07000106,South East (England),Total,Rent Free,879
+2011,Dartford,E07000107,South East (England),Total,Rent Free,393
+2011,Dover,E07000108,South East (England),Total,Rent Free,805
+2011,Gravesham,E07000109,South East (England),Total,Rent Free,495
+2011,Maidstone,E07000110,South East (England),Total,Rent Free,754
+2011,Sevenoaks,E07000111,South East (England),Total,Rent Free,747
+2011,Folkestone and Hythe,E07000112,South East (England),Total,Rent Free,619
+2011,Swale,E07000113,South East (England),Total,Rent Free,677
+2011,Thanet,E07000114,South East (England),Total,Rent Free,712
+2011,Tonbridge and Malling,E07000115,South East (England),Total,Rent Free,546
+2011,Tunbridge Wells,E07000116,South East (England),Total,Rent Free,656
+2011,Cherwell,E07000177,South East (England),Total,Rent Free,904
+2011,Oxford,E07000178,South East (England),Total,Rent Free,1081
+2011,South Oxfordshire,E07000179,South East (England),Total,Rent Free,810
+2011,Vale of White Horse,E07000180,South East (England),Total,Rent Free,827
+2011,West Oxfordshire,E07000181,South East (England),Total,Rent Free,742
+2011,Elmbridge,E07000207,South East (England),Total,Rent Free,645
+2011,Epsom and Ewell,E07000208,South East (England),Total,Rent Free,244
+2011,Guildford,E07000209,South East (England),Total,Rent Free,693
+2011,Mole Valley,E07000210,South East (England),Total,Rent Free,492
+2011,Reigate and Banstead,E07000211,South East (England),Total,Rent Free,490
+2011,Runnymede,E07000212,South East (England),Total,Rent Free,473
+2011,Spelthorne,E07000213,South East (England),Total,Rent Free,386
+2011,Surrey Heath,E07000214,South East (England),Total,Rent Free,346
+2011,Tandridge,E07000215,South East (England),Total,Rent Free,451
+2011,Waverley,E07000216,South East (England),Total,Rent Free,849
+2011,Woking,E07000217,South East (England),Total,Rent Free,380
+2011,Adur,E07000223,South East (England),Total,Rent Free,318
+2011,Arun,E07000224,South East (England),Total,Rent Free,789
+2011,Chichester,E07000225,South East (England),Total,Rent Free,1082
+2011,Crawley,E07000226,South East (England),Total,Rent Free,503
+2011,Horsham,E07000227,South East (England),Total,Rent Free,807
+2011,Mid Sussex,E07000228,South East (England),Total,Rent Free,776
+2011,Worthing,E07000229,South East (England),Total,Rent Free,409
+2011,Bath and North East Somerset,E06000022,South West (England),Total,Rent Free,1018
+2011,Bournemouth,E06000028,South West (England),Total,Rent Free,857
+2011,"Bristol, City of",E06000023,South West (England),Total,Rent Free,2543
+2011,Cornwall,E06000052,South West (England),Total,Rent Free,3848
+2011,Isles of Scilly,E06000053,South West (England),Total,Rent Free,96
+2011,North Somerset,E06000024,South West (England),Total,Rent Free,947
+2011,Plymouth,E06000026,South West (England),Total,Rent Free,1188
+2011,Poole,E06000029,South West (England),Total,Rent Free,672
+2011,South Gloucestershire,E06000025,South West (England),Total,Rent Free,1222
+2011,Swindon,E06000030,South West (England),Total,Rent Free,789
+2011,Torbay,E06000027,South West (England),Total,Rent Free,574
+2011,Wiltshire,E06000054,South West (England),Total,Rent Free,3089
+2011,East Devon,E07000040,South West (England),Total,Rent Free,913
+2011,Exeter,E07000041,South West (England),Total,Rent Free,607
+2011,Mid Devon,E07000042,South West (England),Total,Rent Free,601
+2011,North Devon,E07000043,South West (England),Total,Rent Free,690
+2011,South Hams,E07000044,South West (England),Total,Rent Free,564
+2011,Teignbridge,E07000045,South West (England),Total,Rent Free,659
+2011,Torridge,E07000046,South West (England),Total,Rent Free,521
+2011,West Devon,E07000047,South West (England),Total,Rent Free,380
+2011,Christchurch,E07000048,South West (England),Total,Rent Free,221
+2011,East Dorset,E07000049,South West (England),Total,Rent Free,491
+2011,North Dorset,E07000050,South West (England),Total,Rent Free,492
+2011,Purbeck,E07000051,South West (England),Total,Rent Free,354
+2011,West Dorset,E07000052,South West (England),Total,Rent Free,941
+2011,Weymouth and Portland,E07000053,South West (England),Total,Rent Free,346
+2011,Cheltenham,E07000078,South West (England),Total,Rent Free,538
+2011,Cotswold,E07000079,South West (England),Total,Rent Free,1086
+2011,Forest of Dean,E07000080,South West (England),Total,Rent Free,538
+2011,Gloucester,E07000081,South West (England),Total,Rent Free,479
+2011,Stroud,E07000082,South West (England),Total,Rent Free,633
+2011,Tewkesbury,E07000083,South West (England),Total,Rent Free,411
+2011,Mendip,E07000187,South West (England),Total,Rent Free,761
+2011,Sedgemoor,E07000188,South West (England),Total,Rent Free,662
+2011,South Somerset,E07000189,South West (England),Total,Rent Free,1135
+2011,Taunton Deane,E07000190,South West (England),Total,Rent Free,715
+2011,West Somerset,E07000191,South West (England),Total,Rent Free,332
+2011,Isle of Anglesey,W06000001,Wales,Total,Rent Free,749
+2011,Gwynedd,W06000002,Wales,Total,Rent Free,1357
+2011,Conwy,W06000003,Wales,Total,Rent Free,818
+2011,Denbighshire,W06000004,Wales,Total,Rent Free,716
+2011,Flintshire,W06000005,Wales,Total,Rent Free,610
+2011,Wrexham,W06000006,Wales,Total,Rent Free,968
+2011,Powys,W06000023,Wales,Total,Rent Free,1277
+2011,Ceredigion,W06000008,Wales,Total,Rent Free,658
+2011,Pembrokeshire,W06000009,Wales,Total,Rent Free,924
+2011,Carmarthenshire,W06000010,Wales,Total,Rent Free,1352
+2011,Swansea,W06000011,Wales,Total,Rent Free,1792
+2011,Neath Port Talbot,W06000012,Wales,Total,Rent Free,1072
+2011,Bridgend,W06000013,Wales,Total,Rent Free,737
+2011,Vale of Glamorgan,W06000014,Wales,Total,Rent Free,566
+2011,Cardiff,W06000015,Wales,Total,Rent Free,2062
+2011,Rhondda Cynon Taff,W06000016,Wales,Total,Rent Free,1476
+2011,Merthyr Tydfil,W06000024,Wales,Total,Rent Free,452
+2011,Caerphilly,W06000018,Wales,Total,Rent Free,674
+2011,Blaenau Gwent,W06000019,Wales,Total,Rent Free,316
+2011,Torfaen,W06000020,Wales,Total,Rent Free,392
+2011,Monmouthshire,W06000021,Wales,Total,Rent Free,532
+2011,Newport,W06000022,Wales,Total,Rent Free,881
